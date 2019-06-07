@@ -1,0 +1,244 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>L'Accordeur
+<pstyle:TITRE_ANG>(Nastroyshchik)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Russie-Ukraine/2004/155'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Georgiy Deliev, Alla Demidova, Renata Litvinova.
+<pstyle:SYNOPSIS>Andreï, un accordeur de piano qui peine à subvenir aux besoins de sa compagne Lina, gagne la confiance de deux riches veuves, Luba et Anna Sergeevna, afin de les escroquer.
+<pstyle:><cstyle:INFOSBLEUES>di 29 sepXXX17h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>ve 18 octXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Brèves rencontres
+<pstyle:TITRE_ANG>(Korotkie vstretchi)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1988/92'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Kira Mouratova, Vladimir Vyssotski, Nina Rouslanova.
+<pstyle:SYNOPSIS>Valentina est responsable du logement dans une petite ville. Confrontée à l'impatience des postulants pour un logement et à la corruption des constructeurs, elle a un amant, Maxime, qui est surtout soucieux de sa propre liberté. Elle découvre que sa femme de ménage, plus jeune qu'elle, est aussi la maitresse de Maxime...
+<pstyle:><cstyle:INFOSBLEUES>me 25 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Ouverture de la rétrospective
+<cstyle:INFOSBLEUES>me 09 octXXX21h45XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Changement de destinée
+<pstyle:TITRE_ANG>(Peremena uchasti)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1984/103'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après la nouvelle <cSkew:9>The Letter<cSkew:> de W. Somerset Maugham et W. Somerset Maugham.
+<pstyle:TECHNIQUE>Avec Natalia Leble, Natalia Leble, Viktor Aristov, Viktor Aristov.
+<pstyle:SYNOPSIS>Maria est arrêtée et emprisonnée pour le meurtre d'Aleksandr. Filipp, son époux, ne croit pas que sa femme en soit capable et cherche à prouver son innocence, tandis que des souvenirs du passé reviennent à la mémoire de Maria.
+<pstyle:><cstyle:INFOSBLEUES>sa 28 sepXXX21h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>di 13 octXXX18h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Citoyens de deuxième classe
+<pstyle:TITRE_ANG>(Vtorostepennye lyudi)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Ukraine/2000/107'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Natalia Bouzko, Sergueï Tchetbertkov, Nikolaï Sednev.
+<pstyle:SYNOPSIS>Un médecin qui a veillé toute la nuit auprès d'un patient mourant est amené à faire la connaissance de la jeune Véra. Cette rencontre va changer le cours de sa journée et bouleverser sa vie.
+<pstyle:><cstyle:INFOSBLEUES>je 03 octXXX21h30XXX
+<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>me 16 octXXX21h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Deux en un
+<pstyle:TITRE_ANG>(Dva v odnom)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Ukraine-Russie/2006/124'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Aleksandr Bachirov, Sergueï Bekhterev, Natalia Bouzko.
+<pstyle:SYNOPSIS>Un spectacle est joué malgré le suicide d'un acteur ainsi que les rivalités et règlements de compte au sein de la troupe. Parallèlement, Andreï vit seul avec sa fille. Lorsque cette dernière invite une amie le soir du Nouvel An, il cherche à assouvir ses fantasmes.
+<pstyle:><cstyle:INFOSBLEUES>ve 04 octXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>sa 19 octXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>En découvrant le vaste monde
+<pstyle:TITRE_ANG>(Poznavaya belyy svet)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1979/78'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Alekseï Jarkov, Nina Rouslanova, Sergueï Popov.
+<pstyle:SYNOPSIS>La relation qu'entretiennent Nikolaï et Luba est complexe et agitée. Tous deux peinent en effet à s'accorder sur la nature exacte de leur liaison. Lorsque Luba fait la rencontre de Mikhaïl, un triangle amoureux se forme.
+<pstyle:><cstyle:INFOSBLEUES>je 26 sepXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>me 16 octXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>L'Éternel retour
+<pstyle:TITRE_ANG>(Vechnoe vozvrashchenie)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Ukraine/2012/116'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Alla Demidova, Renata Litvinova, Serguei Makovetsky.
+<pstyle:SYNOPSIS>Le film s'inspire d'une histoire vraie survenue à Kira Mouratova, quand un étudiant du même cours qu'elle a commencé à lui raconter comme il se sentait déchiré entre sa femme et sa maîtresse, qu'il aimait toutes les deux sincèrement.
+<pstyle:><cstyle:INFOSBLEUES>sa 05 octXXX21h00XXX
+<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>di 20 octXXX17h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Les Longs adieux
+<pstyle:TITRE_ANG>(Dolgie provody)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1988/94'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Zinaida Charko, Oleg Vladimirski, Youri Kaiourov.
+<pstyle:SYNOPSIS>Evguenia élève seule son fils qui, devenu adolescent, décide de partir vivre avec son père. Elle fera tout pour le retenir.
+<pstyle:><cstyle:INFOSBLEUES>sa 28 sepXXX17h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>ve 11 octXXX22h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Mélodie pour orgue de barbarie
+<pstyle:TITRE_ANG>(Melodiya dlya sharmanki)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Ukraine/2009/153'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Lena Kostiouk, Roma Bourlaka, Natalia Bouzko.
+<pstyle:SYNOPSIS>À la mort de leur mère, Nikita et Aliona, demi-frère et s<0x0153>ur, se lancent ensemble à la recherche de leur père respectif. Mais, seuls dans la grande ville, la veille de Noël, leur quête va progressivement tourner au drame.
+<pstyle:><cstyle:INFOSBLEUES>sa 05 octXXX18h00XXX
+<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>sa 19 octXXX16h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Le Milicien amoureux
+<pstyle:TITRE_ANG>(Chuvstvitelnyy militsioner)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Ukraine-France/1993/115'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Nikolaï Chatokhine, Irina Kovalenko, Natalia Ralleva.
+<pstyle:SYNOPSIS>Le milicien Tolia découvre un bébé abandonné dans un champ. Peu à peu, il s'attache à l'enfant et espère pouvoir l'adopter.
+<pstyle:><cstyle:INFOSBLEUES>di 29 sepXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>je 10 octXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Motifs tchékhoviens
+<pstyle:TITRE_ANG>(Chekhovskie motivy)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Ukraine/2001/120'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après le récit <cSkew:9>Les Gens difficiles<cSkew:> et la pièce <cSkew:9>Tatiana Repina<cSkew:> d'Anton Tchekhov.
+<pstyle:TECHNIQUE>Avec Aleksandr Bachirov, Sergueï Bekhterev, Natalia Bouzko, Jan Daniel.
+<pstyle:SYNOPSIS>Lorsque le fils ainé d'une famille de fermiers annonce qu'il souhaite s'installer en ville et demande de l'argent à son père, l'équilibre fragile du foyer cède sa place à des déchainements et des affrontements familiaux.
+<pstyle:><cstyle:INFOSBLEUES>lu 30 sepXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>je 17 octXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Notre pain honnête
+<pstyle:TITRE_ANG>(Nash chestnyy khleb)
+<pstyle:TECHNIQUE>d'Alexandre Mouratov, Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1964/98'
+<pstyle:TECHNIQUE>Avec Dmitri Milioutenko.
+<pstyle:SYNOPSIS>Makar, un responsable de kolkhoze, doit faire face a l'indifférence de la direction du parti qui a décidé de l'envoyer à la retraite. La mauvaise gestion et l'exploitation négligée du sol semblent mener le kolkhoze à un appauvrissement collectif.
+<pstyle:><cstyle:INFOSBLEUES>sa 28 sepXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>me 09 octXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Parmi les pierres grises
+<pstyle:TITRE_ANG>(Sredi seryh kamnej)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1983/83'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Stanislav Govoroukhine, Viktor Aristov, Sergueï Popov.
+<pstyle:SYNOPSIS>Un juge récemment veuf est obsédé par les souvenirs de sa femme et sa vie actuelle ne lui procure que dépit et irritation. Son fils Vasia aspire à s'affranchir de la maison parentale. Valiok et Marousia, enfants de pauvres gens, deviennent ses amis.
+<pstyle:><cstyle:INFOSBLEUES>sa 28 sepXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>sa 12 octXXX20h45XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Les Petites passions
+<pstyle:TITRE_ANG>(Uvlecheniya)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Russie/1993/112'/VOSTF/Vidéo
+<pstyle:TECHNIQUE>Avec Svetlana Kolenda, Renata Litvinova, Albina Skarga.
+<pstyle:SYNOPSIS>Lilia et Violetta s'intéressent à la course, et deux jockeys veulent conquérir les jeunes filles. Intrigues amoureuses et sportives vont s'entremêler.
+<pstyle:><cstyle:INFOSBLEUES>me 02 octXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>je 10 octXXX21h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Le Syndrome asthénique
+<pstyle:TITRE_ANG>(Astenitchevski sindrom)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1991/153'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Olga Antonova, Viktor Aristov, Sergueï Popov.
+<pstyle:SYNOPSIS>Une mère de famille veuve et un instituteur brisé par les problèmes personnels et professionnels se voient plongés dans une profonde dépression, et réagissent de façons très différentes à la pression qu'exerce sur eux la société.
+<pstyle:><cstyle:INFOSBLEUES>ve 27 sepXXX20h30XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>ve 11 octXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Trois histoires
+<pstyle:TITRE_ANG>(Tri istorii)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Russie-Ukraine/1996/113'/VOSTF
+<pstyle:TECHNIQUE>Avec Serguei Makovetsky, Leonid Kouchnir, Jan Daniel.
+<pstyle:SYNOPSIS>L'histoire glaçante de Tikhomirov qui ne supporte plus sa voisine envahissante, le récit d'une infirmière aigrie par son passé, et la confrontation cruelle et impitoyable entre une fillette et un vieillard.
+<pstyle:><cstyle:INFOSBLEUES>je 03 octXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>sa 12 octXXX18h15XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:CATEGORIE>Courts métrages
+
+<pstyle:TITRE>Pluie de printemps
+<pstyle:TITRE_ANG>(Vesenniy dozhd)
+<pstyle:TECHNIQUE>d'Alexandre Mouratov, Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1958/27'/VOSTF/DCP
+<pstyle:SYNOPSIS>Dans un train de banlieue, Kolia rencontre la jeune Katia. Ils font connaissance et commencent à se fréquenter, mais leur idylle va bientôt tourner court.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Au bord du ravin abrupt
+<pstyle:TITRE_ANG>(U krutogo yara)
+<pstyle:TECHNIQUE>d'Alexandre Mouratov, Kira Mouratova
+<pstyle:TECHNIQUE>URSS/1962/45'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Valeri Issakov, Marcella Tchebotarenko.
+<pstyle:SYNOPSIS>Senia, un villageois appréciant la chasse et le calme de la nature, est chargé d'abattre une famille de loups rodant dans la forêt et menaçant le kolkhoze. Mais sa traque ne s'avère pas aisée et un conflit intérieur va rapidement agiter le chasseur.
+<pstyle:><cstyle:INFOSBLEUES>di 06 octXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>sa 12 octXXX16h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Lettre à l'Amérique
+<pstyle:TITRE_ANG>(Pismo v Ameriku)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Ukraine/1999/19'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Sergueï Tchetbertkov, Outa Kilter, Pavel Makarov.
+<pstyle:SYNOPSIS>Igor enregistre un message audiovisuel pour son ancien amour émigré aux États-Unis. Peu inspiré, il en vient à discuter avec Lena, à qui il sous-loue son appartement, et qui lui doit deux mois de loyer...
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>L'Attestation
+<pstyle:TITRE_ANG>(Spravka)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Russie/2004/10'/VOSTF/Vidéo
+<pstyle:TECHNIQUE>Avec Inga Doronina, Yuriy Nevgamonnyy, Nina Rouslanova.
+<pstyle:SYNOPSIS>Quand Grigori arrive au cabinet où sa mère est soignée par le docteur Rita, ce dernier l'informe qu'elle est décédée durant la nuit.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>La Poupée
+<pstyle:TITRE_ANG>(Kukla)
+<pstyle:TECHNIQUE>de Kira Mouratova
+<pstyle:TECHNIQUE>Ukraine/2007/33'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Natalia Bouzko, Leonid Kouchnir, Yuriy Nevgamonnyy.
+<pstyle:SYNOPSIS>Tania, peintre de rue, est abordée par Sacha, un ami de son ex-mari Boris. Ce dernier a confié à son compagnon le soin d'offrir à Tania une importante somme d'argent, ce qui fait le bonheur de la jeune artiste.
+<pstyle:><cstyle:INFOSBLEUES>ve 27 sepXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>di 06 octXXX18h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:CATEGORIE>Kira Mouratova actrice
+
+<pstyle:TITRE>Une tournée dangereuse
+<pstyle:TITRE_ANG>(Opasnye gastroli)
+<pstyle:TECHNIQUE>de Georgi Yungvald-Khilkevich
+<pstyle:TECHNIQUE>URSS/1969/87'/DCP
+<pstyle:TECHNIQUE>Avec Nikolay Grinko, Vladimir Vysotskiy, Yefim Kopelyan.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Docteur
+<pstyle:TITRE_ANG>(Doctor)
+<pstyle:TECHNIQUE>de Vladimir Bortko
+<pstyle:TECHNIQUE>URSS/1974/25'/VOSTF/DCP
+<pstyle:><cstyle:INFOSBLEUES>di 29 sepXXX21h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>di 13 octXXX20h15XXX
+<cstyle:SALLESBLEUES>C
+
