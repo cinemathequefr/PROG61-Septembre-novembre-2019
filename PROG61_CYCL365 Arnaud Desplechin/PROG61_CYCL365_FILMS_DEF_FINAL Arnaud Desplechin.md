@@ -74,6 +74,12 @@ France / 1992
 Avec Emmanuel Salinger, Thibault de Montalembert, Bruno Todeschini, Marianne Denicourt.  
 Lors d'un voyage en train, Mathias découvre dans sa valise une tête humaine momifiée. Dès lors, il n'aura de cesse d'en percer le mystère, s'enfermant dans son obsession et s'isolant peu à peu du monde.
 
+[75848]  
+**Sobibor, 14 octobre 1943, 16 heures**  
+de Claude Lanzmann  
+France / 2000  
+Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
+
 [126923]  
 **Trois souvenirs de ma jeunesse**  
 d'Arnaud Desplechin  

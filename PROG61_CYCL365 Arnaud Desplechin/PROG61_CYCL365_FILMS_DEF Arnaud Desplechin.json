@@ -189,6 +189,19 @@
     ]
   },
   {
+    "titre": "Sobibor, 14 octobre 1943, 16 heures",
+    "titreVo": "",
+    "idFilm": 75848,
+    "ageMinimal": null,
+    "realisateurs": "Claude Lanzmann",
+    "annee": 2000,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre."
+    }]
+  },
+  {
     "titre": "Trois souvenirs de ma jeunesse",
     "titreVo": "",
     "annee": 2015,

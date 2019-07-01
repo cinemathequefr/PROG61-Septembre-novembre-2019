@@ -4,7 +4,7 @@
 
 <pstyle:TITRE>L'Aimée
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/2007/65'/35mm
+<pstyle:TECHNIQUE>France/2007
 <pstyle:TECHNIQUE>Avec Robert Desplechin, Arnaud Desplechin, Fabrice Desplechin.
 <pstyle:SYNOPSIS>À l'occasion de la vente de la maison familiale, Arnaud Desplechin revient, en compagnie de son père, de son frère et de ses neveux, sur l'histoire de sa grand-mère.
 <pstyle:><cstyle:INFOSBLEUES>je 29 aoûXXX21h30XXX
@@ -13,7 +13,7 @@
 
 <pstyle:TITRE>Comment je me suis disputé... (Ma vie sexuelle)
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/1996/178'/DCP
+<pstyle:TECHNIQUE>France/1996
 <pstyle:TECHNIQUE>Avec Mathieu Amalric, Thibault de Montalembert, Emmanuelle Devos, Marianne Denicourt.
 <pstyle:SYNOPSIS>Paul Dédalus, trentenaire parisien et maître-assistant à Nanterre, essaie de finir sa thèse tout en se séparant de sa compagne, avec qui il vit une relation tumultueuse depuis dix ans.
 <pstyle:><cstyle:INFOSBLEUES>sa 31 aoûXXX19h45XXX
@@ -22,7 +22,7 @@
 
 <pstyle:TITRE>Esther Kahn
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France-Grande-Bretagne/2000/157'/VOSTF/35mm
+<pstyle:TECHNIQUE>France-Grande-Bretagne/2000
 <pstyle:TECHNIQUE>D'après le roman <cSkew:9>Esther Kahn<cSkew:> d'Arthur Symons.
 <pstyle:TECHNIQUE>Avec Summer Phoenix, Ian Holm, Emmanuelle Devos.
 <pstyle:SYNOPSIS>Londres, fin du XIX<cPosition:Superscript>e<cPosition:> siècle. Timide et rêveuse, la jeune Esther vit dans le quartier juif et travaille dans l'atelier de couture familial. Elle se rend parfois au théâtre et se retrouve un jour figurante. Ses premiers pas sur les planches sont une révélation.
@@ -32,7 +32,7 @@
 
 <pstyle:TITRE>Les Fantômes d'Ismaël
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/2017/135'/DCP
+<pstyle:TECHNIQUE>France/2017
 <pstyle:TECHNIQUE>Avec Mathieu Amalric, Marion Cotillard, Charlotte Gainsbourg.
 <pstyle:SYNOPSIS>À la veille du tournage de son nouveau film, un cinéaste voit réapparaître dans sa vie son ancien amour perdu.
 <pstyle:><cstyle:INFOSBLEUES>di 01 sepXXX20h00XXX
@@ -41,7 +41,7 @@
 
 <pstyle:TITRE>La Forêt
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/2014/90'/DCP
+<pstyle:TECHNIQUE>France/2014
 <pstyle:TECHNIQUE>Avec Michel Vuillermoz, Denis Podalydès.
 <pstyle:SYNOPSIS>Dans la Russie du XIX<cPosition:Superscript>e<cPosition:> siècle, une riche veuve vieillissante et guindée s'éprend d'un jeune aristocrate sans le sou. Elle est sur le point de lui céder les bois de son domaine quand survient son neveu, héritier de la propriété.
 <pstyle:><cstyle:INFOSBLEUES>je 29 aoûXXX19h00XXX
@@ -49,9 +49,9 @@
 <pstyle:EVENEMENT>Séance présentée par Michel Vuillermoz
 
 <pstyle:TITRE>Jimmy P. (Psychothérapie d'un Indien des plaines)
-<pstyle:TITRE_ANG>(Jimmy P. (Psychotherapy of a Plains Indian))
+<pstyle:TITRE_ANG>(Jimmy P., Psychotherapy of a Plains Indian)
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>États-Unis/2013/120'/VOSTF/DCP
+<pstyle:TECHNIQUE>États-Unis/2013
 <pstyle:TECHNIQUE>D'après le livre <cSkew:9>Psychothérapie d'un Indien des Plaines<cSkew:> de Georges Devereux.
 <pstyle:TECHNIQUE>Avec Benicio Del Toro, Mathieu Amalric, Gina McKee.
 <pstyle:SYNOPSIS>Au lendemain de la Seconde Guerre mondiale, un vétéran de la tribu des Blackfoot, qui semble atteint de schizophrénie, est interné dans le Kansas. La direction de l'hôpital décide de consulter un ethnologue français, spécialiste des cultures amérindiennes.
@@ -61,7 +61,7 @@
 
 <pstyle:TITRE>Léo en jouant «<0x00A0>Dans la compagnie des hommes<0x00A0>»
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/2004/118'/35mm
+<pstyle:TECHNIQUE>France/2004
 <pstyle:TECHNIQUE>D'après la pièce de théâtre <cSkew:9>La Compagnie des hommes<cSkew:> d'Edward Bond.
 <pstyle:TECHNIQUE>Avec Sami Bouajila, Jean-Paul Roussillon, Wladimir Yordanoff, László Szabó.
 <pstyle:SYNOPSIS>Henri Jurrieu, puissant industriel de l'armement, annonce à la télévision l'échec d'une tentative d'OPA sur sa société. Dans le salon de sa luxueuse résidence, son fils adoptif, son administrateur et son domestique assistent à son triomphe.
@@ -71,7 +71,7 @@
 
 <pstyle:TITRE>Rois et reine
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/2004/151'/35mm
+<pstyle:TECHNIQUE>France/2004
 <pstyle:TECHNIQUE>Avec Emmanuelle Devos, Mathieu Amalric, Catherine Deneuve.
 <pstyle:SYNOPSIS>Nora est sur le point d'épouser un homme puissant. Ismaël, son ancien compagnon, est interné par erreur dans un asile psychiatrique. Leurs destins se rejoignent lorsque Nora propose à Ismaël d'adopter son fils.
 <pstyle:><cstyle:INFOSBLEUES>me 28 aoûXXX20h00XXX
@@ -83,7 +83,7 @@
 
 <pstyle:TITRE>Roubaix, une lumière
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/2018/119'/DCP
+<pstyle:TECHNIQUE>France/2018
 <pstyle:TECHNIQUE>Avec Roschdy Zem, Léa Seydoux, Sara Forestier, Antoine Reinartz.
 <pstyle:SYNOPSIS>Roubaix, un soir de Noël. Daoud, chef de la police locale et Louis, fraîchement diplômé, font face au meurtre d'une vieille femme. Les voisines de la victime, deux jeunes femmes, amantes, alcooliques et toxicomanes, sont arrêtées.
 <pstyle:><cstyle:INFOSBLEUES>di 08 sepXXX17h00XXX
@@ -91,7 +91,7 @@
 
 <pstyle:TITRE>La Sentinelle
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/1992/139'/DCP
+<pstyle:TECHNIQUE>France/1992
 <pstyle:TECHNIQUE>Avec Emmanuel Salinger, Thibault de Montalembert, Bruno Todeschini, Marianne Denicourt.
 <pstyle:SYNOPSIS>Lors d'un voyage en train, Mathias découvre dans sa valise une tête humaine momifiée. Dès lors, il n'aura de cesse d'en percer le mystère, s'enfermant dans son obsession et s'isolant peu à peu du monde.
 <pstyle:><cstyle:INFOSBLEUES>sa 31 aoûXXX16h30XXX
@@ -100,7 +100,7 @@
 
 <pstyle:TITRE>Trois souvenirs de ma jeunesse
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/2015/124'/DCP
+<pstyle:TECHNIQUE>France/2015
 <pstyle:TECHNIQUE>Avec Mathieu Amalric, Olivier Rabourdin, Lou Roy-Lecollinet, Quentin Dolmaire.
 <pstyle:SYNOPSIS>Paul Dédalus revient en France après plusieurs années d'absence, et se remémore des scènes de sa jeunesse<0x00A0>: sa famille et son enfance à Roubaix, un souvenir d'adolescent lors d'un voyage en URSS, et son histoire d'amour avec Esther.
 <pstyle:><cstyle:INFOSBLEUES>di 08 sepXXX14h00XXX
@@ -109,7 +109,7 @@
 
 <pstyle:TITRE>Un conte de Noël
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/2008/150'/35mm
+<pstyle:TECHNIQUE>France/2008
 <pstyle:TECHNIQUE>D'après le roman <cSkew:9>La Greffe<cSkew:> de Jacques Asher et Jean-Pierre Jouet.
 <pstyle:TECHNIQUE>Avec Catherine Deneuve, Jean-Paul Roussillon, Anne Consigny, Mathieu Amalric.
 <pstyle:SYNOPSIS>Une famille se réunit à Roubaix pendant les fêtes de Noël. Henri, le fils mal aimé, s'avère le seul compatible pour le don de moelle osseuse qui sauverait sa mère.
@@ -119,10 +119,19 @@
 
 <pstyle:TITRE>La Vie des morts
 <pstyle:TECHNIQUE>d'Arnaud Desplechin
-<pstyle:TECHNIQUE>France/1991/54'/DCP
+<pstyle:TECHNIQUE>France/1991
 <pstyle:TECHNIQUE>Avec Thibault de Montalembert, Roch Leibovici, Marianne Denicourt.
 <pstyle:SYNOPSIS>Patrick, 20 ans, a tenté de mettre fin à ses jours. Alors qu'il est hospitalisé, dans le coma, les quatre branches de sa famille se retrouvent dans une maison bourgeoise du Nord de la France.
 <pstyle:><cstyle:INFOSBLEUES>sa 31 aoûXXX14h30XXX
 <cstyle:SALLESBLEUES>A
 <pstyle:EVENEMENT>Séance présentée par Arnaud Desplechin
+
+<pstyle:CATEGORIE>Carte blanche à Arnaud Desplechin
+
+<pstyle:TITRE>Sobibor, 14 octobre 1943, 16 heures
+<pstyle:TECHNIQUE>de Claude Lanzmann
+<pstyle:TECHNIQUE>France/2000
+<pstyle:SYNOPSIS>Sobibor, 14 octobre 1943, 16 heures<0x00A0>: lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
+<pstyle:><cstyle:INFOSBLEUES>di 08 sepXXX19h30XXX
+<cstyle:SALLESBLEUES>A
 

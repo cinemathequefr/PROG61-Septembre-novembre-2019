@@ -87,6 +87,14 @@ Mathias découvre dans sa valise une tête humaine coupée et naturalisée. Il n
 
 > (Site) De retour d'Allemagne par train de nuit, Mathias découvre dans sa valise une tête humaine réduite à la manière des Indiens Jivaros. Il ne pense plus qu'à cette tête, tente de percer son mystère et s'isole totalement du monde.
 
+[75848]*  
+**Sobibor, 14 octobre 1943, 16 heures**  
+de Claude Lanzmann  
+France / 2000  
+Sobibor, 14 octobre 1943, 16 heures : lieu, heure, jour, mois et année de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
+
+> (Site) Sobibor, 14 octobre 1943, 16 heures : lieu, heure, jour, mois et année de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
+
 [126923]  
 **Trois souvenirs de ma jeunesse**  
 d'Arnaud Desplechin  
