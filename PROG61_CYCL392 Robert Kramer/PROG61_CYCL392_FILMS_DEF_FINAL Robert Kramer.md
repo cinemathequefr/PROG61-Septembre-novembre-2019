@@ -74,7 +74,7 @@ Documentaire social et politique sur la situation au Venezuela au début des ann
 **Ghosts of Electricity**  
 de Robert Kramer  
 France-Suisse / 1997  
-Robert Kramer imagine un monde dans lequel le cinéma et les sciences entretiennent un dialogue humaniste, pour rendre la vie meilleure.
+Robert Kramer imagine un monde dans lequel le cinéma et les sciences entretiennent un dialogue humaniste et œuvrent à rendre la vie meilleure.
 
 Commande du festival de Locarno pour son cinquantième anniversaire.
 
