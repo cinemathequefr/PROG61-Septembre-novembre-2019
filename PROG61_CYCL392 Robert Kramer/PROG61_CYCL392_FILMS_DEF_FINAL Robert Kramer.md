@@ -184,7 +184,7 @@ France / 1998
 Erika et Robert Kramer reviennent sur leur vie commune depuis dix ans et l'interrogent.
 
 [121940]  
-**Scenes from Portuguese Class Struggle**  
+**Scenes from the Class Struggle in Portugal**  
 de Robert Kramer, Philip Spinelli  
 États-Unis / 1975  
 Analyse des changements dans la société portugaise pendant la révolution des Œillets, entre 1974 et 1976, avec une interrogation particulière sur les potentialités politiques réelles du Mouvement pour le pouvoir populaire.
