@@ -213,10 +213,11 @@ La Société lyonnaise de banque, première banque régionale française, prése
 de Robert Kramer  
 France-Suisse / 1996  
 Avec Jacques Martial, Laure Duthilleul, Betsabée Haas.  
-Abel est entraîneur sportif. Nellie est chercheuse en biologie. Leur fille Raye, vingt ans, chanteuse lyrique. Un hiver, le père et la fille parcourent l'Europe chacun de leur côté tandis que Nellie poursuit un voyage immobile.
+Abel est entraîneur sportif. Nellie est chercheuse en biologie. Leur fille Raye, vingt ans, chanteuse lyrique. Un hiver, le père et la fille parcourent l'Europe chacun de son côté tandis que Nellie poursuit un voyage immobile.
 
 [142084]  
 **X-Country**  
 de Robert Kramer  
 États-Unis / 1987  
 Dans l'ancienne résidence du président américain James Monroe, une amie de Robert Kramer, militante politique, célèbre son mariage avec un membre du Front Farabundo Martí, mouvement de guérilla du Salvador.
+
