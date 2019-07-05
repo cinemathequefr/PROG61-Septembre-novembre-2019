@@ -556,6 +556,9 @@
     "textes": [{
       "typeTexte": 9,
       "texte": "En 1918, quatre fantassins allemands se retrouvent sur le front français à quelques mois de la fin du conflit."
+    }, {
+      "typeTexte": 99,
+      "texte": "Film restauré par la Deutsche Kinemathek à partir d'un négatif de 1931 et d'un négatif de 1964, en coopération avec le British Film Institute. Ressortie en salles par Tamasa."
     }],
     "generique": [
       "Fritz Kampers",
