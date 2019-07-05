@@ -229,6 +229,8 @@ D'après le roman _Quatre de l'infanterie_ d'Ernst Johannsen.
 Avec Fritz Kampers, Gustav Diessl, Claus Clausen.  
 En 1918, quatre fantassins allemands se retrouvent sur le front français à quelques mois de la fin du conflit.
 
+Film restauré par la Deutsche Kinemathek à partir d'un négatif de 1931 et d'un négatif de 1964, en coopération avec le British Film Institute. Ressortie en salles par Tamasa.
+
 [45672]  
 **La Rue sans joie**  
 **(Die Freudlose Gasse)**  
@@ -283,4 +285,3 @@ de Georg Wilhelm Pabst
 D'après le roman _Un héros moderne_ de Louis Bromfield.  
 Avec Richard Barthelmess, Jean Muir, Marjorie Rambeau.  
 Un jeune et séduisant acrobate de cirque n'hésite pas à utiliser son art et à jouer de son charme pour servir ses ambitions.
-

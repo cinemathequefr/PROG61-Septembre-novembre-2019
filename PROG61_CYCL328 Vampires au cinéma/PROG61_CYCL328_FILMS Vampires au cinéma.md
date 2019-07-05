@@ -7,7 +7,7 @@ d'Ana Lily Amirpour
 Avec Sheila Vand, Arash Marandi, Marshall Manesh.  
 Dans la ville étrange de Bad City, lieu de tous les vices où suintent la mort et la solitude, les habitants n'imaginent pas qu'un vampire les surveille. Mais quand l'amour entre en jeu, la passion rouge sang éclate...
 
-[60083]\*  
+[60083]*  
 **The Addiction**  
 d'Abel Ferrara  
 États-Unis / 1995  
@@ -22,7 +22,7 @@ de Kathryn Bigelow
 Avec Adrian Pasdar, Jenny Wright, Lance Henriksen.  
 Dans une petite ville du Middle West, Caleb, fils de fermier parti rejoindre des amis dans un bar, rencontre une jeune et jolie étrangère, qui le mord juste avant le lever du jour. Il va se joindre au groupe de vampires de la jeune fille.
 
-[42588]\*  
+[42588]*  
 **Le Bal des vampires**  
 **(The Fearless Vampire Killer's or Pardon Me, but Your Teeth Are in My Neck = Dance of the Vampires)**  
 de Roman Polanski  
@@ -62,7 +62,7 @@ de David S. Goyer
 Avec Wesley Snipes, Kris Kristofferson, Dominic Purcell, Jessica Biel.  
 A la suite d'une machination des vampires et de montage vidéo, Blade est piégé et devient ainsi l'ennemi numéro un des Etats-Unis.
 
-[45668]\*  
+[45668]*  
 **Le Cauchemar de Dracula**  
 **(Dracula = Horror of Dracula)**  
 de Terence Fisher  
@@ -90,7 +90,9 @@ Lorsqu'une jeune fille est retrouvée morte dans la campagne, les villageois met
 **(The Countess)**  
 de Julie Delpy  
 Allemagne-France / 2008  
-Avec Julie Delpy, Daniel Brühl, William Hurt.  
+Avec Julie Delpy, Julie Delpy, Daniel Brühl, Daniel Brühl.  
+À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIème siècle et restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010
+
 A la mort de son mari, la comtesse Elizabeth Bathory se trouve à la tête d'un vaste domaine et d'une immense fortune. Elle tombe éperdument amoureuse d'un jeune homme, mais celui-ci l'abandonne. Sombrant progressivement dans la folie, Elizabeth se persuade que le sang de jeunes vierges lui procure jeunesse et beauté. Débute alors une série d'actes sanglants et diaboliques.
 
 [58175]  
@@ -100,7 +102,7 @@ Mexique / 1993
 Avec Federico Luppi, Ron Perlman, Claudio Brook.  
 Un alchimiste enferme, au 14ème siècle, le secret de l'éternité dans un boîtier. Six siècles après, un antiquaire est sur le pont de découvrir cette force inconnue.
 
-[59103]\*  
+[59103]*  
 **La Crypte du vampire**  
 **(La Cripta e l'incubo)**  
 de Thomas, pseudonyme de Camillo Mastrocinque Miller  
@@ -142,7 +144,7 @@ D'après le roman _Dracula_ de Bram Stoker.
 Avec Frank Langella, Laurence Olivier, Donald Pleasence.  
 À bord d'un navire pris dans une tempête, le comte Dracula, est le seul rescapé du naufrage. Secouru par une jeune femme, il se retrouve dans un asile dirigé par le Dr Seward et fait la connaissance de sa fille Lucy.
 
-[30928]\*  
+[30928]*  
 **Dracula**  
 de Tod Browning  
 États-Unis / 1931  
@@ -153,7 +155,7 @@ Renfield se rend pour affaires au château du comte Dracula. Durant la nuit, il 
 
 > (Site) Renfield se rend pour affaires au château du comte Dracula. Durant la nuit, il est mordu au cou par trois femmes et emmené par le comte, en état d'hypnose, à bord d'un voilier en direction de l'Angleterre.
 
-[57748]\*  
+[57748]*  
 **Dracula**  
 **(Bram Stoker's Dracula)**  
 de Francis Ford Coppola  
@@ -164,7 +166,7 @@ Dracula se rend à Londres pour séduire Mina, en qui il reconnaît sa bien-aim�
 
 > (Site) Dracula se rend à Londres pour séduire Mina, en qui il reconnaît sa bien-aimée morte suicidée en 1462. Il s'attaque à la fidèle amie de Mina, que son fiancé cherche à sauver des griffes du vampire.
 
-[117114]\*  
+[117114]*  
 **Dracula**  
 de George Melford  
 États-Unis / 1931  
@@ -186,7 +188,7 @@ Grande-Bretagne / 1972
 Avec Christopher Lee, Peter Cushing.  
 Les descendants des Von Hessling, qui tuèrent Dracula en 1850, retrouvent le vampire dans une église de Londres en 1972, après qu'il ait été réveillé par une invocation du Diable commise par une bande de jeunes lors d'une messe noire.
 
-[42229]\*  
+[42229]*  
 **Dracula et les femmes**  
 **(Dracula Has Risen from the Grave)**  
 de Freddie Francis  
@@ -214,7 +216,7 @@ D'après le roman _Dracula_ de Bram Stoker.
 Avec Wei-Qiang Zhang, Tara Birtwhistle, David Moroni.  
 Adaptation pour le cinéma d'un ballet de Gustav Malher, ce film combine à la fois une danse sensuelle, des scènes mimées et des intertitres qui rappellent le cinéma muet. Il est interprété par les danseurs du Royal Winnipeg Ballet.
 
-[41405]\*  
+[41405]*  
 **Dracula, prince des ténèbres**  
 **(Dracula, Prince of Darkness)**  
 de Terence Fisher  
@@ -222,7 +224,7 @@ Grande-Bretagne / 1965
 Avec Christopher Lee, Barbara Shelley, Andrew Keir.  
 Un couple fait un voyage en Transylvanie. A la nuit tombée, ils décident de faire une halte et dorment dans un grand manoir. Au petit matin, un voyageur est retrouvé égorgé.
 
-[65961]\*  
+[65961]*  
 **Dracula prisonnier de Frankenstein**  
 **(Dracula contra el doctor Frankenstein)**  
 de Jesus Franco  
@@ -247,6 +249,12 @@ Canada / 1973
 Avec Christopher Lee, Peter Cushing.  
 Londres, 1974. La police est convaincue qu'un nouveau cas de vampirisme apparait et fait appel au spécialiste en la matière: van Helsink qui se retrouve à nouveau sur les traces du comte Dracula.
 
+[32674]  
+**Dracula's Daughter**  
+de Lambert H. Hillyer  
+États-Unis / 1936  
+Avec Otto Kruger, Gloria Holden, Marguerite Churchill.
+
 [59536]  
 **Du sang pour Dracula**  
 **(Dracula cerca sangue di vergine e mori di sete !)**  
@@ -255,7 +263,7 @@ Italie-France / 1973
 Avec Joe Dallesandro, Udo Kier, Vittorio De Sica, Roman Polanski.  
 Le dernier descendant de Dracula est en train de mourir. Pour survivre, il doit boire du sang de jeunes femmes vierges et décide donc de partir en Italie.
 
-[60560]\*  
+[60560]*  
 **Entretien avec un vampire**  
 **(Interview with the Vampire)**  
 de Neil Jordan  
@@ -273,7 +281,7 @@ France-Italie / 1959
 Avec Mel Ferrer, Elsa Martinelli, Annette Vadim.  
 Dans une magnifique villa de la campagne romaine vivent les derniers descendants de la famille des Karnstein. Leopoldo doit bientôt épouser la belle Georgia Monteverdi. Mais peu avant la cérémonie Carmilla, sa cousine secrètement amoureuse de lui, meurt étrangement, le cœur transpercé d'un pieu.
 
-[65989]\*  
+[65989]*  
 **La Fille de Dracula**  
 **(A Filha de Dracula)**  
 de Jess Franco  
@@ -281,7 +289,33 @@ Portugal-France / 1971
 Avec Anne Libert, Britt Nichols, Jesus Franco.  
 Une jeune femme se rend au chevet de sa grand-mère mourante. Cette dernière lui annonce la malédiction familiale: ce sont tous des vampires. Peu de temps après, la jeune femme va habiter chez son oncle et son cousin et se rend compte, petit à petit, qu'elle aussi est maudite.
 
-[55633]\*  
+[43247]  
+**El Gran amor del Conde Dracula**  
+de Javier Aguirre  
+Espagne / 1972
+
+[120677]*  
+**Histoire de ma mort**  
+**(Història de la meva mort)**  
+d'Albert Serra  
+Espagne-France / 2011  
+Avec Vicenç Altaió, Clara Visa, Noelia Rodenas.  
+Après sa rencontre avec un nouveau serviteur qui assistera aux derniers jours de sa vie, Casanova quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire.
+
+> (Site) Après sa rencontre avec un nouveau serviteur qui assistera aux derniers jours de sa vie, Casanova quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire.
+
+[31390]*  
+**Hurlements**  
+**(The Howling)**  
+de Joe Dante  
+États-Unis / 1980  
+D'après le roman _The Howling_ de Gary Brandner.  
+Avec Patrick Macnee, John Carradine, Dee Wallace.  
+Une journaliste découvre l'existence d'une communauté qui dissimule un repaire de loups-garous.
+
+> (Site) Une journaliste découvre l'existence d'une communauté qui dissimule un repaire de loups-garous.
+
+[55633]*  
 **Irma Vep**  
 d'Olivier Assayas  
 France / 1996  
@@ -297,14 +331,21 @@ de Michio Yamamoto
 Japon / 1971  
 Le corps de la victime d'un meurtre est retrouvé près d'un lac. Le médecin, à qui est attribué cette enquête, a toutes les raisons de penser que le coupable est un vampire.
 
-[39701]\*  
+[39701]*  
 **Les Lèvres rouges**  
 de Harry Kümel  
 Belgique-France-RFA-Italie / 1971  
 Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
 Un couple séjourne à Ostende, dans un vaste hôtel désert en cette basse saison. Le couple rencontre la comtesse Bathory et sa protégée Ilona, qui vont exercer sur eux leur emprise.
 
-[45480]\*  
+[33737]*  
+**Le Loup-garou de Londres**  
+**(An American Werewolf in London)**  
+de John Landis  
+États-Unis-Grande-Bretagne / 1980  
+Avec David Naughton, Jenny Agutter, Griffin Dunne.
+
+[45480]*  
 **Les Maîtresses de Dracula**  
 **(The Brides of Dracula)**  
 de Terence Fisher  
@@ -312,7 +353,7 @@ Grande-Bretagne / 1960
 Avec Peter Cushing, Yvonne Monlaur, Freda Jackson.  
 Le docteur Van Helsink retourne en Transylvanie pour empêcher Dracula de séduire la douce, jeune et ravissante institutrice, Marianne.
 
-[57359]\*  
+[57359]*  
 **Martin**  
 de George A. Romero  
 États-Unis / 1977  
@@ -320,6 +361,12 @@ Avec John Amplas, Lincoln Maazel, Christine Forrest, Elianne Nadeau.
 Un jeune homme de dix-sept ans, obsédé par le sang, est persuadé d'être un vampire.
 
 > (Site) Un jeune homme de dix-sept ans, obsédé par le sang, est persuadé d'être un vampire.
+
+[142414]  
+**Le Massacre des vampires**  
+**(Le Strage dei vampiri)**  
+de Roberto Mauri  
+Italie / 1962
 
 [107022]  
 **Morse**  
@@ -352,7 +399,7 @@ D'après le roman _Dracula_ de Bram Stoker.
 Avec Klaus Kinski, Isabelle Adjani, Bruno Ganz.  
 Au XIXème siècle, Jonathan Harker part dans les Carpates afin de vendre sa maison à Dracula.
 
-[39961]\*  
+[39961]*  
 **Nosferatu le vampire**  
 **(Nosferatu – Eine Symphonie des Grauens)**  
 de F.W. Murnau  
@@ -363,7 +410,7 @@ La nuit est le refuge des créatures les plus inquiétantes et parmi elles, Nosf
 
 > (Site) La nuit est le refuge des créatures les plus inquiétantes et parmi elles, Nosferatu, le vampire, règne en grand seigneur. Mais, si une fois, une fois seulement, il se laisse surprendre par l'arrivée du jour, alors il disparaîtra à tout jamais.
 
-[87102]\*  
+[87102]*  
 **Les Nuits de Dracula**  
 **(El Conde Dracula)**  
 de Jesus Franco  
@@ -378,7 +425,13 @@ Allemagne-Grande-Bretagne-France-Chypre / 2012
 Avec Tom Hiddleston, Tilda Swinton, Mia Wasikowska.  
 Adam, musicien underground, et Eve, son amante, sont des vampires vivant entre Detroit et Tanger. L'arrivée de la petite sœur d'Eve va perturber leur existence.
 
-[36659]\*  
+[64055]  
+**L'Orgie des vampires**  
+**(Il Mostro dell opera)**  
+de Renato Polselli  
+Italie / 1961
+
+[36659]*  
 **Les Prédateurs**  
 **(The Hunger)**  
 de Tony Scott  
@@ -396,7 +449,7 @@ de Paul Landres
 États-Unis / 1958  
 Après avoir tué et usurpé l'identité d'un artiste tchèque installé dans les Balkans, Dracula s'envole vers les Etats-unis pour continuer sa quête et soif de sang.
 
-[56863]\*  
+[56863]*  
 **Spermula**  
 de Charles Matton  
 France / 1975  
@@ -407,6 +460,16 @@ Restauré en HD par Hiventy, pour Sylvie Matton, avec le soutien du CNC.
 
 > (Site) Prônant une morale et une liberté nouvelles, une société secrète envoie dans notre monde un commando de femmes d'une grande beauté afin de le conquérir en libérant les hommes de la virilité, source d'orgueil.
 
+[97020]*  
+**Le Territoire des morts**  
+**(Land of the Dead)**  
+de George A. Romero  
+Canada-France-États-Unis / 2004  
+Avec Simon Baker, Asia Argento, Dennis Hopper.  
+Dans un futur proche, quelques survivants, barricadés dans une ville bunker, résistent aux assauts organisés des zombies, qui désormais pensent et communiquent.
+
+> (Site) Les zombies occupent désormais l'essentiel des États-Unis et les derniers humains survivants vivent retranchés dans une mégalopole. Menant la résistance d'une main de fer, un despote se sert aussi de son autorité pour s'enrichir. Mais alors que la désunion règne parmi les rescapés, les morts-vivants s'organisent.
+
 [108292]  
 **Thirst, ceci est mon sang**  
 **(Bakjwi)**  
@@ -415,7 +478,7 @@ Corée / 2008
 Avec Kang-ho Song, Ok-vin Kim, Hae-sook Kim.  
 Un prêtre fait une expérience médicale ratée, succombe au vampirisme et devient vampire. Il tombe sous le charme de l'épouse de son ancien ami et a une violente attirance charnelle avec cette dernière.
 
-[59912]\*  
+[59912]*  
 **Un vampire à Brooklyn**  
 **(Vampire in Brooklyn)**  
 de Wes Craven  
@@ -433,7 +496,14 @@ Grande-Bretagne / 1969
 Avec Christopher Lee.  
 Au XIXe siècle, des bourgeois ayant organisé une messe satanique ressuscitent le comte Dracula grâce aux services d'un homme qu'ils assassinent ensuite. Dracula va chercher vengeance pour le meurtre de son bienfaiteur.
 
-[43667]\*  
+[45648]  
+**Une nuit en enfer**  
+**(From Dusk Till Dawn)**  
+de Robert Rodriguez  
+États-Unis / 1995  
+Avec John Saxon, Harvey Keitel, George Clooney.
+
+[43667]*  
 **Vampir**  
 **(Cuadecuc)**  
 de Pere Portabella, Joan Brossa  
@@ -441,7 +511,7 @@ Espagne / 1970
 Avec Christopher Lee, Jesus Franco.  
 En 1970, le cinéaste Pere Portabella est invité sur le plateau de tournage du film _Les nuits de Dracula_. Il filme alors des moments de tournage dans cette atmosphère morbide et mystérieuse. « Ce film est une tentative de réflexion sur le langage cinématographique. » P. Portabella
 
-[50525]\*  
+[50525]*  
 **Le Vampire**  
 de Jean Painlevé  
 France / 1939  
@@ -470,21 +540,21 @@ de John Carpenter
 Avec James Woods, Daniel Baldwin, Sheryl Lee.  
 A la tête de mercenaires, Jack Crow est chargé par le Vatican de traquer et exterminer les groupes de vampires. Valek, un puissant vampire ayant échappé à une de ces traques, se venge en massacrant à son tour les hommes de Jack Crow.
 
-[99082]\*  
+[99082]*  
 **Les Vampires : L'Evasion du mort**  
 de Louis Feuillade  
 France / 1915  
 Avec Édouard Mathé, Marcel Lévesque, Jean Ayme, Musidora.  
 Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_
 
-[99086]\*  
+[99086]*  
 **Les Vampires : L'Homme des poisons**  
 de Louis Feuillade  
 France / 1916  
 Avec Édouard Mathé, Marcel Lévesque, Moriss, Musidora.  
 Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête.
 
-[99079]\*  
+[99079]*  
 **Les Vampires : La Bague qui tue**  
 de Louis Feuillade  
 France / 1915  
@@ -493,14 +563,14 @@ Texte à saisir
 
 Restauré en 2015 par Gaumont.
 
-[48546]\*  
+[48546]*  
 **Les Vampires : La Tête coupée**  
 de Louis Feuillade  
 France / 1915  
 Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.  
 Texte à saisir
 
-[99080]\*  
+[99080]*  
 **Les Vampires : Le Cryptogramme rouge**  
 de Louis Feuillade  
 France / 1915  
@@ -509,42 +579,42 @@ Texte à saisir
 
 Restauré en 2015 par Gaumont.
 
-[99085]\*  
+[99085]*  
 **Les Vampires : Le Maître de la foudre**  
 de Louis Feuillade  
 France / 1916  
 Avec Édouard Mathé, Marcel Lévesque, Musidora, Louis Leubas.  
 Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête.
 
-[99081]\*  
+[99081]*  
 **Les Vampires : Le Spectre**  
 de Louis Feuillade  
 France / 1915  
 Avec Édouard Mathé, Marcel Lévesque, Jean Ayme, Musidora.  
 Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_
 
-[99087]\*  
+[99087]*  
 **Les Vampires : Les Noces sanglantes**  
 de Louis Feuillade  
 France / 1916  
 Avec Édouard Mathé, Marcel Lévesque, Musidora, Moriss.  
 Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête.
 
-[99083]\*  
+[99083]*  
 **Les Vampires : Les Yeux qui fascinent**  
 de Louis Feuillade  
 France / 1916  
 Avec Édouard Mathé, Marcel Lévesque, Jean Ayme, Musidora.  
 Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_
 
-[99084]\*  
+[99084]*  
 **Les Vampires : Satanas**  
 de Louis Feuillade  
 France / 1916  
 Avec Édouard Mathé, Marcel Lévesque, Fernand Herrmann, Musidora.  
 Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête.
 
-[48251]\*  
+[48251]*  
 **Vampyr ou l'étrange aventure de David Gray**  
 de Carl Theodor Dreyer  
 France-Allemagne / 1930  
@@ -559,3 +629,4 @@ Un vampire terrorise un châtelain et ses deux filles.
 de Joseph Larraz  
 Grande-Bretagne / 1974  
 Un couple de femmes assassinées en plein ébat sexuel devient un couple de vampires insatiables.
+
