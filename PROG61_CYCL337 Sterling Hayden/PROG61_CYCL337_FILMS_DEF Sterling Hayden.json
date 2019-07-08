@@ -44,14 +44,9 @@
     "annee": 1952,
     "pays": "États-Unis",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Deux gangsters en cavale usent de la force pour contraindre un de leurs anciens acolytes, désormais rangé, à participer à un nouveau méfait."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Deux gangsters en cavale usent de la force pour contraindre un de leurs anciens acolytes, désormais rangé, à participer à un nouveau méfait."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Deux gangsters en cavale usent de la force pour contraindre un de leurs anciens acolytes, désormais rangé, à participer à un nouveau méfait."
+    }],
     "generique": [
       "Gene Nelson",
       "Sterling Hayden",
