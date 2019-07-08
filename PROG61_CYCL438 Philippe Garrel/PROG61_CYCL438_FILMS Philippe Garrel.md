@@ -20,11 +20,6 @@ France / 2004
 Avec Louis Garrel, Clotilde Hesme, Eric Rulliat.  
 L'après Mai-68. Louis, poète solitaire, vit dans une grande maison avec d'autres jeunes gens. Il y rencontre Lily et tous deux vont vivre une grande histoire d'amour.
 
-[58473]  
-**Anémone**  
-de Philippe Garrel  
-France / 1966
-
 [46129]  
 **L'Athanor**  
 de Philippe Garrel  
@@ -63,12 +58,6 @@ Avec Nico, Pierre Clémenti, Philippe Garrel, Daniel Pommereulle.
 Dans des paysages d'Égypte et d'Islande, d'une étrange beauté, l'errance d'une femme, de deux hommes et d'un enfant.
 
 > (Site) « Un chef-d'œuvre total. Je ne sais pas l'expliquer... Tout à coup, c'est toute l'humanité, toute la terre qui parle – la terre dans le sens antique de mère. Mais ce n'est même pas la terre qui parle, c'est l'humus... C'est incroyable, tout y est. »
-
-[141947]  
-**Cinématon #193 : Philippe Garrel**  
-de Gérard Courant  
-France / 1982  
-Le « Cinématon » n°193 de Philippe Garrel réalisé par Gérard Courant le 30 avril 1982 à Paris (France).
 
 [60047]  
 **Le Cœur fantôme**  
@@ -207,12 +196,6 @@ France / 1984
 Avec Christine Boisson, Jean-Pierre Léaud, Philippe Garrel.  
 René, désespéré par le départ de son amie, tombe amoureux d'une jeune femme qui se suicide le lendemain.
 
-[64977]  
-**Philippe Garrel, artiste**  
-de Françoise Etchegaray  
-France / 1998  
-Entretien avec Philippe Garrel. Film de la collection « Cinéma, de notre temps » produite par Janine Bazin et André S. Labarthe.
-
 [69930]*  
 **Le Révélateur**  
 de Philippe Garrel  
@@ -228,6 +211,13 @@ de Philippe Garrel
 France-Pays-Bas / 2001  
 Avec Mehdi Belhaj Kacem, Julia Faure, Michel Subor.  
 Un réalisateur veut tourner un film sur et contre la drogue. Il découvre que son producteur est un trafiquant d'héroïne.
+
+[142105]  
+**Le Sel des larmes**  
+de Philippe Garrel  
+France / 2019  
+Avec Logann Antuofermo, Oulaya Amamra, Souheila Yacoub, André Wilms.  
+Les premières conquêtes féminines d'un jeune homme et la passion qu'il a pour son père.
 
 [69971]*  
 **Un ange passe**  
