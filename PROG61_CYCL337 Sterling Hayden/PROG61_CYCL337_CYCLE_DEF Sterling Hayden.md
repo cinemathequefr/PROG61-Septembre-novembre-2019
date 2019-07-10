@@ -33,7 +33,7 @@ Avec Gene Nelson, Sterling Hayden, Phyllis Kirk.
 Deux gangsters en cavale usent de la force pour contraindre un de leurs anciens acolytes, désormais rangé, à participer à un nouveau méfait.
 
 - di 27 oct 21h15 GF  
-- je 31 oct 19h30 GF
+- je 31 oct 19h00 GF
 
 [54649]  
 **Les Décimales du futur**  
@@ -96,7 +96,7 @@ Avec Barbara Stanwyck, Sterling Hayden, Raymond Burr.
 Une journaliste abandonne son métier pour épouser un inspecteur de police. Déçue par sa vie de femme au foyer, et par le manque d'ambition de son mari, elle va œuvrer dans l'ombre pour faire avancer sa carrière.
 
 - lu 28 oct 19h00 GF  
-- je 31 oct 21h30 GF
+- je 31 oct 21h00 GF
 
 [56246]  
 **Mourir à Belfast**  
@@ -107,7 +107,7 @@ D'après _The Heritage of Michael Flaherty_ de Colin Leinster.
 Avec Sterling Hayden, Craig Wasson, Patricia Quinn.  
 1973, en Irlande du Nord. Un Américain, engagé volontaire dans les troupes de l'IRA, devient la cible d'un double complot politique.
 
-- sa 2 nov 15h00 GF
+- sa 2 nov 16h00 JE
 
 [32001]  
 **Le Parrain**  
@@ -130,7 +130,7 @@ Avec Elliott Gould, Nina Van Pallandt, Sterling Hayden.
 En pleine nuit, Terry Lennox demande au privé Philip Marlowe de le conduire au Mexique. À son retour, Marlowe est cueilli par la police, accusé d'avoir tué l'épouse de Lennox.
 
 - me 23 oct 20h00 HL  
-Ouverture de la rétrospective
+Ouverture de la rétrospective. Séance présentée par Philippe Garnier
 
 [33417]  
 **Quand la ville dort**  
@@ -176,16 +176,6 @@ Margaret Elliott, star de cinéma sur le déclin, se retrouve dans la misère. E
 
 - lu 28 oct 17h00 GF
 
-[43037]  
-**Tendres chasseurs**  
-**(Sweet Hunters)**  
-de Ruy Guerra  
-1969 / 104 min / VOSTF / 35 mm  
-Avec Sterling Hayden, Maureen McNalley, Susan Strasberg, Andrew Hayden.  
-Un ornithologue s'installe avec sa famille sur une île déserte, dans l'attente d'une migration d'oiseaux susceptible d'éclairer ses recherches. Leur tranquillité prend fin quand arrive sur l'île un prisonnier évadé.
-
-- di 3 nov 17h00 GF
-
 [34508]  
 **Terreur au Texas**  
 **(Terror in a Texas Town)**  
@@ -206,7 +196,7 @@ D'après le roman _The Clean Break_ de Lionel White.
 Avec Sterling Hayden, Coleen Gray, Vince Edwards.  
 Un gangster et ses complices organisent un hold-up pour s'emparer de la caisse d'un champ de courses.
 
-- sa 26 oct 21h00 HL
+- sa 26 oct 21h30 HL
 
 [34996]  
 **Valerie**  
@@ -216,4 +206,16 @@ Avec Anita Ekberg, Sterling Hayden, Anthony Steel.
 Le rancher John Garth est arrêté pour avoir tué ses parents et gravement blessé sa femme. Au cours du procès, il se remémore l'incident et les événements précédents.
 
 - di 27 oct 19h30 GF
+
+## Rencontres et conférences
+
+[]  
+**film + Discussion avec Philippe Garnier**  
+45 min  
+« Je ne déteste ni n'aime ce film, bizarrement je ne me souviens de rien. Sauf Sterling Hayden et Thomas Mitchell, deux de mes acteurs favoris. (Stuart Heisler, réalisateur de _Journey Into Light_) « Une histoire à la Capra dirigée par un metteur en scène aux yeux secs. » (Philippe Garnier)  
+Docteure en cinéma, ancien professeur à l'École du Louvre et la New York University, Gabriela Trujillo est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille actuellement à l'Action culturelle de la Cinémathèque française.  
+Philippe Garnier a été journaliste, il est traducteur (John Fante, James Salter, Robert Stone, Joan Didion) et écrivain de cinéma : _Honni soit qui Malibu : quelques écrivains à Hollywood_ (1996), _Caractères : Moindres lumières à Hollywood_ (2006), saga sur les acteurs de second plan du cinéma américain, _Retour vers David Goodis_ (2016)... En 2019, il publie _Sterling Hayden, l'irrégulier_ (éditions La Rabbia). Il vit à Los Angeles.  
+Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre.
+
+- je 24 oct 19h30 GF
 

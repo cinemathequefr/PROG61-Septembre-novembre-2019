@@ -1,12 +1,19 @@
 # Mauro Bolognini
 
+[93768]*  
+**12 registi per 12 città**  
+d'Alberto Lattuada, Michelangelo Antonioni, Bernardo Bertolucci, [etc.]  
+Italie / 1989
+
+> (Site) Documentaire promotionnel sur les douze villes italiennes accueillant la 14e Coupe du monde de football (1990).
+
 [72626]*  
 **Agostino**  
 de Mauro Bolognini  
 Italie / 1962  
 D'après le roman _Agostino_ d'Alberto Moravia.  
 Avec Ingrid Thulin, Paolo Colombo, John Saxon.  
-Agostino éprouve une passion exclusive pour sa mère, veuve ravissante. Mais la vie affective de l'enfant est perturbée par les intrusions intempestives de Renzo, l'amant de sa mère.
+Agostino éprouve une passion exclusive pour sa mère, ravissante veuve. Mais les intrusions intempestives de Renzo, son amant, perturbent la vie affective de l'enfant.
 
 > (Site) Agostino éprouve une passion exclusive pour sa mère, ravissante veuve. L'intrusion intempestive de Renzo, son amant, bouleverse la vie affective de l'enfant.
 
@@ -24,13 +31,6 @@ de Mauro Bolognini
 Italie / 1967  
 Avec Virna Lisi, Giancarlo Giannini, Margaret Rutherford.  
 Dans l'Italie des années 20, Arabella tente d'extorquer de l'argent à différents personnages pour venir en aide à sa mère, menacée d'expulsion.
-
-[84659]  
-**L'Assoluto naturale**  
-de Mauro Bolognini  
-Italie / 1969  
-Avec Laurence Harvey, Sylva Koscina, Isa Miranda.  
-Un intellectuel anglais idéaliste fait la connaissance d'une séduisante bourgeoise. Lors d'un voyage en automobile, ils débutent une relation avec naturel et spontanéité, mais très tôt, les disputes et désaccords se succèdent.
 
 [42068]*  
 **Le Bel Antonio**  
@@ -64,9 +64,27 @@ de Mauro Bolognini
 Italie-France / 1960  
 D'après les nouvelles _Racconti romani_ et _Nuovi racconti romani_ d'Alberto Moravia.  
 Avec Jean Sorel, Lea Massari, Paolo Stoppa.  
-Un jeune chômeur a besoin d'argent pour pouvoir entretenir sa famille. Il se rend à Rome pour y trouver du travail, et va y faire diverses rencontres.
+Un jeune chômeur, ayant besoin d'argent pour entretenir sa famille, se rend à Rome pour trouver du travail. Il y fait de multiples rencontres.
 
 > (Site) Un jeune chômeur a besoin de 50 000 lires pour avoir une place aux halles et entretenir sa famille. Il se rend à Rome pour trouver du travail, et va faire diverses rencontres.
+
+[60124]*  
+**Capriccio all'italiana**  
+de Steno, Mauro Bolognini, Pier Paolo Pasolini, [etc.]  
+Italie / 1967  
+la gelosa : Bolognini met en scène une jalouse maladive. perché : L'histoire d'une épouse horripilante.
+
+[66934]  
+**Capriccio all'italiana : La gelosa**  
+de Mauro Bolognini  
+Italie / 1968  
+Bolognini met en scène une jalouse maladive.
+
+[66683]  
+**Capriccio all'italiana : Perché ?**  
+de Mauro Bolognini  
+Italie / 1967  
+L'histoire d'une épouse horripilante.
 
 [56337]  
 **I Cavalieri della regina**  
@@ -129,11 +147,6 @@ Marguerite Gautier, récemment montée à Paris, devient prostituée, puis court
 de Mauro Bolognini  
 Italie / 1959  
 À Rome, après la Seconde Guerre Mondiale, deux familles sont contraintes à cohabiter dans un appartement. Lorsque les conditions s'améliorent, le patriarche de l'une des deux familles se lance à la recherche d'un logement convenable.
-
-[44717]  
-**La Donna e una cosa meravigliosa**  
-de Mauro Bolognini  
-Italie / 1964
 
 [45024]*  
 **Les Garçons**  
@@ -219,6 +232,18 @@ de Tinto Brass, Luigi Comencini, Mauro Bolognini
 Italie / 1964  
 I mei cari : Un homme malade passe un long moment à l'hôpital. Au lieu de le réconforter, ses proches lui reprochent de ne pas assumer ses responsabilités de père de famille. Luciana: En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion.
 
+[66673]  
+**La Mia Signora : I mei cari**  
+de Mauro Bolognini  
+Italie / 1964  
+Un homme malade passe un long moment à l'hôpital. Au lieu de le réconforter, ses proches lui reprochent de ne pas assumer ses responsabilités de père de famille.
+
+[66674]  
+**La Mia Signora : Luciana**  
+de Mauro Bolognini  
+Italie / 1964  
+En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion.
+
 [66656]  
 **Mosca addio**  
 de Mauro Bolognini  
@@ -232,6 +257,13 @@ Ida Nudel, juive russe interdite d'exil en Israël, est arrêtée en 1978 lors d
 de Luciano Salce, Mario Monicelli, Mauro Bolognini, [etc.]  
 Italie-France / 1966  
 L'Ogresse Héléna: En rendant visite à un ami, Luigi s'éprend de sa femme Elena, avec qui il débute une relation.
+
+[56659]  
+**Les Ogresses : L'ogresse Héléna**  
+**(Le Fate : Fata Elena)**  
+de Mauro Bolognini  
+Italie-France / 1966  
+En rendant visite à un ami, Luigi s'éprend de sa femme Elena, avec qui il débute une relation.
 
 [70065]  
 **Où es-tu allé en vacances ?**  
@@ -247,12 +279,24 @@ de Franco Indovina, Mauro Bolognini, Philippe de Broca, [etc.]
 France-Italie-RFA / 1966  
 Segment Nuits romaines
 
+[53284]  
+**Le Plus vieux métier du monde : Nuits romaines**  
+de Mauro Bolognini  
+France-Italie-RFA / 1966
+
 [42105]*  
 **Les Poupées**  
 **(Le Bambole)**  
 de Dino Risi, Luigi Comencini, Franco Rossi, [etc.]  
 Italie-France / 1964  
 Segment Monseigneur Cupidon : Un monsignore vénitien se rend à une conférence à Rome en compagnie de son neveu Vincenzo, un beau jeune homme timide. Dans l'hôtel où ils logent, Béatrice, la femme du propriétaire, s'entiche de ce garçon et fait tout pour le séduire.
+
+[58026]  
+**Les Poupées : Monseigneur Cupidon**  
+**(Le Bambole : Monsignor Cupido)**  
+de Mauro Bolognini  
+Italie-France / 1964  
+Un monsignore vénitien se rend à une conférence à Rome en compagnie de son neveu Vincenzo, un beau jeune homme timide. Dans l'hôtel où ils logent, Béatrice, la femme du propriétaire, s'entiche de ce garçon et fait tout pour le séduire.
 
 [42106]  
 **Quand la chair succombe**  
@@ -262,11 +306,6 @@ Italie-France / 1961
 Avec Claudia Cardinale, Anthony Franciosa, Philippe Leroy.  
 Emilio Brentani, trentenaire célibataire, tombe passionnément amoureux d'Angiolina, une jeune fille aux mœurs légères.
 
-[119828]  
-**Il Silenzio é complicità**  
-de Laura Betti, Bernardo Bertolucci, Mauro Bolognini, [etc.]  
-Italie / 1976
-
 [65391]*  
 **Les Sorcières**  
 **(Le Streghe)**  
@@ -275,11 +314,24 @@ Italie-France / 1966
 Avec Silvana Mangano, Totò, Ninetto Davoli.  
 Cinq portraits de femmes modernes, cinq regards sur la survivance de la sorcellerie dans l'Italie contemporaine.
 
+[66681]  
+**Les Sorcières : Sentiment civique**  
+**(Le Streghe : Senso civico)**  
+de Mauro Bolognini  
+Italie-France / 1966  
+Une automobiliste pressée est contrainte de transporter d'urgence un conducteur choqué à l'hôpital. Elle va utiliser le stratagème du véhicule prioritaire (un mouchoir blanc) dans ses propres intérêts...
+
 [60128]  
 **I Tre volti**  
 de Michelangelo Antonioni, Mauro Bolognini, Franco Indovina  
 Italie / 1964  
 Gli amanti celebri : Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui.
+
+[56047]  
+**I Tre volti : Gli amanti celebri**  
+de Mauro Bolognini  
+Italie / 1964  
+Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui.
 
 [64750]  
 **Une fille formidable**  

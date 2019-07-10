@@ -35,6 +35,7 @@
 <cstyle:SALLESBLEUES>A
 <cstyle:INFOSBLEUES>ve 13 sepXXX19h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi dialogue p.<0x00A0>xx
 
 <pstyle:TITRE>Amère victoire
 <pstyle:TITRE_ANG>(Bitter Victory)
@@ -323,8 +324,10 @@
 <pstyle:CATEGORIE>Rencontres et conférences
 
 <pstyle:TITRE>Film + Discussion avec Bernard Eisenschitz
-<pstyle:TECHNIQUE>45'
-
+Animée par Bernard Benoliel
+<pstyle:CONFERENCE TXT>«<0x00A0>J<0x2019>aime <ct:Italic>Les Amants de la nuit<ct:> parce que toutes les erreurs sont de moi.<0x00A0>» (Nicholas Ray)  
+<pstyle:CONFERENCE NOTE>Bernard Benoliel est directeur de l<0x2019>Action culturelle et éducative de la Cinémathèque française.  
+<pstyle:CONFERENCE NOTE>Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages, il a écrit, entre autres, <cSkew:9>Fritz Lang au travail<cSkew:> (éditions Cahiers du cinéma, 2011) et <cSkew:9>Roman américain<0x2019>: Les Vies de Nicholas Ray<cSkew:> (éditions Christian Bourgois, 1990).  
 <pstyle:><cstyle:INFOSBLEUES>ve 13 sepXXX19h00XXX
 <cstyle:SALLESBLEUES>A
-
+<pstyle:CONFERENCE NOTE>À la suite de la projection des <cSkew:9>Amants de la nuit<cSkew:> de Nicholas Ray (voir p.<0x00A0>xx)

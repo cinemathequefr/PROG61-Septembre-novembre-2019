@@ -159,6 +159,25 @@
     "adaptation": "D'après les recueils de nouvelles _Racconti romani_ et _Nuovi racconti romani_ d'Alberto Moravia."
   },
   {
+    "titre": "Caprice à l'italienne",
+    "titreVo": "Capriccio all'italiana",
+    "idFilm": 60124,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini, Mario Monicelli, Pier Paolo Pasolini, Steno, Pino Zac",
+    "annee": 1967,
+    "pays": "Italie",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Film à sketches : un regard souvent acerbe sur la société italienne des années 60."
+    }],
+    "generique": [
+      "Silvana Mangano",
+      "Enzo Marignani",
+      "Ugo D'Alessio",
+      "Dante Maggio"
+    ]
+  },
+  {
     "titre": "D'Artagnan, chevalier de la reine",
     "titreVo": "Cavalieri della regina",
     "artVo": "I",
@@ -535,6 +554,24 @@
     "generique": ["Alberto Sordi", "Silvana Mangano", "Elena Nicolai", "Elena Fabrizi"]
   },
   {
+    "titre": "Mia signora : Luciana",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 66674,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1964,
+    "pays": "Italie",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion."
+    }],
+    "generique": [
+      "Silvana Mangano",
+      "Alberto Sordi"
+    ]
+  },
+  {
     "titre": "Adieu Moscou",
     "titreVo": "Mosca addio",
     "idFilm": 66656,
@@ -598,7 +635,7 @@
     "pays": "France-Italie-RFA",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Film à skecthes : la prostitution à travers les âges."
+      "texte": "Film à sketches : la prostitution à travers les âges."
     }],
     "generique": [
       "Michèle Mercier",

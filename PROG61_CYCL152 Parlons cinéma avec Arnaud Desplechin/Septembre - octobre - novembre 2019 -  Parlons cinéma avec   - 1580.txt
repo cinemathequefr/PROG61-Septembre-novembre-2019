@@ -1,0 +1,42 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>parlons cinéma avec Desplechin
+<pstyle:CATEGORIE TXT><cTypeface:Bold>Admirations<cTypeface:>
+Tous mes films sont nés des films admirés. Dans ma fabrique, je n’ai fait que croiser les traces vivantes de ma cinéphilie. En faisant des films, je n’ai cessé d’apprendre de mes maîtres.
+<cSkew:9>La Vie des Morts ?<cSkew:> C’était <cSkew:9>Hôtel de France<cSkew:> revisité à travers le prisme de <cSkew:9>The Dead<cSkew:>. Et les lumières d’Éric Gautier, de la chaleur des intérieurs au froid le plus clinique du final, venaient de notre admiration commune pour Sven Nykvist.
+Ici, il me fallait en choisir trois, exercice impossible ! Alors, j’ai élu trois films solitaires.
+Tous mes films auraient pu s’appeler <cSkew:9>The Dead<cSkew:> ; je dois tout au film de Huston. La note que Huston a su faire vibrer brise le cœur, comme le chanteur qu’Angelica Huston entend au pied de l’escalier vient bouleverser sa vie toute entière. Tout le film se trame à l’insu de ses personnages et à notre propre insu. Une telle vibration est unique dans l’histoire du cinéma, Marguerite Duras l’avait souligné en son temps. Et je me souviens des photos de Huston, en fauteuil roulant, avec une assistance respiratoire, dirigeant ce qui devait être son dernier film… Nous voilà devant un film parfait. Et la fidélité littérale au texte de Joyce me rappelle <cSkew:9>Les Deux Anglaises et le Continent<cSkew:>. Huston s’efface devant Joyce, et jamais sa voix n’aura sonné aussi juste et forte.
+<cSkew:9>The Wrong Man<cSkew:>, parce que – pour la première et dernière fois de sa vie d’artiste –, Hitch enfin dépose les armes de son imagination, de sa fantaisie de légende, pour s’incliner devant le réel. Ici, tout sera vrai. Godard, dans un article admirable, avait suggéré qu’on rebaptise le film <cSkew:9>Humiliés et offensés<cSkew:>. Aussi déchirant que <cSkew:9>Vertig<cSkew:>o, aussi libre que<cSkew:9> Psycho<cSkew:>, <cSkew:9>The Wrong Man <cSkew:>est le portrait nu de son auteur.
+Il me fallait élire un Woody Allen, puisque qu’à la suite de Woody, je dois tout à Bergman ! Bergman ne cessait de déplorer de n’être pas Sjöstrom, Stiller ou Dreyer. Trente ans plus tard, Allen ne cessait de déplorer n’être pas Bergman. Ainsi va le cinéma, depuis les admirables primitifs du Muet : toujours le cinéma nous semble déchoir, et sans cesse il se conquiert.
+De 1977 à 1992, Allen aura réalisé seize chefs-d’œuvre d’affilée. Seize ! Ceci est unique dans l’histoire du cinéma. Parmi ces seize films, j’aime particulièrement ses portraits de femme : <cSkew:9>Alice<cSkew:> ou <cSkew:9>Une Autre femme<cSkew:>… Si j’ai pourtant élu <cSkew:9>Crimes and Misdemeanors<cSkew:>, c’est que jamais Allen n’a été aussi loin dans l’impureté, pour reprendre le mot de Bazin, mêlant avec une virtuosité qui me coupe le souffle, le film noble ou grave à la comédie populaire. Deux récits disjoints, deux héros meurtris qui ne feront que se croiser dans l’épilogue et d’une étrange manière. Film amoral, hanté par le remords, ici, tout est énigme : comme nous l’annonce le titre, si nous assistons bien à un crime au cours du film, quel est donc le délit qu’il nous faut déceler chez le réalisateur joué par l’auteur lui-même ?… Sans un tel film, je n’aurais jamais osé inventer <cSkew:9>Rois et Reine<cSkew:>.
+<cTypeface:Bold>Arnaud Desplechin<cTypeface:>
+
+<pstyle:TITRE>Le Faux coupable
+<pstyle:TITRE_ANG>(The Wrong Man)
+<pstyle:TECHNIQUE>de Alfred Hitchcock
+<pstyle:TECHNIQUE>Etats-Unis/1956/105'/VOSTF/35mm
+<pstyle:TECHNIQUE>d'après "The True story of Christopher Emmanuel Balestrero" de Maxwell Anderson
+<pstyle:TECHNIQUE>Avec Henry Fonda, Vera Miles, Anthony Quayle, Harold J. Stone.
+<pstyle:SYNOPSIS>Manny Ballestero mène une vie paisible avec sa femme et ses deux fils jusqu'au jour oUUU, se rendant à sa compagnie d'assurance, il est formellement reconnu comme l'auteur du hold-up dont la compagnie a été victime quelques mois auparavant.
+<pstyle:><cstyle:INFOSROUGES>je 05 sepXXX19h00XXX
+<cstyle:SALLESROUGES>A
+
+<pstyle:TITRE>Les Gens de Dublin
+<pstyle:TITRE_ANG>(The Dead)
+<pstyle:TECHNIQUE>de John Huston
+<pstyle:TECHNIQUE>Etats-Unis-République fédérale d'Allemagne-Grande-Bretagne/1987/83'/VOSTF/35mm
+<pstyle:TECHNIQUE>D'après  James Joyce.
+<pstyle:TECHNIQUE>Avec Anjelica Huston, Donal McCann, Helena Carroll.
+<pstyle:SYNOPSIS>Dublin, janvier 1904. Comme tous les ans, les sœurs Morkan et leur nièce Mary reçoivent leurs proches et amis pour célébrer l'Épiphanie.
+<pstyle:><cstyle:INFOSROUGES>je 12 sepXXX19h00XXX
+<cstyle:SALLESROUGES>B
+
+<pstyle:TITRE>Crimes et délits
+<pstyle:TITRE_ANG>(Crimes and Misdemeanors)
+<pstyle:TECHNIQUE>de Woody Allen
+<pstyle:TECHNIQUE>Etats-Unis/1988/104'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Woody Allen, Anjelica Huston, Martin Landau, Claire Bloom, Alan Alda.
+<pstyle:SYNOPSIS>Un ophtalmologue et un documentariste se remémorent tous les crimes et délits qu'ils ont pu commettre dans leur vie.
+<pstyle:><cstyle:INFOSROUGES>je 19 sepXXX19h30XXX
+<cstyle:SALLESROUGES>B

@@ -1,0 +1,88 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>Catégorie principale
+
+<pstyle:TITRE>Critique de la séparation
+<pstyle:TECHNIQUE>de Guy Debord
+<pstyle:TECHNIQUE>France/1961/17'/DCP
+<pstyle:SYNOPSIS>Film composé d'images de nature diverse enchevêtrées (comics, photographies d'identité, journaux, extraits de films). 
+L'ajout de sous titres, et d'un commentaire critique vise à rendre l'ensemble difficile à suivre.
+<pstyle:INFOS_UTILES>Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries.
+<pstyle:><cstyle:INFOSBLEUES>sa 19 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Film suivi de Réfutation de tous les jugements, tant élogieux qu'hostiles, qui ont été jusqu'ici portés sur le film "La Société du spectacle" de Guy Debord
+<pstyle:EVENEMENT>Film suivi de Sur le passage de quelques personnes à travers une assez courte unité de temps de Guy Debord
+
+<pstyle:TITRE>Guy Debord, son art et son temps
+<pstyle:TECHNIQUE>de Brigitte Cornand
+<pstyle:TECHNIQUE>France/1994/60'/Numérique
+<pstyle:SYNOPSIS>Réalisé par Brigitte Cornand avec l'appui de Guy Debord, ce film composé de photographies et d'archives en noir et blanc, d'actualités télévisées récentes ou anciennes, de textes apparaissant à l'écran, et ponctué de réflexions de Guy Debord constitue une critique de la société et des médias.
+<pstyle:><cstyle:INFOSBLEUES>di 20 octXXX18h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Hurlements en faveur de Sade
+<pstyle:TECHNIQUE>de Guy Debord
+<pstyle:TECHNIQUE>France/1952/64'/DCP
+<pstyle:SYNOPSIS>Ce film alterne séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off, avec des séquences à écran noir silencieuses.
+<pstyle:INFOS_UTILES>Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries.
+<pstyle:><cstyle:INFOSBLEUES>sa 19 octXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>In girum imus nocte et consumimur igni
+<pstyle:TECHNIQUE>de Guy Debord
+<pstyle:TECHNIQUE>France/1978/100'/DCP
+<pstyle:SYNOPSIS>Une introspection éclairée par le cinéma. « Les spectateurs ne peuvent rester indifférents, en cette époque de tous les renoncements, de tous les arrangements, à cette voix seule qui parle d'absolu. » (Pascal Bonitzer)
+
+
+
+<pstyle:SYNOPSIS>Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries.
+<pstyle:><cstyle:INFOSBLEUES>di 20 octXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Dialogue p.X
+
+<pstyle:TITRE>Réfutation de tous les jugements, tant élogieux qu'hostiles, qui ont été jusqu'ici portés sur le film "La Société du spectacle"
+<pstyle:TECHNIQUE>de Guy Debord
+<pstyle:TECHNIQUE>France/1975/22'/DCP
+<pstyle:SYNOPSIS>Destiné à répondre aux attaques portées sur <cSkew:9>La Société du Spectacle<cSkew:> dont il a été l'objet au moment de sa sortie en salle, cet essai marque le début d'un processus de "réfutation" que Guy Debord réaffirme par la suite.
+<pstyle:INFOS_UTILES>Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries.
+<pstyle:><cstyle:INFOSBLEUES>sa 19 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Film précédé de Critique de la séparation de Guy Debord
+<pstyle:EVENEMENT>Film suivi de Sur le passage de quelques personnes à travers une assez courte unité de temps de Guy Debord
+
+<pstyle:TITRE>La Société du spectacle
+<pstyle:TECHNIQUE>de Guy Debord
+<pstyle:TECHNIQUE>France/1973/90'/DCP
+<pstyle:TECHNIQUE>D'après Guy Debord.
+<pstyle:SYNOPSIS>Lecture de pages choisies du livre de Guy Debord, illustrée d'extraits de <cSkew:9>Johnny Guitare, Shanghai Gesture, Potemkine, La Charge fantastique<cSkew:>, etc. 
+<cSkew:9>« Toute la vie des sociétés dans lesquelles règnent les conditions modernes de production s'annonce comme une immense accumulation de spectacles. Tout ce qui était directement vécu s'est éloigné dans une représentation. »<cSkew:> (Guy Debord)
+
+<pstyle:SYNOPSIS>Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries.
+<pstyle:><cstyle:INFOSBLEUES>sa 19 octXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Sur le passage de quelques personnes à travers une assez courte unité de temps
+<pstyle:TECHNIQUE>de Guy Debord
+<pstyle:TECHNIQUE>France/1959/18'/DCP
+<pstyle:SYNOPSIS>Film expérimental réalisé comme un "anti documentaire" visant l<0x2019>évitement de tout élément "digne d<0x2019>intérêt" par le moyen de plans vagues et de vues en extérieurs, accompagnés de commentaires contestataires.
+<pstyle:INFOS_UTILES>Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries.
+<pstyle:><cstyle:INFOSBLEUES>sa 19 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Film précédé de Critique de la séparation de Guy Debord
+<pstyle:EVENEMENT>Film précédé de Réfutation de tous les jugements, tant élogieux qu'hostiles, qui ont été jusqu'ici portés sur le film "La Société du spectacle" de Guy Debord
+
+<pstyle:CATEGORIE>Rencontres et conférences
+
+<pstyle:CONFERENCE TITRE>Guy Debord, cinéaste animé par Jean-François Rauger
+<pstyle:CONFERENCE TXT>« Je ne ferai dans ce film aucune concession au public.
+Plusieurs excellentes raisons justifient, à mes yeux, une telle conduite ; et je vais les dire.
+Tout d<0x2019>abord, il est assez notoire que je n<0x2019>ai nulle part fait de concessions aux idées dominantes de mon époque, ni à aucun des pouvoirs existants.
+Par ailleurs, quelle que soit l<0x2019>époque, rien d<0x2019>important ne s<0x2019>est communiqué en ménageant un public, fût-il composé des contemporains de Périclès ; et, dans le miroir glacé de l<0x2019>écran, les spectateurs ne voient présentement rien qui évoque les citoyens respectables d<0x2019>une démocratie. » (Guy Debord, texte lu en voix off au début d<0x2019><cSkew:9>In girum imus nocte et consumimur igni<cSkew:>)
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Olivier Assayas<cTypeface:> est cinéaste (<cSkew:9>Paris s<0x2019>éveille<cSkew:>, <cSkew:9>Irma Vep<cSkew:>, <cSkew:9>Demonlover<cSkew:>, <cSkew:9>Carlos<cSkew:>,<cSkew:9> Après Mai<cSkew:>,<cSkew:9> Personal Shopper<cSkew:>, <cSkew:9>Doubles vies<cSkew:>…). Depuis le début des années 2000 et à la demande d<0x2019>Alice Debord, il a suivi la restauration et la réédition de l<0x2019>œuvre cinématographique de Guy Debord invisible depuis 1984. Avec l'aide précieuse de Bernard Eisenschitz, de Donald Nicholson-Smith, de Sylvie Barthet et des Films du Losange, il a également impulsé et supervisé la première version anglaise de ces films qui jusqu<0x2019>alors n<0x2019>étaient accessibles que dans leur version originale.
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Vincent Kaufmann<cTypeface:> enseigne à l<0x2019>université de St. Gallen (Suisse). Il est professeur et chercheur en sociologie urbaine. Il a, entre autres, publié : <cSkew:9>Guy Debord : la révolution au service de la poésie<cSkew:> (Fayard, 2001) et <cSkew:9>Dernières nouvelles du spectacle (Ce que les médias font à la littérature)<cSkew:>, Seuil, 2017.
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Jean-François Rauger<cTypeface:> est directeur de la programmation à La Cinémathèque française.
+<pstyle:><cstyle:INFOSBLEUES>di 20 octXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la projection de <cSkew:9>In girum imus nocte et consumimur igni<cSkew:> de Guy Debord (Voir P.xx), Dialogue avec Olivier Assayas, Vincent Kaufmann.
+<pstyle:PRATIQUE>Tarifs séance : PT 7 <0x20AC>, TR 5.5 <0x20AC>, Libre Pass accès libre.

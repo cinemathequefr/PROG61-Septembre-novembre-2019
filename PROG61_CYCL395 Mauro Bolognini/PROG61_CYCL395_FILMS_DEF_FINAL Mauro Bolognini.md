@@ -76,6 +76,14 @@ D'après les recueils de nouvelles _Racconti romani_ et _Nuovi racconti romani_ 
 Avec Jean Sorel, Lea Massari, Paolo Stoppa.  
 Un jeune chômeur, ayant besoin d'argent pour entretenir sa famille, se rend à Rome pour trouver du travail. Il y fait de multiples rencontres.
 
+[60124]  
+**Caprice à l'italienne**  
+**(Capriccio all'italiana)**  
+de Mauro Bolognini, Mario Monicelli, Pier Paolo Pasolini, Steno, Pino Zac  
+Italie / 1967  
+Avec Silvana Mangano, Enzo Marignani, Ugo D'Alessio, Dante Maggio.  
+Film à sketches : un regard souvent acerbe sur la société italienne des années 60.
+
 [42108]  
 **Ce merveilleux automne**  
 **(Un bellissimo novembre)**  
@@ -236,6 +244,13 @@ Film à sketches en cinq segments sur les relations houleuses entre mari et femm
 
 Mauro Bolognini réalise les épisodes _I Miei cari_ et _Luciana_.
 
+[66674]  
+**La Mia signora : Luciana**  
+de Mauro Bolognini  
+Italie / 1964  
+Avec Silvana Mangano, Alberto Sordi.  
+En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion.
+
 [56602]  
 **Les Ogresses**  
 **(Le Fate)**  
@@ -337,4 +352,3 @@ Italie / 1991
 D'après la nouvelle _La Villa del venerdì_ d'Alberto Moravia.  
 Avec Joanna Pacula, Tchéky Karyo, Julian Sands, Jeanne Valérie.  
 À peine mariée avec Stefan, Alina exige de pouvoir prendre un amant. Son époux accepte, à la seule condition qu'elle lui rapporte chaque détail de cette liaison.
-
