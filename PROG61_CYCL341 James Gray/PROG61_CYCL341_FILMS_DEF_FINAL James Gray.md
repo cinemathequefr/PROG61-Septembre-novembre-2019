@@ -5,7 +5,7 @@
 de James Gray  
 États-Unis / 2012  
 Avec Marion Cotillard, Joaquin Phoenix, Jeremy Renner.  
-1921\. Ewa et sa sœur Magda quittent leur Pologne natale pour New York. À leur arrivée, Magda, tuberculeuse, est placée en quarantaine. Seule et désemparée, Ewa tombe sous la coupe d'un souteneur sans scrupules. Pour sauver sa sœur, elle est prête à tous les sacrifices et se livre, résignée, à la prostitution.
+1921. Ewa et sa sœur Magda quittent leur Pologne natale pour New York. À leur arrivée, Magda, tuberculeuse, est placée en quarantaine. Seule et désemparée, Ewa tombe sous la coupe d'un souteneur sans scrupules. Pour sauver sa sœur, elle est prête à tous les sacrifices et se livre, résignée, à la prostitution.
 
 [54350]  
 **Little Odessa**  
@@ -43,3 +43,4 @@ de James Gray
 États-Unis / 1999  
 Avec Mark Wahlberg, Joaquin Phoenix, Charlize Theron, James Caan.  
 À sa sortie de prison, Leo tente de rester dans le droit chemin. Mais il doit travailler pour l'entreprise familiale, gérée par son oncle, qui trempe dans des affaires douteuses.
+

@@ -75,7 +75,7 @@ D'après le roman _Don Quichotte_ de Miguel de Cervantes.
 Avec Fédor Chaliapine, Dorville, Renée Vallier.  
 L'histoire du chevalier à la triste figure et de son écuyer Sancho Panza.
 
-Film restauré et numérisé d'après les négatifs originaux nitrates par Les Films du Panthéon en collaboration avec Les Films du Jeudi. Avec le soutien du CNC et de la Cinémathèque Française. Moyens techniques Hiventy. Remerciements à Martin Koerber (Murnau Stiftung).
+Film restauré et numérisé d'après les négatifs originaux nitrate par les Films du Panthéon en collaboration avec les Films du Jeudi. Avec le soutien du CNC et de la Cinémathèque Française. Moyens techniques Hiventy. Remerciements à Martin Koerber (Murnau Stiftung).
 
 [53855]  
 **Le Drame de Shanghaï**  
@@ -158,7 +158,7 @@ de Georg Wilhelm Pabst
 Allemagne / 1928  
 D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind.  
 Avec Louise Brooks, Fritz Kortner, Franz Lederer, Carl Goetz.  
-Loulou, femme fatale, parvient à épouser le Docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils.
+Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils.
 
 [42347]  
 **La Maison du silence**  
@@ -201,7 +201,7 @@ Dans un quartier de Londres en proie aux guerres de gangs, une rivalité s'insta
 de Georg Wilhelm Pabst  
 Allemagne / 1942  
 Avec Werner Krauss, Mathias Wieman, Martin Urtel.  
-Au XVI<sup>e</sup> siècle, la vie du docteur Paracelse, qui pratique la médecine d'une manière peu conventionnelle pour l'époque.
+Au XVI<sup>e</sup> siècle, la vie de Paracelse, qui pratique la médecine d'une manière peu conventionnelle pour l'époque.
 
 [40724]  
 **Le Procès**  
@@ -229,7 +229,7 @@ D'après le roman _Quatre de l'infanterie_ d'Ernst Johannsen.
 Avec Fritz Kampers, Gustav Diessl, Claus Clausen.  
 En 1918, quatre fantassins allemands se retrouvent sur le front français à quelques mois de la fin du conflit.
 
-Film restauré par la Deutsche Kinemathek à partir d'un négatif de 1931 et d'un négatif de 1964, en coopération avec le British Film Institute. Ressortie en salles par Tamasa.
+Film restauré par la Deutsche Kinemathek en coopération avec le British Film Institute à partir de négatifs de 1931 et 1964. Ressortie en salles par Tamasa.
 
 [45672]  
 **La Rue sans joie**  
@@ -285,3 +285,4 @@ de Georg Wilhelm Pabst
 D'après le roman _Un héros moderne_ de Louis Bromfield.  
 Avec Richard Barthelmess, Jean Muir, Marjorie Rambeau.  
 Un jeune et séduisant acrobate de cirque n'hésite pas à utiliser son art et à jouer de son charme pour servir ses ambitions.
+

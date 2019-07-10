@@ -25,8 +25,6 @@ D'après la nouvelle _Criminals Mark_ de John et Ward Hawkins.
 Avec Gene Nelson, Sterling Hayden, Phyllis Kirk.  
 Deux gangsters en cavale usent de la force pour contraindre un de leurs anciens acolytes, désormais rangé, à participer à un nouveau méfait.
 
-Deux gangsters en cavale usent de la force pour contraindre un de leurs anciens acolytes, désormais rangé, à participer à un nouveau méfait.
-
 [54649]  
 **Les Décimales du futur**  
 **(The Final Programme)**  

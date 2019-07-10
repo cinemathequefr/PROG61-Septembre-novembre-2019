@@ -1,0 +1,119 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>Catégorie principale
+
+<pstyle:TITRE>L'Amour fou
+<pstyle:TECHNIQUE>de Jacques Rivette
+<pstyle:TECHNIQUE>France/1967/252'/35mm
+<pstyle:TECHNIQUE>Avec Bulle Ogier, Jean-Pierre Kalfon.
+<pstyle:SYNOPSIS>Sébastien, metteur en scène de théâtre, monte<cSkew:9> Andromaque<cSkew:> de Racine, pièce dans laquelle sa compagne Claire doit jouer le rôle d'Hermione. Mais durant les répétitions, un conflit les oppose et Claire quitte soudainement le théâtre. Tandis que Sébastien décide de faire appel à Marta, son ancienne épouse, pour la remplacer, Claire sombre dans le désespoir.
+<pstyle:><cstyle:INFOSBLEUES>sa 14 sepXXX18h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Jean-Pierre Kalfon
+
+<pstyle:TITRE>La Bande à Bonnot
+<pstyle:TECHNIQUE>de Philippe Fourastié
+<pstyle:TECHNIQUE>France-Italie/1968/105'/35mm
+<pstyle:TECHNIQUE>Avec Jacques Brel, Bruno Cremer, Annie Girardot, Jean-Pierre Kalfon.
+<pstyle:SYNOPSIS>Au début du XXe siècle, à Paris, une bande de voyous terrorise la ville. Formé d'ouvriers anarchistes haïssant la bourgeoisie, ce gang braque les banques et commet des meurtres. A leur tête, Jules Bonnot. La police met sur l'affaire l'un de ses meilleurs commissaires pour mettre fin à leurs méfaits...
+<pstyle:><cstyle:INFOSBLEUES>je 12 sepXXX16h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les Gauloises bleues
+<pstyle:TECHNIQUE>de Michel Cournot
+<pstyle:TECHNIQUE>France/1967/93'/DCP
+<pstyle:TECHNIQUE>Avec Annie Girardot, Jean-Pierre Kalfon, Bruno Cremer.
+<pstyle:SYNOPSIS>Au chômage et sans domicile, Ivan fait la connaissance de Jeanne, une jeune serveuse. Ils se marient et, bientôt, Jeanne est enceinte. En attendant la naissance de son fils, Ivan revoit son existence passée.
+<pstyle:><cstyle:INFOSBLEUES>ve 13 sepXXX21h45XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Martine Pascal
+
+<pstyle:TITRE>Les Idoles
+<pstyle:TECHNIQUE>de Marc'O
+<pstyle:TECHNIQUE>France/1967/105'/DCP
+<pstyle:TECHNIQUE>D'après Marc'O.
+<pstyle:TECHNIQUE>Avec Bulle Ogier, Pierre Clémenti, Jean-Pierre Kalfon.
+<pstyle:SYNOPSIS>«J’ai fait ce film parce qu’il y a beaucoup de choses à dire par l’entremise du cinéma que l’on ne pourrait exprimer par le théâtre.» (Marc’O, 1968)
+<pstyle:><cstyle:INFOSBLEUES>me 11 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Jean-Pierre Kalfon, Marc'O
+
+<pstyle:TITRE>Mamaia
+<pstyle:TECHNIQUE>de José Varela
+<pstyle:TECHNIQUE>France/1966/95'/35mm
+<pstyle:TECHNIQUE>Avec Adriana Bogdan, Jean-Pierre Kalfon.
+<pstyle:SYNOPSIS>Nana, jeune étudiante roumaine, et son fiancé partent pour se marier dans le delta du Danube. En route, Nana veut aller chez le coiffeur de Mamaia. Elle y rencontre Balthazar, le chauffeur d'un groupe de rock.
+<pstyle:><cstyle:INFOSBLEUES>di 15 sepXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les Oiseaux vont mourir au Pérou
+<pstyle:TECHNIQUE>de Romain Gary
+<pstyle:TECHNIQUE>France/1967/95'/35mm
+<pstyle:TECHNIQUE>d'après la nouvelle "Les Oiseaux vont mourir au Pérou" de Romain Gary
+<pstyle:TECHNIQUE>Avec Jean Seberg, Maurice Ronet, Pierre Brasseur, Danielle Darrieux, Jean-Pierre Kalfon.
+<pstyle:SYNOPSIS>Adriana, une ravissante jeune femme, est abordée par un groupe d'individus avec qui elle s'abandonne sur une plage. Son mari part à sa recherche : il a décidé de la tuer.
+<pstyle:><cstyle:INFOSBLEUES>di 15 sepXXX18h45XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Panthéon Discount
+<pstyle:TECHNIQUE>de Stéphan Castang
+<pstyle:TECHNIQUE>France/2016/15'/DCP
+<pstyle:TECHNIQUE>Avec Christian Delvallée.
+<pstyle:SYNOPSIS>En 2050, la médecine est remplacée par une machine : le Sherlock ,une sorte de super scanner qui non seulement diagnostique, mais soigne également suivant les moyens du patient.
+<pstyle:><cstyle:INFOSBLEUES>di 15 sepXXX20h45XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Film suivi de Paul de Diourka Medveczky
+
+<pstyle:TITRE>Paul
+<pstyle:TECHNIQUE>de Diourka Medveczky
+<pstyle:TECHNIQUE>France/1968/93'/35mm
+<pstyle:TECHNIQUE>Avec Jean-Pierre Léaud, Bernadette Lafont, Jean-Pierre Kalfon.
+<pstyle:SYNOPSIS>Paul, un jeune homme d'une famille bourgeoise, désireux de donner une signification à sa vie, quitte les siens pour errer dans la ville. A la suite d'une rencontre hasardeuse, il est amené à traverser la France pour rejoindre un groupe de végétariens monastiques et nocturnes...
+<pstyle:><cstyle:INFOSBLEUES>di 15 sepXXX20h45XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Film précédé de Panthéon Discount de Stéphan Castang
+
+<pstyle:TITRE>Une étrange affaire
+<pstyle:TECHNIQUE>de Pierre Granier-Deferre
+<pstyle:TECHNIQUE>France/1981/105'/35mm
+<pstyle:TECHNIQUE>D'après Jean-Marc Roberts.
+<pstyle:TECHNIQUE>Avec Michel Piccoli, Gérard Lanvin, Nathalie Baye, Jean-Pierre Kalfon.
+<pstyle:SYNOPSIS>Un jeune publicitaire ambitieux rentre dans le jeu de son nouveau patron qui abuse de son dévouement et en néglige sa femme.
+
+<pstyle:><cstyle:INFOSBLEUES>di 15 sepXXX16h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Une fille et des fusils
+<pstyle:TECHNIQUE>de Claude Lelouch
+<pstyle:TECHNIQUE>France/1964/104'/DCP
+<pstyle:TECHNIQUE>Avec Jean-Pierre Kalfon, Jacques Portet, Janine Magnan.
+<pstyle:SYNOPSIS>Pour devenir de vrais gangsters, quatre jeunes paumés s’astreignent à une discipline de fer pour éviter de mal finir, comme la plupart de leurs prédécesseurs. Ils apprendront à jouer au poker, à se battre, à prendre des coups et à tirer au revolver. Après la théorie, ils s’attaquent à la pratique en préparant un gros coup…
+<pstyle:><cstyle:INFOSBLEUES>ve 13 sepXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Claude Lelouch
+
+<pstyle:TITRE>La Vallée
+<pstyle:TECHNIQUE>de Barbet Schroeder
+<pstyle:TECHNIQUE>France/1971/106'/DCP
+<pstyle:TECHNIQUE>Avec Jean-Pierre Kalfon, Bulle Ogier, Valérie Lagrange.
+<pstyle:SYNOPSIS>Femme de consul, Viviane participe à une expédition en Nouvelle-Guinée. Elle s'éprend du leader du groupe, dont l'objectif est d'atteindre une mystérieuse vallée, oUUU nul n'ose s'aventurer.
+<pstyle:><cstyle:INFOSBLEUES>sa 14 sepXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Voir aussi Dialogue p.X
+
+<pstyle:CATEGORIE>Rencontres et conférences
+
+<pstyle:CONFERENCE TITRE>Jean-Pierre Kalfon raconté par lui-même... animé par Bernard Payen
+<pstyle:CONFERENCE TXT>« <cSkew:9>La Vallée<cSkew:>, c’est Shangri-La, le paradis sur terre. C’est une rêverie, dont les éléments sont réels. Le cinéma les fait exister. C’est cela la force du cinéma : son pouvoir de réalité. »
+Barbet Schroeder
+
+« Une des scènes les plus marquantes du film est celle de la cérémonie à laquelle nous participons avec les Papous. (…) Ils nous avaient enduit le corps d’huile, avant de le saupoudrer de cendre et de nous poser des coiffes en plumes d’oiseaux de paradis. Ainsi, aidés par le bronzage, nous avions la même couleur qu’eux. »
+Jean-Pierre Kalfon (<cSkew:9>Tout va bien M’man ! Souvenirs<cSkew:>, 2018)
+
+Le dialogue sera suivi d’une signature à la Librairie, à partir de 17h30, oUUU Jean-Pierre Kalfon dédicacera ses Mémoires : <cSkew:9>Tout va bien M’man. Souvenirs<cSkew:>, Éditions de l’Archipel, 2018
+<pstyle:CONFERENCE NOTE>Après avoir créé plusieurs revues (papier et en ligne), <cTypeface:Bold>Bernard Payen<cTypeface:> rejoint La Cinémathèque française en 2001. Responsable de programmation depuis 2011, il organise notamment des rencontres régulières dédiées à la jeune création cinématographique contemporaine. Ancien responsable du court métrage à la Semaine de la Critique, il a réalisé plusieurs films et poursuit une activité journalistique pour le magazine <cSkew:9>Court-Circuit <cSkew:>(Arte), la revue<cSkew:9> Bref<cSkew:>, ou la radio Aligre Fm.
+<pstyle:><cstyle:INFOSBLEUES>sa 14 sepXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:CONFERENCE NOTE>À la suite de la projection de La Vallée de Barbet Schroeder (Voir P.xx), Dialogue avec Jean-Pierre Kalfon.
+<pstyle:PRATIQUE>Tarifs séance : PT 7 <0x20AC>, TR 5.5 <0x20AC>, Libre Pass accès libre.

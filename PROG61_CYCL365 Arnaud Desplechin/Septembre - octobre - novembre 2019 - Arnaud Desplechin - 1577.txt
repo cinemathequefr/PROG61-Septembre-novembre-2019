@@ -1,0 +1,176 @@
+  <ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>Catégorie principale
+
+<pstyle:TITRE>L'Aimée
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/2006/65'/35mm
+<pstyle:TECHNIQUE>Avec Robert Desplechin, Arnaud Desplechin, Fabrice Desplechin.
+<pstyle:SYNOPSIS>Seul et unique documentaire de la filmographie de Desplechin, <cSkew:9>L’Aimée <cSkew:>est tourné dans sa ville natale, à Roubaix. La maison familiale, sur le point d’être vendue, est le théâtre d’adieux à l’occasion desquels le cinéaste retrouve son père, qui raconte à son fils l'histoire de sa grand-mère, Thérèse...
+<pstyle:><cstyle:INFOSBLEUES>je 29 aoûXXX19h15XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Arnaud Desplechin
+
+<pstyle:TITRE>Comment je me suis disputé... (Ma vie sexuelle)
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/1994/178'/DCP
+<pstyle:TECHNIQUE>Avec Mathieu Amalric, Thibault de Montalembert, Emmanuelle Devos, Marianne Denicourt.
+<pstyle:SYNOPSIS>Paul Dédalus, trentenaire parisien et maître-assistant à Nanterre, essaie de finir sa thèse et tente de se séparer de sa compagne Esther avec laquelle il vit une relation tumultueuse depuis dix ans.
+<pstyle:><cstyle:INFOSBLEUES>sa 31 aoûXXX19h45XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Emmanuelle Devos
+
+<pstyle:TITRE>Esther Kahn
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France-Grande-Bretagne/1998/157'/VOSTF/35mm
+<pstyle:TECHNIQUE>d'après le roman "Esther Kahn" de Arthur Symons
+<pstyle:TECHNIQUE>Avec Summer Phoenix, Ian Holm, Emmanuelle Devos.
+<pstyle:SYNOPSIS>Timide et rêveuse, la jeune Esther Kahn vit dans le quartier juif de Londres à la fin du XIXème siècle. Travaillant dans l'atelier de couture familial, elle va de temps à autre au théâtre. Un jour, elle est recrutée comme figurante. Ses premiers pas sur les planches sont une révélation. Un vieil acteur lui propose de la former. Mais Esther n'a aucune expérience des sentiments qu'elle est censée exprimer sur scène...
+<pstyle:><cstyle:INFOSBLEUES>sa 07 sepXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Eric Gautier
+<pstyle:EVENEMENT>Voir aussi Leçon de cinéma p.X
+
+<pstyle:TITRE>Les Fantômes d'Ismaël
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/2016/135'/DCP
+<pstyle:TECHNIQUE>Avec Mathieu Amalric, Marion Cotillard, Charlotte Gainsbourg.
+<pstyle:SYNOPSIS>A la veille du tournage de son nouveau film, la vie d'un cinéaste est chamboulée par la réapparition d'un amour disparu...
+<pstyle:><cstyle:INFOSBLEUES>di 01 sepXXX20h45XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Irina Lubtchansky, Hippolyte Girardot
+
+<pstyle:TITRE>La Forêt
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/2014/90'/DCP
+<pstyle:TECHNIQUE>Avec Michel Vuillermoz, Denis Podalydès.
+<pstyle:SYNOPSIS>Dans la Russie du XIXème siècle, une riche veuve vieillissante et à cheval sur la morale s’éprend pourtant d’un jeune aristocrate sans le sou. Elle va céder les bois de son domaine quand l’arrivée d’un neveu, héritier de la propriété et acteur de profession, vient contrarier ses plans.
+<pstyle:><cstyle:INFOSBLEUES>je 29 aoûXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Michel Vuillermoz, Grégoire Hetzel
+
+<pstyle:TITRE>Jimmy P. (Psychothérapie d'un Indien des plaines)
+<pstyle:TITRE_ANG>(Jimmy P.)
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>Etats-Unis/2012/120'/VOSTF/DCP
+<pstyle:TECHNIQUE>d'après le livre "Psychothérapie d'un Indien des Plaines" de Georges Devereux
+<pstyle:TECHNIQUE>Avec Benicio Del Toro, Mathieu Amalric, Gina McKee.
+<pstyle:SYNOPSIS>Au lendemain de la Seconde Guerre Mondiale, Jimmy Picard, un Indien Blackfoot ayant combattu en France, est admis à l’hôpital militaire de Topeka, au Kansas, un établissement spécialisé dans les maladies du cerveau. Jimmy Picard souffre de nombreux troubles : vertiges, cécité temporaire, perte d’audition... En l’absence de causes physiologiques, le diagnostic qui s’impose est la schizophrénie.
+<pstyle:><cstyle:INFOSBLEUES>di 01 sepXXX17h45XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Nicolas Saada
+
+<pstyle:TITRE>Léo en jouant "Dans la compagnie des hommes"
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/2002/118'/35mm
+<pstyle:TECHNIQUE>D'après Edward Bond.
+<pstyle:TECHNIQUE>Avec Sami Bouajila, Jean-Paul Roussillon, Wladimir Yordanoff, Laszlo Szabo, Anna Mouglalis.
+<pstyle:SYNOPSIS>Henri Jurrieu, puissant industriel de l'armement, annonce à la télévision l'échec d'une tentative d'OPA sur sa société. Dans le salon de sa luxueuse résidence, son fils adoptif Léonard, son administrateur Claude Doniol et son domestique noir Jonas Servun assistent à son triomphe.
+<pstyle:><cstyle:INFOSBLEUES>di 01 sepXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Nicolas Saada
+
+<pstyle:TITRE>Rois et reine
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/2003/151'/35mm
+<pstyle:TECHNIQUE>Avec Emmanuelle Devos, Mathieu Amalric, Catherine Deneuve.
+<pstyle:SYNOPSIS>Deux histoires disjointes : d'une part le couronnement de Nora Cotterelle, sur le point de se marier, et d'autre part la déchéance d'Ismaël Vuillard, interné par erreur dans un asile psychiatrique dont il n'est pas loin de sortir en piètre état.
+<pstyle:><cstyle:INFOSBLEUES>me 28 aoûXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Ouverture de la rétrospective
+<pstyle:><cstyle:INFOSBLEUES>ve 06 sepXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance suivie d'une discussion avec Arnaud Desplechin, Mathieu Amalric
+<pstyle:EVENEMENT>Voir aussi Dialogue p.X
+
+<pstyle:TITRE>La Sentinelle
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/1991/139'/DCP
+<pstyle:TECHNIQUE>Avec Emmanuel Salinger, Thibault de Montalembert, Jean-Louis Richard, Valérie Dréville, Marianne Denicourt.
+<pstyle:SYNOPSIS>Mathias découvre dans sa valise une tête humaine coupée et naturalisée. Il ne pense plus qu'à cette tête, tente de percer son mystère et s'isole totalement du monde...
+<pstyle:><cstyle:INFOSBLEUES>sa 31 aoûXXX16h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Emmanuel Salinger (sous réserve), Caroline Champetier, Bruno Todeschini
+
+<pstyle:TITRE>Trois souvenirs de ma jeunesse
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/2014/124'/DCP
+<pstyle:TECHNIQUE>Avec Quentin Dolmaire, Lou Roy-Lecollinet, Mathieu Amalric.
+<pstyle:SYNOPSIS>Paul Dédalus, revient en France après plusieurs années d'absence, et se remémore des scènes de sa jeunesse : des souvenirs de famille de son enfance, à Roubaix, un souvenir d’adolescence lors d'un voyage en URSS, au cours duquel il donne son passeport à un jeune juif qui rêve de fuir l'empire soviétique, et son histoire d’amour, encore jeune homme, avec Esther, une lycéenne de Roubaix.
+<pstyle:><cstyle:INFOSBLEUES>di 08 sepXXX14h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Quentin Dolmaire, Lou Roy-Lecollinet (à confirmer)
+
+<pstyle:TITRE>Un conte de Noël
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/2007/150'/35mm
+<pstyle:TECHNIQUE>d'après le roman "La Greffe" de Jacques Asher et Jean-Pierre Jouet
+<pstyle:TECHNIQUE>Avec Catherine Deneuve, Jean-Paul Roussillon, Anne Consigny, Mathieu Amalric.
+<pstyle:SYNOPSIS>Une famille se réunit à Roubaix pendant les fêtes de Noël. Henri, le fils « mal aimé », s'avère le seul compatible pour un don de moelle osseuse susceptible de sauver sa mère.
+<pstyle:><cstyle:INFOSBLEUES>sa 07 sepXXX20h15XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Anne Consigny, Melvil Poupaud
+
+<pstyle:TITRE>La Vie des morts
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/1990/54'/DCP
+<pstyle:TECHNIQUE>Avec Thibault de Montalembert, Roch Leibovici, Marianne Denicourt.
+<pstyle:SYNOPSIS>Patrick, 20 ans, a tenté de mettre fin à ses jours. Alors qu'il est plongé dans un profond coma, les quatre branches de sa famille se retrouvent dans une maison bourgeoise du nord de la France.
+<pstyle:><cstyle:INFOSBLEUES>sa 31 aoûXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Arnaud Desplechin
+
+<pstyle:CATEGORIE>Soirée de clôture
+
+<pstyle:TITRE>Roubaix, une lumière
+<pstyle:TECHNIQUE>de Arnaud Desplechin
+<pstyle:TECHNIQUE>France/2018/119'/DCP
+<pstyle:TECHNIQUE>Avec Léa Seydoux, Sara Forestier, Roschdy Zem.
+<pstyle:SYNOPSIS>À Roubaix, un soir de Noël, Daoud le chef de la police locale et Louis, fraîchement diplômé, font face au meurtre d’une vieille femme. Les voisines de la victime, deux jeunes femmes, Claude et Marie, sont arrêtées. Elles sont toxicomanes, alcooliques, amantes…
+<pstyle:><cstyle:INFOSBLEUES>di 08 sepXXX17h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Sobibor, 14 octobre 1943, 16 heures
+<pstyle:TECHNIQUE>de Claude Lanzmann
+<pstyle:TECHNIQUE>France/2000/95'/DCP
+<pstyle:SYNOPSIS>Camp de Sobibor, 14 octobre 1943, 16 heures : lieu, jour, mois, année et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. Récit de son évasion par un des rescapés, Yehuda Lerner.
+<pstyle:><cstyle:INFOSBLEUES>di 08 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Dialogue p.X
+
+<pstyle:CATEGORIE>Rencontres et conférences
+
+<pstyle:CONFERENCE TITRE>Film + Dialogue avec Arnaud Desplechin et Mathieu Amalric animé par Frédéric Bonnaud
+<pstyle:CONFERENCE TXT>« La source de <cSkew:9>Rois et Reine<cSkew:>, c’est nos petites vies, mais Arnaud les transforme en geysers. Ce film, c’est un mélange de Douglas Sirk et des Marx Brothers. »
+Mathieu Amalric, 2004
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Mathieu Amalric<cTypeface:> est cinéaste (<cSkew:9>Tournée<cSkew:>, <cSkew:9>La Chambre bleue<cSkew:>,<cSkew:9> Barbara<cSkew:>…) et acteur : il a joué jusqu’à présent dans sept films d’Arnaud Desplechin.
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Frédéric Bonnaud <cTypeface:>est directeur général de la Cinémathèque française.
+<pstyle:><cstyle:INFOSBLEUES>ve 06 sepXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la projection de Rois et reine de Arnaud Desplechin (Voir P.xx), Dialogue avec Mathieu Amalric, Arnaud Desplechin.
+<pstyle:PRATIQUE>Tarifs séance : PT 7 <0x20AC>, TR 5.5 <0x20AC>, Libre Pass accès libre.
+
+<pstyle:CONFERENCE TITRE>Desplechin par Desplechin animée par Frédéric Bonnaud
+<pstyle:CONFERENCE TXT>« S’agissant d’<cSkew:9>Esther Kahn<cSkew:>, je ne voulais pas montrer l’aspect culturel du théâtre, mais l’aborder comme on montre la vie d’un journal ou d’un tribunal : quels sont les rapports de force, les horaires, la topographie… Il faut être concret. »
+Arnaud Desplechin, 2000
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Frédéric Bonnaud <cTypeface:>est directeur général de la Cinémathèque française.
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Éric Gautier<cTypeface:> est directeur de la photographie. Il a signé l'image, entre autres, de nombreux films d'Arnaud Desplechin (<cSkew:9>La Vie des morts<cSkew:>, <cSkew:9>Esther Kahn<cSkew:>, <cSkew:9>Comment je me suis disputé<cSkew:>, <cSkew:9>Rois et reine<cSkew:>, <cSkew:9>Un conte de Noë<cSkew:>l) d'Olivier Assayas (<cSkew:9>Clean<cSkew:>,<cSkew:9> Irma Vep<cSkew:>, <cSkew:9>L'Heure d'été<cSkew:>, <cSkew:9>Après mai<cSkew:>) ou d'Alain Resnais (<cSkew:9>Cœurs<cSkew:>, <cSkew:9>Les Herbes folles<cSkew:>, <cSkew:9>Vous n'avez encore rien vu<cSkew:>).
+<pstyle:><cstyle:INFOSBLEUES>sa 07 sepXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la projection de Esther Kahn de Arnaud Desplechin (Voir P.xx), Leçon de cinéma avec Arnaud Desplechin. En présence de Eric Gautier.
+<pstyle:PRATIQUE>Tarifs Leçon de cinéma : PT 7 <0x20AC>, TR 5.5 <0x20AC>, Libre Pass accès libre.
+
+<pstyle:CONFERENCE TITRE>Film + Dialogue animé par Bernard Benoliel
+<pstyle:CONFERENCE TXT>À la suite de la projection de <cSkew:9>Sobibor<cSkew:>, Arnaud Desplechin parlera du film de Claude Lanzmann, de son importance, ainsi que de son incidence sur <cSkew:9>Roubaix, une lumière<cSkew:>, projeté lors de la séance précédente.
+
+<cSkew:9>Sobibor 14 octobre 1943, 16 heures<cSkew:> de Claude Lanzmann
+Camp de Sobibor, 14 octobre 1943, 16 heures : lieu, jour, mois, année et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. Récit de son évasion par un des rescapés, Yehuda Lerner.
+
+« Sobibor n’est pas une histoire de survie, ou si ça l’est aussi, la survie n’en est pas le point central à mes yeux. Ce qui est central, c’est l’héroïsme, l’usage de la violence, et le fait que Lerner et ses camarades aient mis leur vie en jeu. Ils sont sortis de la passivité, et ce point-là est très difficile à penser. »
+Claude Lanzmann, 2001
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Bernard Benoliel<cTypeface:> est directeur de l'Action culturelle et éducative à La Cinémathèque française.
+<pstyle:><cstyle:INFOSBLEUES>di 08 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la projection de Sobibor, 14 octobre 1943, 16 heures de Claude Lanzmann (Voir P.xx), Dialogue avec Arnaud Desplechin.
+<pstyle:PRATIQUE>Tarifs séance : PT 7 <0x20AC>, TR 5.5 <0x20AC>, Libre Pass accès libre.

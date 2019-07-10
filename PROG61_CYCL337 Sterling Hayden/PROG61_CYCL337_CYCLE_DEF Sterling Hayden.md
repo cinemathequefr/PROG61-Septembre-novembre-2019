@@ -217,15 +217,3 @@ Le rancher John Garth est arrêté pour avoir tué ses parents et gravement bles
 
 - di 27 oct 19h30 GF
 
-## Rencontres et conférences
-
-[]  
-**film + Discussion**  
-45 min  
-Docteure en cinéma, ancien professeur à l'École du Louvre et la New York University, **Gabriela Trujillo** est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille actuellement à l'Action culturelle de la Cinémathèque française.  
-Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre.  
-**Philippe Garnier** a été journaliste, il est traducteur (Fante, Salter, Stone, Didion) et écrivain de cinéma : _Honni soit qui Malibu : quelques écrivains à Hollywood_ (1996) ; _Caractères. Moindres lumières à Hollywood_ (2006), saga sur les acteurs de second plan du cinéma américain ; _Retour vers David Goodis_ (2016)... En 2019, il publie _Sterling Hayden, l'Irrégulier_ (éditions La Rabbia). Il vit à Los Angeles.  
-« Je ne déteste ni aime ce film, bizarrement je ne me souviens de rien. Sauf Sterling Hayden et Thomas Mitchell, deux de mes acteurs favoris" Stuart Heisler, réalisateur de _Journey Into Light_ « Une histoire à la Capra dirigée par un metteur-en-scène aux yeux secs. » Philippe Garnier
-
-- je 24 oct 19h30 GF
-

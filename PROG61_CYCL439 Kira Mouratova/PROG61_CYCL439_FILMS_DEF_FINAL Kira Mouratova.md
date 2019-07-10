@@ -184,3 +184,4 @@ de Georgi Yungvald-Khilkevich
 URSS / 1969  
 Avec Nikolaï Grinko, Vladimir Vyssotski, Yefim Kopelyan, Kira Mouratova.  
 Odessa, 1910. Un vicomte français tient un cabaret où se produisent de nombreux artistes, mais qui sert en réalité de couverture à des révolutionnaires bolcheviks.
+

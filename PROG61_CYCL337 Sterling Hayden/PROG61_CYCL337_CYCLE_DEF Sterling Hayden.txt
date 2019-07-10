@@ -204,11 +204,3 @@
 <pstyle:><cstyle:INFOSBLEUES>di 27 octXXX19h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:CATEGORIE>Rencontres et conférences
-
-<pstyle:TITRE>film + Discussion
-<pstyle:TECHNIQUE>45'
-
-<pstyle:><cstyle:INFOSBLEUES>je 24 octXXX19h30XXX
-<cstyle:SALLESBLEUES>B
-
