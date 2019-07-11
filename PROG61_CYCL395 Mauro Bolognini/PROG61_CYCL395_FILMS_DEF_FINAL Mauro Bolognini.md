@@ -256,7 +256,7 @@ En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mar
 **(Le Fate)**  
 de Luciano Salce, Mario Monicelli, Mauro Bolognini, Antonio Pietrangeli  
 Italie-France / 1966  
-Avec Monica Vitti, Claudia Cardinale, Rquel Welch, Capucine.  
+Avec Monica Vitti, Claudia Cardinale, Raquel Welch, Capucine.  
 Sexy comédie en quatre parties.
 
 [70065]  

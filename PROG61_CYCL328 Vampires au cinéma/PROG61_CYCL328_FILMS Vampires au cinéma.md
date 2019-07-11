@@ -253,7 +253,8 @@ Londres, 1974. La police est convaincue qu'un nouveau cas de vampirisme apparait
 **Dracula's Daughter**  
 de Lambert H. Hillyer  
 États-Unis / 1936  
-Avec Otto Kruger, Gloria Holden, Marguerite Churchill.
+Avec Otto Kruger, Gloria Holden, Marguerite Churchill.  
+Après qu'il a été tué par le professeur Van Helsing, le corps de Dracula est volé par une mystérieuse jeune femme.
 
 [59536]  
 **Du sang pour Dracula**  
@@ -289,10 +290,18 @@ Portugal-France / 1971
 Avec Anne Libert, Britt Nichols, Jesus Franco.  
 Une jeune femme se rend au chevet de sa grand-mère mourante. Cette dernière lui annonce la malédiction familiale: ce sont tous des vampires. Peu de temps après, la jeune femme va habiter chez son oncle et son cousin et se rend compte, petit à petit, qu'elle aussi est maudite.
 
+[54027]  
+**Le Frisson des vampires**  
+de Jean Rollin  
+France / 1970  
+Avec Sandra Julien, Jean-Marie Durand, Jacques Robiolles.
+
 [43247]  
 **El Gran amor del Conde Dracula**  
 de Javier Aguirre  
-Espagne / 1972
+Espagne / 1972  
+Avec Paul Naschy, Haydée Politoff, Rossana Yanni.  
+Quatre femmes passent la nuit dans un vieux sanatorium désert sur une montagne. Elles tombent à tour de rôle dans les mains maléfiques d'un médecin qui les force à sucer le sang des autres et à fouetter les vierges innocentes du village afin qu'ils puissent lécher les coupes suintantes propre.
 
 [120677]*  
 **Histoire de ma mort**  
@@ -343,7 +352,8 @@ Un couple séjourne à Ostende, dans un vaste hôtel désert en cette basse sais
 **(An American Werewolf in London)**  
 de John Landis  
 États-Unis-Grande-Bretagne / 1980  
-Avec David Naughton, Jenny Agutter, Griffin Dunne.
+Avec David Naughton, Jenny Agutter, Griffin Dunne.  
+Deux jeunes Américains en vacances s'égarent dans une région déserte de l'Angleterre. Ils sont attaqués par une bête étrange. Peu après, l'un d'entre eux se réveille dans un hôpital...
 
 [45480]*  
 **Les Maîtresses de Dracula**  
@@ -366,7 +376,9 @@ Un jeune homme de dix-sept ans, obsédé par le sang, est persuadé d'être un v
 **Le Massacre des vampires**  
 **(Le Strage dei vampiri)**  
 de Roberto Mauri  
-Italie / 1962
+Italie / 1962  
+Avec Walter Brandi, Graziella Granata, Luigi Batzella.  
+Dans les environs de Vienne, un vampire élit domicile dans les sous-sols d'un vieux château occupé par Wolfgang et sa femme Louise. Il est séduit par celle-ci et tente alors d'en faire sa compagne de nuits éternelles...
 
 [107022]  
 **Morse**  
@@ -429,7 +441,9 @@ Adam, musicien underground, et Eve, son amante, sont des vampires vivant entre D
 **L'Orgie des vampires**  
 **(Il Mostro dell opera)**  
 de Renato Polselli  
-Italie / 1961
+Italie / 1961  
+Avec Marco Mariani, Giuseppe Addobbati, Barbara Hawards.  
+Une troupe de danseuses investit un vieux théâtre abandonné pour les besoins des répétitions. Malgré les avertissements répétés du gardien des lieux, le directeur décide d'y rester. D'étranges phénomènes vont faire naître à nouveau la vieille malédiction qui plane sur le théâtre.
 
 [36659]*  
 **Les Prédateurs**  
@@ -442,12 +456,29 @@ Miriam, une femme vampire, vit à New York depuis trois cents ans, avec John. Ce
 
 > (Site) Miriam Blaylock, une vampire âgée de trois mille ans, a offert l'immortalité à son mari John. Alors que le charme s'estompe, ce dernier contacte Sarah Roberts, médecin spécialiste du vieillissement. Mais Miriam tombe sous son charme.
 
+[43918]  
+**Les Proies du vampire**  
+**(El Vampiro)**  
+de Fernando Mendez  
+Mexique / 1957  
+Avec Abel Salazar, Ariadne Welter, Carmen Montejo.  
+Une jeune et jolie Mexicaine retourne dans sa ville natale pour organiser des funérailles pour sa tante. Bientôt, elle commence à entendre des histoires troublantes sur la ville, infestée par des vampires, et commence finalement à soupçonner que sa tante restante et le mystérieux voisin d'à côté pourrait être impliqué.
+
 [34512]  
 **Le Retour de Dracula**  
 **(The Return of Dracula = The Fantastic Disappearing Man)**  
 de Paul Landres  
 États-Unis / 1958  
 Après avoir tué et usurpé l'identité d'un artiste tchèque installé dans les Balkans, Dracula s'envole vers les Etats-unis pour continuer sa quête et soif de sang.
+
+[87310]  
+**Santo défend le trésor de Dracula**  
+**(Santo en el tesoro de Drácula)**  
+de René Cardona  
+Mexique / 1968  
+D'après le roman _Dracula_ de Bram Stoker.  
+Avec dos Santos, Aldo Monti, Noelia Noel.  
+Le lutteur mexicain El Santo invente une machine à remonter le temps. Après que quelqu'un a utilisé la machine pour trouver l'emplacement caché du trésor de Drácula, El Santo doit chasser le vampire.
 
 [56863]*  
 **Spermula**  
@@ -501,7 +532,8 @@ Au XIXe siècle, des bourgeois ayant organisé une messe satanique ressuscitent 
 **(From Dusk Till Dawn)**  
 de Robert Rodriguez  
 États-Unis / 1995  
-Avec John Saxon, Harvey Keitel, George Clooney.
+Avec John Saxon, Harvey Keitel, George Clooney.  
+Deux criminels attendent l'arrivée de leur contact dans un bar après la prise d'otage d'une famille près de la frontière mexicaine.
 
 [43667]*  
 **Vampir**  
@@ -532,6 +564,13 @@ de Jean Rollin
 France / 1969  
 Avec Olivier Martin, Caroline Cartier, Maurice Lemaître.  
 Une secte de scientifiques voue une culte à une jeune femme sur laquelle ils font des expériences. Le fils du directeur de la secte tombe amoureux de cette femme vampire et tente de s'échapper avec elle des mains des scientifiques.
+
+[32808]  
+**Vampire,... vous avez dit vampire ?**  
+**(Fright night)**  
+de Tom Holland  
+États-Unis / 1985  
+Un adolescent passionné de films fantastiques surprend ses nouveaux voisins qui emménagent porter un cercueil. Il est convaincu d'avoir affaire à des vampires.
 
 [29210]  
 **Vampires**  
@@ -628,5 +667,6 @@ Un vampire terrorise un châtelain et ses deux filles.
 **Vampyres**  
 de Joseph Larraz  
 Grande-Bretagne / 1974  
+Avec Marianne Morris, Anulka Dziubinska, Murray Brown.  
 Un couple de femmes assassinées en plein ébat sexuel devient un couple de vampires insatiables.
 
