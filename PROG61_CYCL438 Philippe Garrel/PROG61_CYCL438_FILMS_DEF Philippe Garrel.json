@@ -312,6 +312,24 @@
     ]
   },
   {
+    "titre": "Home movie, autour du « Lit de la vierge »",
+    "titreVo": "",
+    "idFilm": 102455,
+    "ageMinimal": null,
+    "realisateurs": "Frédéric Pardo",
+    "annee": 1969,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Frédéric Pardo, ami de Philippe Garrel et amant de Tina Aumont, filme les coulisses du tournage du _Lit de la vierge_."
+    }],
+    "generique": [
+      "Tina Aumont",
+      "Philippe Garrel",
+      "Pierre Clémenti"
+    ]
+  },
+  {
     "titre": "Jalousie",
     "art": "La",
     "titreVo": "",

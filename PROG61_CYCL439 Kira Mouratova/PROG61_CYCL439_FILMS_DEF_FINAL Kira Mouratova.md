@@ -151,6 +151,7 @@ Passionnées de courses de chevaux, Lilia et Violetta sont courtisées par deux 
 **(Vesenniï dozhd)**  
 d'Alexandre Mouratov, Kira Mouratova  
 URSS / 1958  
+Avec Valentina Khmara, Kira Muratova, Oleg Tabakov.  
 Dans un train de banlieue, Kolia rencontre la jeune Katia. Ils font connaissance et commencent à se fréquenter, mais leur idylle va bientôt tourner court.
 
 [141925]  

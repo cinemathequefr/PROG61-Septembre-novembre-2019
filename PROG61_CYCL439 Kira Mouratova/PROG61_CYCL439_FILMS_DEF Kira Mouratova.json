@@ -338,7 +338,12 @@
     "textes": [{
       "typeTexte": 9,
       "texte": "Dans un train de banlieue, Kolia rencontre la jeune Katia. Ils font connaissance et commencent à se fréquenter, mais leur idylle va bientôt tourner court."
-    }]
+    }],
+    "generique": [
+      "Valentina Khmara",
+      "Kira Muratova",
+      "Oleg Tabakov"
+    ]
   },
   {
     "titre": "Poupée",
