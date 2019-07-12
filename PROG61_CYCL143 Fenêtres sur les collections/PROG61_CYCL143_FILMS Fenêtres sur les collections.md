@@ -1,6 +1,6 @@
 # Fenêtres sur les collections
 
-[99574]\*  
+[99574]*  
 **L'Animal d'acier**  
 **(Das Stahltier)**  
 de Willy Zielke  
@@ -26,13 +26,14 @@ de Manuel Otéro
 France / 1980  
 Film d'animation. La vie duraille de deux rails de chemin de fer...
 
-[33619]\*  
+[33619]*  
 **The Tall Target**  
 d'Anthony Mann  
 États-Unis / 1951  
 Avec Dick Powell, Paula Raymond, Adolphe Menjou.  
-Film plutôt méconnu d'Anthony Mann, \_The Tall Target e_st l'occasion de resserrer une histoire dans un espace confiné et faire cohabiter des personnages conspirateurs et enquêteurs sur fonds de grands espaces américains.
+Film plutôt méconnu d'Anthony Mann, _The Tall Target e_st l'occasion de resserrer une histoire dans un espace confiné et faire cohabiter des personnages conspirateurs et enquêteurs sur fonds de grands espaces américains.
 
 Dans le train qui conduit le président Lincoln de New York à Washington, l'inspecteur Kennedy apprend qu'un attentat se prépare en gare de Baltimore. Il décide d'empêcher seul cet acte de terrorisme.
 
 La copie 35 mm projetée est un tirage de la Warner Bros offert à la Cinémathèque française.
+

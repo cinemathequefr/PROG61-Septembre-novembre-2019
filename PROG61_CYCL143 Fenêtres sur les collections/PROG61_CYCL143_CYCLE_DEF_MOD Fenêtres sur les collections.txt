@@ -1,0 +1,38 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Sur les rails
+<pstyle:SYNOPSIS>
+Depuis l<0x2019>origine du cinéma, avec <ct:Italic>L<0x2019>Arrivée d<0x2019>un train en gare de La Ciotat<ct:>, produit par les frères Lumière, le cinéma n<0x2019>a eu de cesse de filmer les trains, les locomotives et leurs wagons, bruyants, enfumés et longtemps charbonneux. Ce décor sur rail, sans cesse en mouvement, a captivé de nombreux cinéastes comme Edwin S. Porter (<ct:Italic>The Great Train Robbery<ct:>), Alfred Hitchcock (<ct:Italic>Une femme disparaît<ct:>), Jean Renoir (<ct:Italic>La Bête humaine<ct:>), Robert Aldrich (<ct:Italic>Emperor of the North Pole<ct:>) ou plus récemment Bong Joon-ho (<ct:Italic>Snowpiercer<ct:>). Ces cinéastes en ont souvent fait un lieu central, voire unique de leur film, façonnant les trains comme un personnage à part entière, enfermant l<0x2019>intrigue dans un espace confiné tout en longueur.
+Cette programmation propose des films rarement montrés consacrés aux trains et à leur mécanique complexe, qui ressemble étrangement à celle du cinématographe.
+
+<pstyle:TITRE>L<0x2019>Animal d<0x2019>acier
+<pstyle:TITRE_ANG>(Das Stahltier)
+<pstyle:TECHNIQUE>de Willy Zielke
+<pstyle:TECHNIQUE>1935/75<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Aribert Mog, Sophia Hagen.
+<pstyle:SYNOPSIS>Dans une ville d<0x2019>Allemagne, une usine tourne à plein régime. L<0x2019>ingénieur Klaassen part à la rencontre de l<0x2019>équipe de triage à qui il raconte l<0x2019>histoire, parfois tragique, des inventeurs du chemin de fer.
+<pstyle:INFOS_UTILES>Ce film de commande du Reich pour le centenaire des chemins de fer allemands fut refusé par la Reichsbahn, au prétexte qu<0x2019>on y faisait une part trop belle aux chemins de fers anglais et français. Mais c<0x2019>est probablement son parti pris esthétique qui le fit interdire, ainsi que le manque d<0x2019>envie de Zielke d<0x2019>en faire un film de propagande. Le film est ressorti en 1954 dans une version tronquée (42 min). La Cinémathèque française a miraculeusement récupéré dans ses collections une copie complète, qu<0x2019>elle a sauvegardée en 1993.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Paris-Liège
+<pstyle:TECHNIQUE>d<0x2019>Anonyme
+<pstyle:TECHNIQUE>1928/13<0x2019>/35mm
+<pstyle:SYNOPSIS>Un trajet Paris-Liège exécuté en quatre heures sans arrêt par un train des Compagnies du Nord.
+<pstyle:INFOS_UTILES>Copie sauvegardée en 2005.
+<pstyle:><cstyle:INFOSBLEUES>ve 18 octXXX18h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Rails
+<pstyle:TECHNIQUE>de Manuel Otéro
+<pstyle:TECHNIQUE>1980/6<0x2019>/35mm
+<pstyle:SYNOPSIS>Court métrage d<0x2019>animation qui raconte sur le mode humoristique la vie de deux rails de chemin de fer.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>La Grand attentat
+<pstyle:TITRE_ANG>(The Tall Target)
+<pstyle:TECHNIQUE>d<0x2019>Anthony Mann
+<pstyle:TECHNIQUE>1951/78<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Dick Powell, Paula Raymond, Adolphe Menjou.
+<pstyle:SYNOPSIS>Dans le train qui conduit le président Lincoln de New York à Washington, l<0x2019>inspecteur Kennedy apprend qu<0x2019>un attentat se prépare en gare de Baltimore. Il décide d<0x2019>empêcher seul cet acte de terrorisme.
+<pstyle:INFOS_UTILES>La copie 35<0x00A0>mm projetée est un tirage de la Warner Bros. offert à la Cinémathèque française.
+<pstyle:><cstyle:INFOSBLEUES>ve 18 octXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
