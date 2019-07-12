@@ -1,0 +1,45 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>cinéclub douchet sept-nov 2019
+
+<pstyle:TITRE>Jour de colère
+<pstyle:TITRE_ANG>(Vredens dag)
+<pstyle:TECHNIQUE>de Carl Theodor Dreyer
+<pstyle:TECHNIQUE>Danemark/1943/95'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Thorkild Roose, Lisbeth Movin, Sigrid Neiiendam.
+<pstyle:SYNOPSIS>Au XVIIe siècle, une jeune femme est condamnée au bûcher pour avoir aimé le fils de son mari pasteur.
+<pstyle:><cstyle:INFOSROUGES>me 04 sepXXX19h30XXX
+<cstyle:SALLESROUGES>A
+
+<pstyle:TITRE>J'entends plus la guitare
+<pstyle:TECHNIQUE>de Philippe Garrel
+<pstyle:TECHNIQUE>France/1990/98'/VF/35mm
+<pstyle:TECHNIQUE>Avec Benoît Régent, Johanna Ter Steege, Yann Collette, Mireille Perrier.
+<pstyle:SYNOPSIS>Gérard aime Marianne et cet amour est le sens de sa vie. Un jour, Marianne part avec un autre homme. Gérard rencontre Linda, Aline puis Adrienne mais Marianne est toujours là.
+<pstyle:EVENEMENT>Film également projeté dans le cadre du cycle Philippe Garrel - Catégorie principale
+<pstyle:><cstyle:INFOSROUGES>je 03 octXXX19h30XXX
+<cstyle:SALLESROUGES>A
+<pstyle:><cstyle:INFOSROUGES>di 13 octXXX17h00XXX
+<cstyle:SALLESROUGES>B
+
+<pstyle:TITRE>Quatre de l'infanterie
+<pstyle:TITRE_ANG>(Westfront 1918)
+<pstyle:TECHNIQUE>de Georg Wilhelm Pabst
+<pstyle:TECHNIQUE>Allemagne/1930/90'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Fritz Kampers, Gustav Diessl, Claus Clausen.
+<pstyle:SYNOPSIS>Quatre fantassins allemands se trouvent sur le front français à quelques mois de la fin de la Première Guerre mondiale.
+<pstyle:SYNOPSIS>Film restauré par la Deutsche Kinemathek à partir d'un négatif de 1931 et d'un négatif de 1964, en coopération avec le British Film Institute. Ressortie salles par Tamasa.
+<pstyle:EVENEMENT>Film également projeté dans le cadre du cycle Georg Wilhelm Pabst - Catégorie principale
+<pstyle:><cstyle:INFOSROUGES>me 13 novXXX19h30XXX
+<cstyle:SALLESROUGES>A
+<pstyle:><cstyle:INFOSROUGES>di 24 novXXX21h45XXX
+<cstyle:SALLESROUGES>B
+
+<pstyle:TITRE>Le Dernier des fous
+<pstyle:TECHNIQUE>de Laurent Achard
+<pstyle:TECHNIQUE>France-Belgique/2005/96'/VF/35mm
+<pstyle:TECHNIQUE>Avec Julien Cochelin, Pascal Cervo, Annie Cordy.
+<pstyle:SYNOPSIS>Martin, 11 ans, assiste impuissant à la désintégration de sa famille. Entre un père absent, une mère à la limite de la folie et un grand frère dépressif et homosexuel, l'enfant ne trouve le réconfort qu'auprès de son chat Mistigri et de la bonne, Malika. Un jour, Martin décide qu'il est resté passif trop longtemps...
+<pstyle:><cstyle:INFOSROUGES>me 20 novXXX19h30XXX
+<cstyle:SALLESROUGES>A

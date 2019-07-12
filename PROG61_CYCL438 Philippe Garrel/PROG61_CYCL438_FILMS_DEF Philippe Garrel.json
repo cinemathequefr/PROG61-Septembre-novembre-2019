@@ -191,6 +191,10 @@
         "typeTexte": 99,
         "texte": "« Chez Garrel, la forme diptyque s'impose, autour d'une charnière vide, limite inatteignable ou coupure irrationnelle. Elle ne distribue pas seulement les attitudes, mais le blanc et le noir, le froid et le chaud, comme des conditions dont les attitudes dépendent ou les éléments dont les corps sont faits. » (Gilles Deleuze)"
       }
+    ],
+    "generique": [
+      "Jean-Pierre Léaud",
+      "Zouzou"
     ]
   },
   {
@@ -611,14 +615,9 @@
     "annee": 2010,
     "pays": "France-Italie-Suisse",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Un été à Rome, les tourments d'un jeune peintre, le mystère d'une femme... Paul est comédien, avec son amie Elisabeth il rencontre Frédéric, un jeune peintre qui vit avec Angèle. Paul tombe amoureux d'Angèle, sous les yeux de son amie."
-      },
-      {
-        "typeTexte": 9,
-        "texte": "À Rome, Paul, comédien en herbe, tombe amoureux d'Élisabeth, figurante sur un tournage. Ensemble, ils vont rencontrer Frédéric et Angèle, et assister au déclin de leur couple."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "À Rome, Paul, comédien en herbe, tombe amoureux d'Élisabeth, figurante sur un tournage. Ensemble, ils vont rencontrer Frédéric et Angèle, et assister au déclin de leur couple."
+    }],
     "generique": [
       "Monica Bellucci",
       "Louis Garrel",

@@ -70,6 +70,7 @@ Philippe et sa femme se séparent lorsqu'il découvre qu'elle a un amant. Il tom
 **La Concentration**  
 de Philippe Garrel  
 France / 1968  
+Avec Jean-Pierre Léaud, Zouzou.  
 Dans deux chambres reliées par un couloir, un homme et une femme se déchirent.
 
 « Chez Garrel, la forme diptyque s'impose, autour d'une charnière vide, limite inatteignable ou coupure irrationnelle. Elle ne distribue pas seulement les attitudes, mais le blanc et le noir, le froid et le chaud, comme des conditions dont les attitudes dépendent ou les éléments dont les corps sont faits. » (Gilles Deleuze)
@@ -118,6 +119,13 @@ Portrait de Jean Seberg en une série de longs plans muets.
 « Je considère que _Les Hautes solitudes_ est autant un film de Seberg que de moi. Et je pense que si on voit le film aujourd'hui, il tient. Autant que des films que j'ai faits plus tard avec plus de moyens. D'ailleurs, à l'époque, il avait déjà trouvé un public. C'est quand même un film muet, en noir et blanc, d'une heure vingt, et il est resté un mois dans un cinéma du Marais avec une salle remplie tous les soirs. Il faut dire que Jean Seberg a été vraiment une des plus grandes actrices du monde. » (Philippe Garrel)
 
 « Jean était infiniment supérieure à l'image qu'avaient donné d'elle les gens d'Hollywood (tout de même, elle avait tourné dans _À bout de souffle_ et dans _Lilith_ de Robert Rossen, qui lui avait donné ce rôle magnifique de schizophrène). Il suffisait d'une caméra pour qu'elle se métamorphose en une comédienne extraordinaire. En sa présence, je ressentais irrésistiblement le besoin de filmer, de filmer en tant qu'opérateur. _Les Hautes solitudes_ lui est entièrement consacré. Je me rappelle lui avoir porté la copie dès qu'elle a été tirée (c'est une chose que je fais souvent, je l'avais fait pour Zouzou aussi) comme une sorte de cadeau, un cadeau bien modeste mais enfin... » (Philippe Garrel)
+
+[102455]  
+**Home movie, autour du « Lit de la vierge »**  
+de Frédéric Pardo  
+France / 1969  
+Avec Tina Aumont, Philippe Garrel, Pierre Clémenti.  
+Frédéric Pardo, ami de Philippe Garrel et amant de Tina Aumont, filme les coulisses du tournage du _Lit de la vierge_.
 
 [121788]  
 **La Jalousie**  
@@ -225,8 +233,6 @@ Réflexion sur le silence, autour de longs plans d'une femme assise seule sur un
 de Philippe Garrel  
 France-Italie-Suisse / 2010  
 Avec Monica Bellucci, Louis Garrel, Céline Sallette, Jérôme Robart.  
-Un été à Rome, les tourments d'un jeune peintre, le mystère d'une femme... Paul est comédien, avec son amie Elisabeth il rencontre Frédéric, un jeune peintre qui vit avec Angèle. Paul tombe amoureux d'Angèle, sous les yeux de son amie.
-
 À Rome, Paul, comédien en herbe, tombe amoureux d'Élisabeth, figurante sur un tournage. Ensemble, ils vont rencontrer Frédéric et Angèle, et assister au déclin de leur couple.
 
 [64196]  

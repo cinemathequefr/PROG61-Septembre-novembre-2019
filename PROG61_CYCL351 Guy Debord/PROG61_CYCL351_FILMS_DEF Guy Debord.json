@@ -1,5 +1,4 @@
-[
-  {
+[{
     "titre": "Critique de la séparation",
     "titreVo": "",
     "idFilm": 100369,
@@ -7,12 +6,10 @@
     "realisateurs": "Guy Debord",
     "annee": 1961,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Enchevêtrement d'images de nature diverse (_comics_, photographies d'identité, journaux, extraits de films), rendu délibérément difficile à suivre par l'ajout de sous titres et d'un commentaire critique."
-      }
-    ]
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Enchevêtrement d'images de nature diverse (_comics_, photographies d'identité, journaux, extraits de films), rendu délibérément difficile à suivre par l'ajout de sous titres et d'un commentaire critique."
+    }]
   },
   {
     "titre": "Guy Debord, son art et son temps",
@@ -22,8 +19,7 @@
     "realisateurs": "Brigitte Cornand",
     "annee": 1994,
     "pays": "France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Ensemble de photographies, d'archives, d'actualités télévisées récentes ou anciennes et de textes, ponctué de réflexions de Guy Debord, et qui constitue une critique de la société et des médias."
       },
@@ -41,12 +37,10 @@
     "realisateurs": "Guy Debord",
     "annee": 1952,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Alternance de de séquences à écran noir silencieuses et de séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off."
-      }
-    ]
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Alternance de séquences à écran noir silencieuses et de séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off."
+    }]
   },
   {
     "titre": "In girum imus nocte et consumimur igni",
@@ -56,8 +50,7 @@
     "realisateurs": "Guy Debord",
     "annee": 1978,
     "pays": "France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Une introspection éclairée par le cinéma."
       },
@@ -75,12 +68,10 @@
     "realisateurs": "Guy Debord",
     "annee": 1975,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Destiné à répondre aux attaques portées contre le film _La Société du spectacle_ au moment de sa sortie en salles, cet essai inaugure chez Debord un exercice de la « réfutation »."
-      }
-    ]
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Destiné à répondre aux attaques portées contre le film _La Société du spectacle_ au moment de sa sortie en salles, cet essai inaugure chez Debord un exercice de la « réfutation »."
+    }]
   },
   {
     "titre": "Société du spectacle",
@@ -91,8 +82,7 @@
     "realisateurs": "Guy Debord",
     "annee": 1973,
     "pays": "France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Lecture de pages choisies du livre homonyme, illustrée d'extraits de _Johnny Guitar_, _Shanghai Gesture_, _Le Cuirassé Potemkine_, _La Charge fantastique_, etc."
       },
@@ -110,11 +100,9 @@
     "realisateurs": "Guy Debord",
     "annee": 1959,
     "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Film expérimental réalisé comme un « anti-documentaire » visant l'évitement de tout élément « digne d'intérêt » par le moyen de plans vagues et de vues en extérieurs, accompagnés de commentaires contestataires."
-      }
-    ]
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Film expérimental réalisé comme un « anti-documentaire » visant l'évitement de tout élément « digne d'intérêt » par le moyen de plans vagues et de vues en extérieurs, accompagnés de commentaires contestataires."
+    }]
   }
 ]

@@ -18,7 +18,7 @@ Film réalisé avec l'appui de Guy Debord.
 **Hurlements en faveur de Sade**  
 de Guy Debord  
 France / 1952  
-Alternance de de séquences à écran noir silencieuses et de séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off.
+Alternance de séquences à écran noir silencieuses et de séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off.
 
 [55468]  
 **In girum imus nocte et consumimur igni**  

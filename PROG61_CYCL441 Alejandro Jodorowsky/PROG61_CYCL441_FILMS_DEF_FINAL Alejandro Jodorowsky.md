@@ -49,7 +49,7 @@ Ce film est la suite de _La Danza de la realidad_, sorti en 2013.
 **Psychomagie, un art pour guérir**  
 d'Alejandro Jodorowsky  
 France / 2019  
-Alejandro Jodorowsky, convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la psychomagie, un thérapie permettant de « libérer des blocages » au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient.
+Alejandro Jodorowsky, convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la psychomagie, un thérapie permettant de « libérer des blocages au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient ».
 
 [44011]  
 **Santa sangre**  

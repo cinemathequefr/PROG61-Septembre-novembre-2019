@@ -1,0 +1,24 @@
+[{
+  "idCategorie": 2075,
+  "idEvenement": 20641,
+  "titre": "Qui êtes-vous Robert Kramer ?",
+  "duree": 90,
+  "idTypeConference": 55,
+  "typeConference": "Conférence",
+  "textes": [{
+      "typeTexte": 8,
+      "texte": "Au lendemain de l'ouverture de grandes rétrospectives, il s'agit de proposer aux spectateurs une introduction didactique − qui n'empêche pas le parti pris − à l'œuvre et à la vie d'un cinéaste : repères biographiques, films clés, contexte de production, thèmes et motifs privilégiés, analyses de séquence... Une première approche de l'œuvre pour mieux entrer dans la rétrospective."
+    },
+    {
+      "typeTexte": 156,
+      "texte": "Cyril Béghin est membre du comité de rédaction des _Cahiers du cinéma_. Il écrit aussi pour d'autres revues, catalogues et livres collectifs sur le cinéma et les images contemporaines. Il a réalisé l'édition scientifique de _Duras / Godard, Dialogues_ (Post-éditions, 2014) et de _Notes de la forteresse de Robert Kramer_ (Post-éditions, 2019). Il travaille, depuis 2002, avec la chorégraphe Valeria Apicella."
+    }
+  ],
+  "intervenants": [{
+    "nomComplet": "Cyril Beghin",
+    "idFonction": 139,
+    "fonction": "Conférencier",
+    "ordre": 1
+  }],
+  "sousTitre": "Conférence de Cyril Béghin"
+}]

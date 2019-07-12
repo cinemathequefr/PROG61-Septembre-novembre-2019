@@ -520,5 +520,19 @@
       "typeTexte": 9,
       "texte": "Dans l'ancienne résidence du président américain James Monroe, une amie de Robert Kramer, militante politique, célèbre son mariage avec un membre du Front Farabundo Martí, mouvement de guérilla du Salvador."
     }]
+  },
+  {
+    "titre": "Yeux l'un de l'autre",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 142300,
+    "ageMinimal": null,
+    "realisateurs": "Keja Kramer, Stephen Dwoskin",
+    "annee": 2006,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Différents points de vue, expériences et images, qui, ensemble, font découvrir de nouvelles facettes de Robert Kramer."
+    }]
   }
 ]

@@ -285,4 +285,3 @@ de Georg Wilhelm Pabst
 D'après le roman _Un héros moderne_ de Louis Bromfield.  
 Avec Richard Barthelmess, Jean Muir, Marjorie Rambeau.  
 Un jeune et séduisant acrobate de cirque n'hésite pas à utiliser son art et à jouer de son charme pour servir ses ambitions.
-

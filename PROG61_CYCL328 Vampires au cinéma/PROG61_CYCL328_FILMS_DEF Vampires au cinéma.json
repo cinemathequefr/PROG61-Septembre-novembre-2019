@@ -408,7 +408,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Destiné au public hispanophone, cette version a été tournée de nuit dans les décors utilisés le jour pour le tournage du film de Tod Browning."
+        "texte": "Destinée au public hispanophone, cette version a été tournée de nuit dans les décors utilisés le jour pour le tournage du film de Tod Browning."
       }
     ],
     "generique": [
@@ -1109,7 +1109,7 @@
     ]
   },
   {
-    "titre": "Santo défend le trésor de Dracula",
+    "titre": "Santo et le trésor de Dracula",
     "titreVo": "Santo en El Tesoro de Drácula",
     "idFilm": 87310,
     "ageMinimal": null,
@@ -1355,7 +1355,7 @@
     ]
   },
   {
-    "titre": "Les Vampires : L'Évasion du mort",
+    "titre": "Vampires : L'Évasion du mort",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99082,

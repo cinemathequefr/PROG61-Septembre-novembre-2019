@@ -20,7 +20,7 @@ D'après le roman _Agostino_ d'Alberto Moravia.
 Avec Ingrid Thulin, Paolo Colombo, John Saxon.  
 Agostino éprouve une passion exclusive pour sa mère, ravissante veuve. Mais les intrusions intempestives de Renzo, son amant, perturbent la vie affective de l'enfant.
 
-- je 7 nov 19h30 HL
+- je 7 nov 19h30 HL  
 - je 21 nov 21h00 HL
 
 [42101]  
@@ -31,7 +31,7 @@ de Mauro Bolognini
 Avec Franco Interlenghi, Antonella Lualdi, Sergio Raimondi.  
 Les aventures amoureuses d'une bande de jeunes gens, dans un quartier populaire de la Rome des années 1950.
 
-- me 6 nov 17h00 GF
+- me 6 nov 17h00 GF  
 - je 14 nov 17h00 HL
 
 [58592]  
@@ -41,7 +41,7 @@ de Mauro Bolognini
 Avec Virna Lisi, Giancarlo Giannini, Margaret Rutherford.  
 Dans l'Italie en crise des années 1920, Arabella tente d'extorquer de l'argent à plusieurs personnes pour venir en aide à sa mère, menacée d'expulsion.
 
-- ve 8 nov 19h30 JE
+- ve 15 nov 14h30 HL
 
 [42068]  
 **Le Bel Antonio**  
@@ -52,7 +52,7 @@ D'après le roman _Le Bel Antonio_ de Vitaliano Brancati.
 Avec Marcello Mastroianni, Claudia Cardinale, Pierre Brasseur, Rina Morelli.  
 De retour dans sa ville natale après un long séjour à Rome, le séduisant Antonio épouse la pure Barbara, dont il est éperdument amoureux. Mais il cache un lourd secret.
 
-- sa 2 nov 21h00 HL
+- sa 2 nov 21h00 HL  
 - sa 16 nov 14h30 HL
 
 [75906]  
@@ -64,7 +64,8 @@ Avec Shelley Winters, Max von Sydow, Mario Scaccia, Renato Pozzetto.
 Pendant la Seconde Guerre mondiale, une femme assassine sauvagement ses amies et les transforme en savon, avant de reprendre le cours de sa vie.  
 D'après un fait divers : l'affaire Leonarda Cianciulli, la « saponificatrice de Correggio ».
 
-- lu 11 nov 19h15 GF
+- lu 11 nov 19h15 GF  
+- me 13 nov 21h30 GF
 
 [39050]  
 **Bubù de Montparnasse**  
@@ -74,7 +75,7 @@ de Mauro Bolognini
 Avec Ottavia Piccolo, Massimo Ranieri, Antonio Falsi.  
 Par paresse et dans l'espoir de gagner plus, Bubù renonce à son métier de boulanger et convainc sa compagne Berta de se prostituer.
 
-- di 10 nov 17h15 HL
+- di 10 nov 17h15 HL  
 - di 24 nov 21h15 HL
 
 [41950]  
@@ -86,31 +87,20 @@ D'après les recueils de nouvelles _Racconti romani_ et _Nuovi racconti romani_ 
 Avec Jean Sorel, Lea Massari, Paolo Stoppa.  
 Un jeune chômeur, ayant besoin d'argent pour entretenir sa famille, se rend à Rome pour trouver du travail. Il y fait de multiples rencontres.
 
-- di 17 nov 21h00 HL
+- di 17 nov 21h00 HL  
 - je 21 nov 19h00 HL
 
 [42108]  
 **Ce merveilleux automne**  
 **(Un bellissimo novembre)**  
 de Mauro Bolognini  
-1972  
+1972 / 92 min / VF / 35 mm  
 D'après le roman _Un bellissimo novembre_ d'Ercole Patti.  
 Avec Gina Lollobrigida, Paolo Turco, Gabriele Ferzetti.  
 Au cours de vacances dans la maison familiale en Sicile, Nino, un adolescent, s'éprend de sa tante Cettina.
 
-- sa 9 nov 19h00 HL
+- sa 9 nov 19h00 HL  
 - di 17 nov 19h00 HL
-
-[120324]  
-**La Chartreuse de Parme**  
-**(La Certosa di Parma)**  
-de Mauro Bolognini  
-1982  
-D'après le roman _La Chartreuse de Parme_ de Stendhal.  
-Avec Marthe Keller, Gian Maria Volonté, Andrea Occhipinti.  
-À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour.
-
-- me 13 nov 21h30 GF
 
 [42102]  
 **Le Chevalier de Maupin**  
@@ -122,7 +112,7 @@ Avec Catherine Spaak, Robert Hossein, Tomas Milian, Ottavia Piccolo.
 La jeune et innocente mademoiselle de Maupin, contrainte de fuir la maison de son oncle, se déguisé en abbé et prend la route du couvent. Prise pour un homme, elle est arrêtée par une troupe du roi qui décide de l'enrôler contre son gré.  
 Film également connu sous le titre _Mademoiselle de Maupin_.
 
-- sa 9 nov 17h00 HL
+- sa 9 nov 17h00 HL  
 - di 17 nov 17h00 HL
 
 [82514]  
@@ -143,7 +133,7 @@ de Mauro Bolognini
 Avec Jacques Perrin, Alain Cuny, Rosanna Schiaffino.  
 Stefano, timide et sensible, veut entrer dans les ordres. Mais son père le destine à une tout autre carrière et, pour le détourner de sa vocation, l'emmène en croisière avec une jeune femme.
 
-- di 3 nov 21h00 HL
+- di 3 nov 21h00 HL  
 - sa 16 nov 21h15 HL
 
 [56337]  
@@ -166,7 +156,7 @@ D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.
 Avec Isabelle Huppert, Gian Maria Volonté, Bruno Ganz, Fabrizio Bentivoglio.  
 L'amour d'Armand Duval pour Marguerite Gautier, prostituée et courtisane, atteinte de tuberculose.
 
-- me 13 nov 19h00 GF
+- me 13 nov 19h00 GF  
 - di 24 nov 16h30 HL
 
 [70413]  
@@ -188,7 +178,7 @@ D'après le roman _Ragazzi di vita_ de Pier Paolo Pasolini.
 Avec Jean-Claude Brialy, Laurent Terzieff, Rosanna Schiaffino, Mylène Demongeot.  
 À Rome, deux jeunes voyous volent une voiture et fuient vers la banlieue en compagnie de deux prostituées pour une nuit de bagarres et de beuveries.
 
-- sa 2 nov 19h00 HL
+- sa 2 nov 19h00 HL  
 - sa 16 nov 19h00 HL
 
 [41948]  
@@ -199,17 +189,17 @@ de Mauro Bolognini
 Avec Giancarlo Giannini, Catherine Deneuve, Fernando Rey.  
 Après une longue séparation, le comte Bonmartini et sa femme Linda se remettent en couple pour le bien-être de leurs enfants. Mais la jeune femme conserve une profonde aversion envers son époux, que l'on retrouve bientôt assassiné.
 
-- di 10 nov 19h30 HL
+- di 10 nov 19h30 HL  
 - sa 23 nov 19h00 HL
 
 [66904]  
 **Guardia, guardia scelta, brigadiere e maresciallo**  
 de Mauro Bolognini  
-1956 / 92 min / VO / 35 mm  
+1956 / 92 min / VOSTF / 35 mm  
 Avec Alberto Sordi, Nino Manfredi, Gino Cervi.  
 À Rome, quatre agents de la circulation zélés se heurtent à la désapprobation et au mépris de la population.
 
-- me 6 nov 19h30 GF
+- je 7 nov 17h00 HL
 
 [42091]  
 **L'Héritage**  
@@ -230,7 +220,7 @@ de Mauro Bolognini
 Avec Isabelle Corey, Franco Interlenghi, Gérard Blain, Antonella Lualdi.  
 Quatre amis inséparables mènent une vie insouciante, jusqu'au mariage de l'un d'entre eux, qui marque le début de leur éloignement. Plus tard, ils tentent de se retrouver.
 
-- sa 2 nov 17h00 HL
+- sa 2 nov 17h00 HL  
 - sa 16 nov 17h00 HL
 
 [60132]  
@@ -241,7 +231,7 @@ de Mauro Bolognini
 Avec Claudia Cardinale, Adolfo Celi, Philippe Leroy.  
 Rome, 1930. Alors que sa famille s'est exilée en province, Liberia, restée en ville, s'oppose fermement au fascisme, et devient la cible d'un dignitaire du régime.
 
-- ve 8 nov 21h45 JE
+- me 6 nov 19h30 GF  
 - ve 15 nov 17h00 HL
 
 [90659]  
@@ -252,7 +242,7 @@ de Mauro Bolognini
 Avec Renato Salvatori, Francisco Rabal, Marisa Allasio.  
 La jeune Marisa, belle et coquette vendeuse de glaces à la gare, fait chavirer les cœurs et papillonne entre les hommes.
 
-- me 6 nov 21h30 GF
+- me 6 nov 21h45 GF
 
 [42063]  
 **Le Mauvais chemin**  
@@ -263,7 +253,7 @@ D'après le roman _L'Eredità_ de Mario Pratesi.
 Avec Jean-Paul Belmondo, Claudia Cardinale, Pietro Germi.  
 Le jeune Amerigo quitte son village pour venir travailler avec son oncle à Florence, où il tombe amoureux d'une prostituée. Pour se rapprocher d'elle, il va jusqu'au vol et à la dépravation.
 
-- je 31 oct 19h30 HL
+- je 31 oct 19h30 HL  
 - je 21 nov 14h30 HL
 
 [42103]  
@@ -274,7 +264,7 @@ D'après le roman _Metello_ de Vasco Pratolini.
 Avec Massimo Ranieri, Ottavia Piccolo, Lucia Bosè.  
 Metello, un bel ouvrier d'origine paysanne, tente d'échapper à la misère. Il prend peu à peu conscience de sa condition sociale, et devient responsable syndical lors de la grande grève de 1902.
 
-- sa 9 nov 21h30 HL
+- sa 9 nov 21h30 HL  
 - di 24 nov 19h00 HL
 
 [42106]  
@@ -286,18 +276,18 @@ D'après le roman _Senilità_ d'Italo Svevo.
 Avec Claudia Cardinale, Anthony Franciosa, Philippe Leroy.  
 Emilio Brentani, trentenaire célibataire, tombe passionnément amoureux d'Angiolina, une jeune fille aux mœurs légères.
 
-- di 3 nov 18h30 HL
+- di 3 nov 18h30 HL  
 - je 14 nov 21h30 GF
 
 [64750]  
 **Une fille formidable**  
 **(Ci troviamo in galleria)**  
 de Mauro Bolognini  
-1953 / 91 min / VOSTF / 35 mm  
+1953 / 91 min / VO / 35 mm  
 Avec Alberto Sordi, Sophia Loren, Carlo Dapporto.  
 Gardenio, un artiste comique qui peine à rencontrer le succès, épouse la jeune Caterina. Mais c'est elle qui devient célèbre grâce à sa voix magnifique.
 
-- ve 1 nov 17h00 HL
+- ve 1 nov 17h00 HL  
 - me 13 nov 17h15 HL
 
 [92504]  
@@ -308,14 +298,14 @@ de Mauro Bolognini
 Avec Marta Toren, Richard Basehart, Mario Girotti, Titina De Filippo.  
 Corrado vit avec sa mère, veuve, qui le couve encore comme un enfant. Il lui présente un jour Manfredi, un ingénieur qu'il vient de rencontrer.
 
-- ve 8 nov 16h00 HL
+- ve 8 nov 16h00 HL  
 - lu 11 nov 21h45 GF
 
 [42109]  
 **La Vénitienne**  
 **(La Venexiana)**  
 de Mauro Bolognini  
-1985 / 102 min / VOSTA / 35 mm  
+1985 / 102 min / VOSTF / 35 mm  
 Avec Laura Antonelli, Monica Guerritore, Jason Connery.  
 À Venise, au XVI<sup>e</sup> siècle, alors que l'on célèbre la fin de la peste noire, deux femmes, Valeria et Angela, rivalisent de charme et de séduction pour conquérir le jeune Jules.
 
@@ -329,7 +319,7 @@ de Mauro Bolognini
 Avec Marcello Mastroianni, Françoise Fabian, Marthe Keller, Pierre Blaise.  
 Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories.
 
-- di 10 nov 22h00 HL
+- di 10 nov 22h00 HL  
 - di 24 nov 14h15 HL
 
 [72592]  
@@ -369,7 +359,7 @@ Mauro Bolognini réalise les épisodes _I Miei cari_ et _Luciana_.
 **(Le Fate)**  
 de Luciano Salce, Mario Monicelli, Mauro Bolognini, Antonio Pietrangeli  
 1966 / 114 min / VOSTF / 35 mm  
-Avec Monica Vitti, Claudia Cardinale, Rquel Welch, Capucine.  
+Avec Monica Vitti, Claudia Cardinale, Raquel Welch, Capucine.  
 Sexy comédie en quatre parties.
 
 - sa 23 nov 16h30 HL
@@ -389,7 +379,7 @@ Film à sketches en trois épisodes sur le thème des vacances.
 de Claude Autant-Lara, Philippe de Broca, Jean-Luc Godard, Mauro Bolognini, Franco Indovina, Michael Pfleghar  
 1966 / 110 min / VF / 35 mm  
 Avec Michèle Mercier, Elsa Martinelli, Jeanne Moreau, Raquel Welch.  
-Film à skecthes : la prostitution à travers les âges.
+Film à sketches : la prostitution à travers les âges.
 
 - me 20 nov 17h15 HL
 
@@ -398,7 +388,7 @@ Film à skecthes : la prostitution à travers les âges.
 **(Le Bambole)**  
 de Mauro Bolognini, Luigi Comencini, Dino Risi, Franco Rossi  
 1964 / 110 min / VOSTF / 35 mm  
-Avec Virna Lisi, Moica Vitti, Elke Sommer, Gina Lollobrigida.  
+Avec Virna Lisi, Monica Vitti, Elke Sommer, Gina Lollobrigida.  
 Quatre histoires du _Décaméron_ de Boccace transposées dans l'Italie des années 1960.
 
 - me 6 nov 14h30 HL
@@ -423,13 +413,37 @@ Film en trois parties. Bolognini a réalisé le segment _Gli Amanti celebri_ : L
 
 - sa 23 nov 14h00 HL
 
+## Série TV
+
+[120324]  
+**La Chartreuse de Parme**  
+**(La Certosa di Parma)**  
+de Mauro Bolognini  
+1982 / 180 min / VOSTF / Numérique  
+D'après le roman _La Chartreuse de Parme_ de Stendhal.  
+Avec Marthe Keller, Gian Maria Volonté, Andrea Occhipinti.  
+À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour.
+
+- je 7 nov 18h00 JE
+
+[120324]  
+**La Chartreuse de Parme**  
+**(La Certosa di Parma)**  
+de Mauro Bolognini  
+1982 / 180 min / VOSTF / Numérique  
+D'après le roman _La Chartreuse de Parme_ de Stendhal.  
+Avec Marthe Keller, Gian Maria Volonté, Andrea Occhipinti.  
+À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour.
+
+- ve 8 nov 18h00 JE
+
 ## Rencontres et conférences
 
 []  
 **Mauro Bolognini, au-delà du style**  
 90 min  
 Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes.  
-Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié, aux éditions de La Martinière, _Le Cinéma italien_.  
-Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €).
+Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié _Le Cinéma italien_ (éditions de La Martinière).
 
 - je 14 nov 19h00 GF
+
