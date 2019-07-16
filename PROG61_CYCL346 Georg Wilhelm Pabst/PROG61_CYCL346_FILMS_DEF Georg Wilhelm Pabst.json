@@ -211,7 +211,12 @@
     "textes": [{
       "typeTexte": 9,
       "texte": "Dans un quartier de Londres en proie aux guerres de gangs, une rivalité s'installe entre le roi des mendiants et le gangster que sa fille veut épouser."
-    }],
+    },
+    {
+      "typeTexte": 99,
+      "texte": "Version allemande du film. Voir aussi _Opéra de quat'sous (L')_"
+    }
+  ],
     "generique": [
       "Rudolf Forster",
       "Carola Neher",
@@ -480,6 +485,10 @@
     "textes": [{
       "typeTexte": 9,
       "texte": "Dans un quartier de Londres en proie aux guerres de gangs, une rivalité s'installe entre le chef des mendiants et le gangster que sa fille veut épouser."
+    },
+    {
+      "typeTexte": 99,
+      "texte": "Version française du film. Voir aussi _Dreigroschenoper (Die)_"
     }],
     "generique": [
       "Albert Préjean",
