@@ -90,6 +90,44 @@ Remake du _Nosferatu_ de Murnau, réalisé en 1922.
 
 ## Vampires d'auteurs
 
+[125659]  
+**A Girl Walks Home Alone at Night**  
+d'Ana Lily Amirpour  
+2014 / 99 min / VOSTF / DCP  
+Avec Sheila Vand, Arash Marandi, Marshall Manesh.  
+En Iran, dans l'étrange ville de Bad City, lieu de tous les vices où suintent la mort et la solitude, les habitants n'imaginent pas qu'ils sont surveillés par un vampire.
+
+- lu 21 oct 21h15 JE
+
+[60083]  
+**The Addiction**  
+d'Abel Ferrara  
+1995 / 81 min / VOSTF / 35 mm  
+Avec Christopher Walken, Lili Taylor, Annabella Sciorra, Paul Calderon.  
+À New York, une étudiante en philosophie est mordue par une femme vampire.
+
+- di 20 oct 21h15 HL
+
+[30405]  
+**Aux frontières de l'aube**  
+**(Near Dark)**  
+de Kathryn Bigelow  
+1987 / 94 min / VOSTF / 35 mm  
+Avec Adrian Pasdar, Jenny Wright, Lance Henriksen.  
+Caleb, jeune fermier du Middle West, rencontre dans un bar une jolie étrangère, qui le mord juste avant le lever du jour. Il va se joindre au groupe de vampires de la jeune fille.
+
+- ve 18 oct 22h00 HL
+
+[42588]  
+**Le Bal des vampires**  
+**(The The Fearless Vampire Killers or Pardon Me, But Your Teeth Are in My Neck)**  
+de Roman Polanski  
+1966 / 110 min / VOSTF / DCP  
+Avec Roman Polanski, Sharon Tate, Jack MacGowran.  
+Le professeur Abronsius et son assistant Alfred, chasseurs de vampires, se retrouvent dans un château où se prépare le bal annuel de ces créatures de la nuit.
+
+- je 24 oct 19h00 HL
+
 [110886]  
 **La Comtesse**  
 **(The Countess)**  
@@ -99,6 +137,116 @@ Avec Julie Delpy, Daniel Brühl.
 À la mort de son mari, la comtesse Erzsébet Báthory se retrouve à la tête d'une immense fortune. Elle tombe éperdument amoureuse d'un jeune homme, mais quand il l'abandonne, elle sombre dans la folie et se persuade que le sang de jeunes vierges lui rendra jeunesse et beauté.
 
 - sa 12 oct 14h30 HL
+
+[43667]  
+**Cuadecuc, vampir**  
+de Pere Portabella  
+1970 / 67 min / VOSTF / DCP  
+Avec Christopher Lee, Jesús Franco.  
+Mi-documentaire, mi-reportage expérimental réalisé sur le tournage du film _Les Nuits de Dracula_ de Jesús Franco.  
+« Ce film est une tentative de réflexion sur le langage cinématographique. » (Pere Portabella)
+
+- lu 14 oct 17h00 GF
+
+[115762]  
+**Dark Shadows**  
+de Tim Burton  
+2011 / 113 min / VOSTF / DCP  
+D'après la série télévisée _Dark Shadows_ de Dan Curtis.  
+Avec Johnny Depp, Michelle Pfeiffer, Helena Bonham-Carter, Eva Green.  
+Le vampire Barnabas Collins, emprisonné par une sorcière, est libéré accidentellement deux siècles plus tard. Lorsqu'il rentre chez lui, il retrouve un château délabré et des descendants qu'il va devoir soutenir.
+
+- sa 26 oct 16h30 GF
+
+[102342]  
+**Le Dernier homme**  
+de Ghassan Salhab  
+2006 / 102 min / VOSTF / 35 mm  
+Avec Carlos Chahine.  
+À Beyrouth, alors qu'on découvre chaque jour les nouvelles victimes, exsangues, d'un probable tueur en série, un jeune médecin présente de troublants symptômes.
+
+- me 23 oct 17h00 GF
+
+[87317]  
+**Dracula, pages tirées du journal d'une vierge**  
+**(Dracula, Pages from a Virgin's Diary)**  
+de Guy Maddin  
+2002 / 74 min / VOSTF / 35 mm  
+D'après le roman _Dracula_ de Bram Stoker.  
+Avec Wei-Qiang Zhang, Tara Birtwhistle, David Moroni.  
+Dracula, qui a perdu son épouse il y a de cela plusieurs siècles, s'entiche d'une jeune femme qui lui ressemble étrangement.  
+Adaptation pour le cinéma d'un ballet de Gustav Malher, ce film combine à la fois danse sensuelle, scènes mimées et des intertitres qui rappellent le cinéma muet. Il est interprété par les danseurs du Royal Winnipeg Ballet.
+
+- ve 25 oct 17h00 GF
+
+[60560]  
+**Entretien avec un vampire**  
+**(Interview With the Vampire)**  
+de Neil Jordan  
+1993 / 120 min / VOSTF / 35 mm  
+D'après le roman _Entretien avec un vampire_ d'Anne Rice.  
+Avec Brad Pitt, Tom Cruise, Kirsten Dunst, Christian Slater.  
+Au XX<sup>e</sup> siècle, un journaliste enregistre le témoignage de Louis de Pointe du Lac, un vampire âgé de deux cents ans, qui lui raconte sa rencontre avec Lestat de Lioncourt et leurs vies d'immortels.
+
+- je 17 oct 19h30 GF
+
+[120677]  
+**Histoire de ma mort**  
+**(Història de la meva mort)**  
+d'Albert Serra  
+2011 / 148 min / VOSTF / DCP  
+Avec Vicenç Altaió, Clara Visa, Noelia Rodenas.  
+Casanova, arrivé à la fin de sa vie, quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire et à son pouvoir éternel.
+
+- sa 26 oct 21h00 GF
+
+[55633]  
+**Irma Vep**  
+d'Olivier Assayas  
+1996 / 99 min / VOSTF / 35 mm  
+Avec Maggie Cheung, Jean-Pierre Léaud, Nathalie Richard, Bulle Ogier.  
+Le réalisateur René Vidal entreprend de tourner une nouvelle version du film _Les Vampires_, réalisé par Louis Feuillade en 1915, et donne le rôle d'Irma Vep à Maggie Cheung, une actrice hongkongaise. Le tournage vire rapidement à la catastrophe.
+
+- di 20 oct 19h00 HL
+
+[39701]  
+**Les Lèvres rouges**  
+de Harry Kümel  
+1971 / 87 min / VF / 35 mm  
+Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
+Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
+
+- me 16 oct 21h30 GF
+
+[57359]  
+**Martin**  
+de George A. Romero  
+1977 / 95 min / VOSTF / 35 mm  
+Avec John Amplas, Lincoln Maazel, Christine Forrest, Elyane Nadeau.  
+Obsédé par le sang, le jeune Martin est persuadé d'être un vampire, descendant de Nosferatu.
+
+- je 24 oct 21h15 HL
+
+[107022]  
+**Morse**  
+**(Låt den rätte komma in)**  
+de Tomas Alfredson  
+2008 / 114 min / VOSTF / 35 mm  
+D'après le roman _Let the Right One In_ de John Ajvide Lindqvist.  
+Avec Kåre Hedebrant, Lina Leandersson, Per Ragnar.  
+Délaissé et harcelé, le jeune Oskar trouve du réconfort auprès de sa nouvelle et très étrange amie Eli, qui lui donne la force de se venger.
+
+- me 16 oct 19h00 GF
+
+[77327]  
+**Nadja**  
+de Michael Almereyda  
+1994 / 93 min / VOSTF / 35 mm  
+Avec Peter Fonda, Elina Löwensohn, Martin Donovan, David Lynch.  
+Lorsque Nadja, la fille du comte Dracula, apprend la mort de son père, elle décide de se réconcilier avec son frère. Van Helsing, aidé de son neveu, cherche à les empêcher de sévir.
+
+- je 10 oct 21h30 GF  
+Séance présentée par Elina Löwensohn
 
 [142092]  
 **Niemand**  
@@ -116,62 +264,60 @@ Le clerc de notaire Jonathan Harker se rend en Transylvanie pour rencontrer son 
 
 - lu 14 oct 19h15 GF
 
-[115762]  
-**Dark Shadows**  
-de Tim Burton  
-2011 / 113 min / VOSTF / DCP  
-D'après la série télévisée _Dark Shadows_ de Dan Curtis.  
-Avec Johnny Depp, Michelle Pfeiffer, Helena Bonham-Carter, Eva Green.  
-Le vampire Barnabas Collins, emprisonné par une sorcière, est libéré accidentellement deux siècles plus tard. Lorsqu'il rentre chez lui, il retrouve un château délabré et des descendants qu'il va devoir soutenir.
+[119997]  
+**Only Lovers Left Alive**  
+de Jim Jarmusch  
+2012 / 122 min / VOSTF / DCP  
+Avec Tom Hiddleston, Tilda Swinton, Mia Wasikowska.  
+Adam, musicien underground, et Eve, son amante, sont des vampires qui vivent en solitaires entre Detroit et Tanger. L'arrivée de la petite sœur d'Eve va perturber leur existence.
 
-- sa 26 oct 16h30 GF
+- je 17 oct 16h30 GF
 
-[99080]  
-**Les Vampires : Le Cryptogramme rouge**  
-de Louis Feuillade  
-1915 / 48 min / INT. FR. / DCP  
-Avec Édouard Mathé, Marcel Lévesque, Musidora, Jean Ayme.  
-Guérande tente de déchiffrer un cryptogramme inscrit dans un petit carnet trouvé sur le cadavre d'un membre des Vampires. Pendant ce temps, dans un cabaret où s'abrite la bande, se produit la chanteuse Irma Vep.  
-Troisième épisode de la série.  
+[36659]  
+**Les Prédateurs**  
+**(The Hunger)**  
+de Tony Scott  
+1982 / 97 min / VOSTF / DCP  
+D'après le roman _Les Prédateurs_ de Whitley Strieber.  
+Avec Catherine Deneuve, David Bowie, Susan Sarandon.  
+Miriam, une vampire âgée de trois mille ans, a offert l'immortalité à son compagnon. Mais il est frappé de vieillissement accéléré, et contacte la spécialiste Sarah Roberts pour enrayer le processus. Miriam tombe sous le charme de la jeune doctoresse.
+
+- sa 19 oct 22h00 HL
+
+[56863]  
+**Spermula**  
+de Charles Matton  
+1975 / 103 min / VF / Numérique  
+Avec Dayle Haddon, Udo Kier, Ginette Leclerc.  
+Prônant une morale et une liberté nouvelles, une société secrète envoie sur Terre un commando de femmes d'une grande beauté, afin de conquérir le monde en libérant les hommes de la virilité, principale source d'orgueil.  
+Conte à la fois onirique et réaliste, ovni cinématographique profondément féministe, _Spermula_ est un hymne fastueux à la création, à la femme et à l'amour. Restauré en HD par Hiventy, pour Sylvie Matton, avec le soutien du CNC. Film interdit au moins de 16 ans.
+
+- lu 21 oct 19h00 JE
+
+[108292]  
+**Thirst, ceci est mon sang**  
+**(Bakjwi)**  
+de Park Chan-wook  
+2008 / 134 min / VOSTF / 35 mm  
+Avec Song Kang-ho, Kim Ok-vin, Kim Hae-sook.  
+En Afrique, suite à une expérience médicale ratée, un prêtre se transforme en vampire. De retour chez lui en Corée, il croise la femme d'un ami d'enfance et succombe à son charme.
+
+- me 23 oct 19h15 GF
+
+[50525]  
+**Le Vampire**  
+de Jean Painlevé  
+1939 / 10 min / DCP  
+Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Amérique du sud, possiblement à l'origine du _Nosferatu_ de F. W. Murnau.  
 suivi de  
-[48546]  
-**Les Vampires : La Tête coupée**  
-de Louis Feuillade  
-1915 / 40 min / INT. FR. / 35 mm  
-Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.  
-Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être.  
-Premier épisode de la série.  
-suivi de  
-[99079]  
-**Les Vampires : La Bague qui tue**  
-de Louis Feuillade  
-1915 / 17 min / INT. FR. / DCP  
-Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.  
-Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague.  
-Deuxième épisode de la série.
+[29210]  
+**Vampires**  
+de John Carpenter  
+1997 / 108 min / VOSTF / 35 mm  
+Avec James Woods, Daniel Baldwin, Sheryl Lee, Maximilian Schell.  
+À la tête d'une troupe de mercenaires, Jack Crow est chargé par le Vatican d'exterminer des nids de vampires. Parmi eux se trouve le puissant Valek, rescapé d'une des traques, qui cherche à se venger de Jack et de ses hommes.
 
-- di 27 oct 14h00 HL
-
-[43667]  
-**Cuadecuc, vampir**  
-de Pere Portabella  
-1970 / 67 min / VOSTF / DCP  
-Avec Christopher Lee, Jesús Franco.  
-Mi-documentaire, mi-reportage expérimental réalisé sur le tournage du film _Les Nuits de Dracula_ de Jesús Franco.  
-« Ce film est une tentative de réflexion sur le langage cinématographique. » (Pere Portabella)
-
-- lu 14 oct 17h00 GF
-
-[48251]  
-**Vampyr**  
-**(Vampyr: Der Traum des Allan Gray)**  
-de Carl Theodor Dreyer  
-1930 / 72 min / VOSTF / DCP  
-D'après le roman _Carmilla_ de Sheridan Le Fanu.  
-Avec Julian West, Maurice Schutz, Sybille Schmitz.  
-Un vampire terrorise un châtelain et ses deux filles.
-
-- me 23 oct 22h00 GF
+- je 7 nov 22h00 HL
 
 [99082]  
 **Les Vampires : L'Évasion du mort**  
@@ -199,21 +345,6 @@ Sixième épisode de la série.
 
 - di 27 oct 16h15 HL
 
-[50525]  
-**Le Vampire**  
-de Jean Painlevé  
-1939 / 10 min / DCP  
-Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Amérique du sud, possiblement à l'origine du _Nosferatu_ de F. W. Murnau.  
-suivi de  
-[29210]  
-**Vampires**  
-de John Carpenter  
-1997 / 108 min / VOSTF / 35 mm  
-Avec James Woods, Daniel Baldwin, Sheryl Lee, Maximilian Schell.  
-À la tête d'une troupe de mercenaires, Jack Crow est chargé par le Vatican d'exterminer des nids de vampires. Parmi eux se trouve le puissant Valek, rescapé d'une des traques, qui cherche à se venger de Jack et de ses hommes.
-
-- je 7 nov 22h00 HL
-
 [99086]  
 **Les Vampires : L'Homme des poisons**  
 de Louis Feuillade  
@@ -232,161 +363,31 @@ Dixième épisode de la série.
 
 - di 27 oct 21h45 HL
 
-[36659]  
-**Les Prédateurs**  
-**(The Hunger)**  
-de Tony Scott  
-1982 / 97 min / VOSTF / DCP  
-D'après le roman _Les Prédateurs_ de Whitley Strieber.  
-Avec Catherine Deneuve, David Bowie, Susan Sarandon.  
-Miriam, une vampire âgée de trois mille ans, a offert l'immortalité à son compagnon. Mais il est frappé de vieillissement accéléré, et contacte la spécialiste Sarah Roberts pour enrayer le processus. Miriam tombe sous le charme de la jeune doctoresse.
+[99080]  
+**Les Vampires : Le Cryptogramme rouge**  
+de Louis Feuillade  
+1915 / 48 min / INT. FR. / DCP  
+Avec Édouard Mathé, Marcel Lévesque, Musidora, Jean Ayme.  
+Guérande tente de déchiffrer un cryptogramme inscrit dans un petit carnet trouvé sur le cadavre d'un membre des Vampires. Pendant ce temps, dans un cabaret où s'abrite la bande, se produit la chanteuse Irma Vep.  
+Troisième épisode de la série.  
+suivi de  
+[48546]  
+**Les Vampires : La Tête coupée**  
+de Louis Feuillade  
+1915 / 40 min / INT. FR. / 35 mm  
+Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.  
+Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être.  
+Premier épisode de la série.  
+suivi de  
+[99079]  
+**Les Vampires : La Bague qui tue**  
+de Louis Feuillade  
+1915 / 17 min / INT. FR. / DCP  
+Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.  
+Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague.  
+Deuxième épisode de la série.
 
-- sa 19 oct 22h00 HL
-
-[77327]  
-**Nadja**  
-de Michael Almereyda  
-1994 / 93 min / VOSTF / 35 mm  
-Avec Peter Fonda, Elina Löwensohn, Martin Donovan, David Lynch.  
-Lorsque Nadja, la fille du comte Dracula, apprend la mort de son père, elle décide de se réconcilier avec son frère. Van Helsing, aidé de son neveu, cherche à les empêcher de sévir.
-
-- je 10 oct 21h30 GF  
-Séance présentée par Elina Löwensohn
-
-[60560]  
-**Entretien avec un vampire**  
-**(Interview With the Vampire)**  
-de Neil Jordan  
-1993 / 120 min / VOSTF / 35 mm  
-D'après le roman _Entretien avec un vampire_ d'Anne Rice.  
-Avec Brad Pitt, Tom Cruise, Kirsten Dunst, Christian Slater.  
-Au XX<sup>e</sup> siècle, un journaliste enregistre le témoignage de Louis de Pointe du Lac, un vampire âgé de deux cents ans, qui lui raconte sa rencontre avec Lestat de Lioncourt et leurs vies d'immortels.
-
-- je 17 oct 19h30 GF
-
-[108292]  
-**Thirst, ceci est mon sang**  
-**(Bakjwi)**  
-de Park Chan-wook  
-2008 / 134 min / VOSTF / 35 mm  
-Avec Song Kang-ho, Kim Ok-vin, Kim Hae-sook.  
-En Afrique, suite à une expérience médicale ratée, un prêtre se transforme en vampire. De retour chez lui en Corée, il croise la femme d'un ami d'enfance et succombe à son charme.
-
-- me 23 oct 19h15 GF
-
-[55633]  
-**Irma Vep**  
-d'Olivier Assayas  
-1996 / 99 min / VOSTF / 35 mm  
-Avec Maggie Cheung, Jean-Pierre Léaud, Nathalie Richard, Bulle Ogier.  
-Le réalisateur René Vidal entreprend de tourner une nouvelle version du film _Les Vampires_, réalisé par Louis Feuillade en 1915, et donne le rôle d'Irma Vep à Maggie Cheung, une actrice hongkongaise. Le tournage vire rapidement à la catastrophe.
-
-- di 20 oct 19h00 HL
-
-[39701]  
-**Les Lèvres rouges**  
-de Harry Kümel  
-1971 / 87 min / VF / 35 mm  
-Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
-Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
-
-- me 16 oct 21h30 GF
-
-[107022]  
-**Morse**  
-**(Låt den rätte komma in)**  
-de Tomas Alfredson  
-2008 / 114 min / VOSTF / 35 mm  
-D'après le roman _Let the Right One In_ de John Ajvide Lindqvist.  
-Avec Kåre Hedebrant, Lina Leandersson, Per Ragnar.  
-Délaissé et harcelé, le jeune Oskar trouve du réconfort auprès de sa nouvelle et très étrange amie Eli, qui lui donne la force de se venger.
-
-- me 16 oct 19h00 GF
-
-[125659]  
-**A Girl Walks Home Alone at Night**  
-d'Ana Lily Amirpour  
-2014 / 99 min / VOSTF / DCP  
-Avec Sheila Vand, Arash Marandi, Marshall Manesh.  
-En Iran, dans l'étrange ville de Bad City, lieu de tous les vices où suintent la mort et la solitude, les habitants n'imaginent pas qu'ils sont surveillés par un vampire.
-
-- lu 21 oct 21h15 JE
-
-[42588]  
-**Le Bal des vampires**  
-**(The The Fearless Vampire Killers or Pardon Me, But Your Teeth Are in My Neck)**  
-de Roman Polanski  
-1966 / 110 min / VOSTF / DCP  
-Avec Roman Polanski, Sharon Tate, Jack MacGowran.  
-Le professeur Abronsius et son assistant Alfred, chasseurs de vampires, se retrouvent dans un château où se prépare le bal annuel de ces créatures de la nuit.
-
-- je 24 oct 19h00 HL
-
-[30405]  
-**Aux frontières de l'aube**  
-**(Near Dark)**  
-de Kathryn Bigelow  
-1987 / 94 min / VOSTF / 35 mm  
-Avec Adrian Pasdar, Jenny Wright, Lance Henriksen.  
-Caleb, jeune fermier du Middle West, rencontre dans un bar une jolie étrangère, qui le mord juste avant le lever du jour. Il va se joindre au groupe de vampires de la jeune fille.
-
-- ve 18 oct 22h00 HL
-
-[119997]  
-**Only Lovers Left Alive**  
-de Jim Jarmusch  
-2012 / 122 min / VOSTF / DCP  
-Avec Tom Hiddleston, Tilda Swinton, Mia Wasikowska.  
-Adam, musicien underground, et Eve, son amante, sont des vampires qui vivent en solitaires entre Detroit et Tanger. L'arrivée de la petite sœur d'Eve va perturber leur existence.
-
-- je 17 oct 16h30 GF
-
-[120677]  
-**Histoire de ma mort**  
-**(Història de la meva mort)**  
-d'Albert Serra  
-2011 / 148 min / VOSTF / DCP  
-Avec Vicenç Altaió, Clara Visa, Noelia Rodenas.  
-Casanova, arrivé à la fin de sa vie, quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire et à son pouvoir éternel.
-
-- sa 26 oct 21h00 GF
-
-[57359]  
-**Martin**  
-de George A. Romero  
-1977 / 95 min / VOSTF / 35 mm  
-Avec John Amplas, Lincoln Maazel, Christine Forrest, Elyane Nadeau.  
-Obsédé par le sang, le jeune Martin est persuadé d'être un vampire, descendant de Nosferatu.
-
-- je 24 oct 21h15 HL
-
-[102342]  
-**Le Dernier homme**  
-de Ghassan Salhab  
-2006 / 102 min / VOSTF / 35 mm  
-Avec Carlos Chahine.  
-À Beyrouth, alors qu'on découvre chaque jour les nouvelles victimes, exsangues, d'un probable tueur en série, un jeune médecin présente de troublants symptômes.
-
-- me 23 oct 17h00 GF
-
-[60083]  
-**The Addiction**  
-d'Abel Ferrara  
-1995 / 81 min / VOSTF / 35 mm  
-Avec Christopher Walken, Lili Taylor, Annabella Sciorra, Paul Calderon.  
-À New York, une étudiante en philosophie est mordue par une femme vampire.
-
-- di 20 oct 21h15 HL
-
-[56863]  
-**Spermula**  
-de Charles Matton  
-1975 / 103 min / VF / Numérique  
-Avec Dayle Haddon, Udo Kier, Ginette Leclerc.  
-Prônant une morale et une liberté nouvelles, une société secrète envoie sur Terre un commando de femmes d'une grande beauté, afin de conquérir le monde en libérant les hommes de la virilité, principale source d'orgueil.  
-Conte à la fois onirique et réaliste, ovni cinématographique profondément féministe, _Spermula_ est un hymne fastueux à la création, à la femme et à l'amour. Restauré en HD par Hiventy, pour Sylvie Matton, avec le soutien du CNC. Film interdit au moins de 16 ans.
-
-- lu 21 oct 19h00 JE
+- di 27 oct 14h00 HL
 
 [99085]  
 **Les Vampires : Le Maître de la foudre**  
@@ -406,17 +407,16 @@ Septième épisode de la série.
 
 - di 27 oct 20h00 HL
 
-[87317]  
-**Dracula, pages tirées du journal d'une vierge**  
-**(Dracula, Pages from a Virgin's Diary)**  
-de Guy Maddin  
-2002 / 74 min / VOSTF / 35 mm  
-D'après le roman _Dracula_ de Bram Stoker.  
-Avec Wei-Qiang Zhang, Tara Birtwhistle, David Moroni.  
-Dracula, qui a perdu son épouse il y a de cela plusieurs siècles, s'entiche d'une jeune femme qui lui ressemble étrangement.  
-Adaptation pour le cinéma d'un ballet de Gustav Malher, ce film combine à la fois danse sensuelle, scènes mimées et des intertitres qui rappellent le cinéma muet. Il est interprété par les danseurs du Royal Winnipeg Ballet.
+[48251]  
+**Vampyr**  
+**(Vampyr: Der Traum des Allan Gray)**  
+de Carl Theodor Dreyer  
+1930 / 72 min / VOSTF / DCP  
+D'après le roman _Carmilla_ de Sheridan Le Fanu.  
+Avec Julian West, Maurice Schutz, Sybille Schmitz.  
+Un vampire terrorise un châtelain et ses deux filles.
 
-- ve 25 oct 17h00 GF
+- me 23 oct 22h00 GF
 
 ## Cinéma bis
 

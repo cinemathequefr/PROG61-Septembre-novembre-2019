@@ -82,6 +82,40 @@
 
 <pstyle:CATEGORIE>Vampires d'auteurs
 
+<pstyle:TITRE>A Girl Walks Home Alone at Night
+<pstyle:TECHNIQUE>d'Ana Lily Amirpour
+<pstyle:TECHNIQUE>2014/99'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Sheila Vand, Arash Marandi, Marshall Manesh.
+<pstyle:SYNOPSIS>En Iran, dans l'étrange ville de Bad City, lieu de tous les vices où suintent la mort et la solitude, les habitants n'imaginent pas qu'ils sont surveillés par un vampire.
+<pstyle:><cstyle:INFOSBLEUES>lu 21 octXXX21h15XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>The Addiction
+<pstyle:TECHNIQUE>d'Abel Ferrara
+<pstyle:TECHNIQUE>1995/81'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Christopher Walken, Lili Taylor, Annabella Sciorra, Paul Calderon.
+<pstyle:SYNOPSIS>À New York, une étudiante en philosophie est mordue par une femme vampire.
+<pstyle:><cstyle:INFOSBLEUES>di 20 octXXX21h15XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Aux frontières de l'aube
+<pstyle:TITRE_ANG>(Near Dark)
+<pstyle:TECHNIQUE>de Kathryn Bigelow
+<pstyle:TECHNIQUE>1987/94'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Adrian Pasdar, Jenny Wright, Lance Henriksen.
+<pstyle:SYNOPSIS>Caleb, jeune fermier du Middle West, rencontre dans un bar une jolie étrangère, qui le mord juste avant le lever du jour. Il va se joindre au groupe de vampires de la jeune fille.
+<pstyle:><cstyle:INFOSBLEUES>ve 18 octXXX22h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Le Bal des vampires
+<pstyle:TITRE_ANG>(The The Fearless Vampire Killers or Pardon Me, But Your Teeth Are in My Neck)
+<pstyle:TECHNIQUE>de Roman Polanski
+<pstyle:TECHNIQUE>1966/110'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Roman Polanski, Sharon Tate, Jack MacGowran.
+<pstyle:SYNOPSIS>Le professeur Abronsius et son assistant Alfred, chasseurs de vampires, se retrouvent dans un château où se prépare le bal annuel de ces créatures de la nuit.
+<pstyle:><cstyle:INFOSBLEUES>je 24 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>La Comtesse
 <pstyle:TITRE_ANG>(The Countess)
 <pstyle:TECHNIQUE>de Julie Delpy
@@ -91,6 +125,104 @@
 <pstyle:><cstyle:INFOSBLEUES>sa 12 octXXX14h30XXX
 <cstyle:SALLESBLEUES>A
 
+<pstyle:TITRE>Cuadecuc, vampir
+<pstyle:TECHNIQUE>de Pere Portabella
+<pstyle:TECHNIQUE>1970/67'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Christopher Lee, Jesús Franco.
+<pstyle:SYNOPSIS>Mi-documentaire, mi-reportage expérimental réalisé sur le tournage du film <ct:Italic>Les Nuits de Dracula<ct:> de Jesús Franco.
+<pstyle:INFOS_UTILES>«<0x00A0>Ce film est une tentative de réflexion sur le langage cinématographique.<0x00A0>» (Pere Portabella)
+<pstyle:><cstyle:INFOSBLEUES>lu 14 octXXX17h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Dark Shadows
+<pstyle:TECHNIQUE>de Tim Burton
+<pstyle:TECHNIQUE>2011/113'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après la série télévisée <cSkew:9>Dark Shadows<cSkew:> de Dan Curtis.
+<pstyle:TECHNIQUE>Avec Johnny Depp, Michelle Pfeiffer, Helena Bonham-Carter, Eva Green.
+<pstyle:SYNOPSIS>Le vampire Barnabas Collins, emprisonné par une sorcière, est libéré accidentellement deux siècles plus tard. Lorsqu'il rentre chez lui, il retrouve un château délabré et des descendants qu'il va devoir soutenir.
+<pstyle:><cstyle:INFOSBLEUES>sa 26 octXXX16h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Le Dernier homme
+<pstyle:TECHNIQUE>de Ghassan Salhab
+<pstyle:TECHNIQUE>2006/102'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Carlos Chahine.
+<pstyle:SYNOPSIS>À Beyrouth, alors qu'on découvre chaque jour les nouvelles victimes, exsangues, d'un probable tueur en série, un jeune médecin présente de troublants symptômes.
+<pstyle:><cstyle:INFOSBLEUES>me 23 octXXX17h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Dracula, pages tirées du journal d'une vierge
+<pstyle:TITRE_ANG>(Dracula, Pages from a Virgin's Diary)
+<pstyle:TECHNIQUE>de Guy Maddin
+<pstyle:TECHNIQUE>2002/74'/VOSTF/35mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Dracula<cSkew:> de Bram Stoker.
+<pstyle:TECHNIQUE>Avec Wei-Qiang Zhang, Tara Birtwhistle, David Moroni.
+<pstyle:SYNOPSIS>Dracula, qui a perdu son épouse il y a de cela plusieurs siècles, s'entiche d'une jeune femme qui lui ressemble étrangement.
+<pstyle:INFOS_UTILES>Adaptation pour le cinéma d'un ballet de Gustav Malher, ce film combine à la fois danse sensuelle, scènes mimées et des intertitres qui rappellent le cinéma muet. Il est interprété par les danseurs du Royal Winnipeg Ballet.
+<pstyle:><cstyle:INFOSBLEUES>ve 25 octXXX17h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Entretien avec un vampire
+<pstyle:TITRE_ANG>(Interview With the Vampire)
+<pstyle:TECHNIQUE>de Neil Jordan
+<pstyle:TECHNIQUE>1993/120'/VOSTF/35mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Entretien avec un vampire<cSkew:> d'Anne Rice.
+<pstyle:TECHNIQUE>Avec Brad Pitt, Tom Cruise, Kirsten Dunst, Christian Slater.
+<pstyle:SYNOPSIS>Au XX<cPosition:Superscript>e<cPosition:> siècle, un journaliste enregistre le témoignage de Louis de Pointe du Lac, un vampire âgé de deux cents ans, qui lui raconte sa rencontre avec Lestat de Lioncourt et leurs vies d'immortels.
+<pstyle:><cstyle:INFOSBLEUES>je 17 octXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Histoire de ma mort
+<pstyle:TITRE_ANG>(Història de la meva mort)
+<pstyle:TECHNIQUE>d'Albert Serra
+<pstyle:TECHNIQUE>2011/148'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Vicenç Altaió, Clara Visa, Noelia Rodenas.
+<pstyle:SYNOPSIS>Casanova, arrivé à la fin de sa vie, quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire et à son pouvoir éternel.
+<pstyle:><cstyle:INFOSBLEUES>sa 26 octXXX21h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Irma Vep
+<pstyle:TECHNIQUE>d'Olivier Assayas
+<pstyle:TECHNIQUE>1996/99'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Maggie Cheung, Jean-Pierre Léaud, Nathalie Richard, Bulle Ogier.
+<pstyle:SYNOPSIS>Le réalisateur René Vidal entreprend de tourner une nouvelle version du film <ct:Italic>Les Vampires<ct:>, réalisé par Louis Feuillade en 1915, et donne le rôle d'Irma Vep à Maggie Cheung, une actrice hongkongaise. Le tournage vire rapidement à la catastrophe.
+<pstyle:><cstyle:INFOSBLEUES>di 20 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Les Lèvres rouges
+<pstyle:TECHNIQUE>de Harry Kümel
+<pstyle:TECHNIQUE>1971/87'/VF/35mm
+<pstyle:TECHNIQUE>Avec Delphine Seyrig, Danielle Ouimet, John Karlen.
+<pstyle:SYNOPSIS>Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
+<pstyle:><cstyle:INFOSBLEUES>me 16 octXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Martin
+<pstyle:TECHNIQUE>de George A. Romero
+<pstyle:TECHNIQUE>1977/95'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec John Amplas, Lincoln Maazel, Christine Forrest, Elyane Nadeau.
+<pstyle:SYNOPSIS>Obsédé par le sang, le jeune Martin est persuadé d'être un vampire, descendant de Nosferatu.
+<pstyle:><cstyle:INFOSBLEUES>je 24 octXXX21h15XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Morse
+<pstyle:TITRE_ANG>(Låt den rätte komma in)
+<pstyle:TECHNIQUE>de Tomas Alfredson
+<pstyle:TECHNIQUE>2008/114'/VOSTF/35mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Let the Right One In<cSkew:> de John Ajvide Lindqvist.
+<pstyle:TECHNIQUE>Avec Kåre Hedebrant, Lina Leandersson, Per Ragnar.
+<pstyle:SYNOPSIS>Délaissé et harcelé, le jeune Oskar trouve du réconfort auprès de sa nouvelle et très étrange amie Eli, qui lui donne la force de se venger.
+<pstyle:><cstyle:INFOSBLEUES>me 16 octXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Nadja
+<pstyle:TECHNIQUE>de Michael Almereyda
+<pstyle:TECHNIQUE>1994/93'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Peter Fonda, Elina Löwensohn, Martin Donovan, David Lynch.
+<pstyle:SYNOPSIS>Lorsque Nadja, la fille du comte Dracula, apprend la mort de son père, elle décide de se réconcilier avec son frère. Van Helsing, aidé de son neveu, cherche à les empêcher de sévir.
+<pstyle:><cstyle:INFOSBLEUES>je 10 octXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Elina Löwensohn
 <pstyle:TITRE>Niemand
 <pstyle:TECHNIQUE>de Bertrand Mandico
 <pstyle:TECHNIQUE>2018/6'/VO/Numérique
@@ -105,56 +237,54 @@
 <pstyle:><cstyle:INFOSBLEUES>lu 14 octXXX19h15XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Dark Shadows
-<pstyle:TECHNIQUE>de Tim Burton
-<pstyle:TECHNIQUE>2011/113'/VOSTF/DCP
-<pstyle:TECHNIQUE>D'après la série télévisée <cSkew:9>Dark Shadows<cSkew:> de Dan Curtis.
-<pstyle:TECHNIQUE>Avec Johnny Depp, Michelle Pfeiffer, Helena Bonham-Carter, Eva Green.
-<pstyle:SYNOPSIS>Le vampire Barnabas Collins, emprisonné par une sorcière, est libéré accidentellement deux siècles plus tard. Lorsqu'il rentre chez lui, il retrouve un château délabré et des descendants qu'il va devoir soutenir.
-<pstyle:><cstyle:INFOSBLEUES>sa 26 octXXX16h30XXX
+<pstyle:TITRE>Only Lovers Left Alive
+<pstyle:TECHNIQUE>de Jim Jarmusch
+<pstyle:TECHNIQUE>2012/122'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Tom Hiddleston, Tilda Swinton, Mia Wasikowska.
+<pstyle:SYNOPSIS>Adam, musicien underground, et Eve, son amante, sont des vampires qui vivent en solitaires entre Detroit et Tanger. L'arrivée de la petite s<0x0153>ur d'Eve va perturber leur existence.
+<pstyle:><cstyle:INFOSBLEUES>je 17 octXXX16h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Les Vampires<0x00A0>: Le Cryptogramme rouge
-<pstyle:TECHNIQUE>de Louis Feuillade
-<pstyle:TECHNIQUE>1915/48'/INT. FR./DCP
-<pstyle:TECHNIQUE>Avec Édouard Mathé, Marcel Lévesque, Musidora, Jean Ayme.
-<pstyle:SYNOPSIS>Guérande tente de déchiffrer un cryptogramme inscrit dans un petit carnet trouvé sur le cadavre d'un membre des Vampires. Pendant ce temps, dans un cabaret où s'abrite la bande, se produit la chanteuse Irma Vep.
-<pstyle:INFOS_UTILES>Troisième épisode de la série.
-<pstyle:SUIVI_DE>Suivi de
-<pstyle:TITRE>Les Vampires<0x00A0>: La Tête coupée
-<pstyle:TECHNIQUE>de Louis Feuillade
-<pstyle:TECHNIQUE>1915/40'/INT. FR./35mm
-<pstyle:TECHNIQUE>Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.
-<pstyle:SYNOPSIS>Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être.
-<pstyle:INFOS_UTILES>Premier épisode de la série.
-<pstyle:SUIVI_DE>Suivi de
-<pstyle:TITRE>Les Vampires<0x00A0>: La Bague qui tue
-<pstyle:TECHNIQUE>de Louis Feuillade
-<pstyle:TECHNIQUE>1915/17'/INT. FR./DCP
-<pstyle:TECHNIQUE>Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.
-<pstyle:SYNOPSIS>Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague.
-<pstyle:INFOS_UTILES>Deuxième épisode de la série.
-<pstyle:><cstyle:INFOSBLEUES>di 27 octXXX14h00XXX
+<pstyle:TITRE>Les Prédateurs
+<pstyle:TITRE_ANG>(The Hunger)
+<pstyle:TECHNIQUE>de Tony Scott
+<pstyle:TECHNIQUE>1982/97'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Les Prédateurs<cSkew:> de Whitley Strieber.
+<pstyle:TECHNIQUE>Avec Catherine Deneuve, David Bowie, Susan Sarandon.
+<pstyle:SYNOPSIS>Miriam, une vampire âgée de trois mille ans, a offert l'immortalité à son compagnon. Mais il est frappé de vieillissement accéléré, et contacte la spécialiste Sarah Roberts pour enrayer le processus. Miriam tombe sous le charme de la jeune doctoresse.
+<pstyle:><cstyle:INFOSBLEUES>sa 19 octXXX22h00XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Cuadecuc, vampir
-<pstyle:TECHNIQUE>de Pere Portabella
-<pstyle:TECHNIQUE>1970/67'/VOSTF/DCP
-<pstyle:TECHNIQUE>Avec Christopher Lee, Jesús Franco.
-<pstyle:SYNOPSIS>Mi-documentaire, mi-reportage expérimental réalisé sur le tournage du film <ct:Italic>Les Nuits de Dracula<ct:> de Jesús Franco.
-<pstyle:INFOS_UTILES>«<0x00A0>Ce film est une tentative de réflexion sur le langage cinématographique.<0x00A0>» (Pere Portabella)
-<pstyle:><cstyle:INFOSBLEUES>lu 14 octXXX17h00XXX
+<pstyle:TITRE>Spermula
+<pstyle:TECHNIQUE>de Charles Matton
+<pstyle:TECHNIQUE>1975/103'/VF/Numérique
+<pstyle:TECHNIQUE>Avec Dayle Haddon, Udo Kier, Ginette Leclerc.
+<pstyle:SYNOPSIS>Prônant une morale et une liberté nouvelles, une société secrète envoie sur Terre un commando de femmes d'une grande beauté, afin de conquérir le monde en libérant les hommes de la virilité, principale source d'orgueil.
+<pstyle:INFOS_UTILES>Conte à la fois onirique et réaliste, ovni cinématographique profondément féministe, <ct:Italic>Spermula<ct:> est un hymne fastueux à la création, à la femme et à l'amour. Restauré en HD par Hiventy, pour Sylvie Matton, avec le soutien du CNC. Film interdit au moins de 16 ans.
+<pstyle:><cstyle:INFOSBLEUES>lu 21 octXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Thirst, ceci est mon sang
+<pstyle:TITRE_ANG>(Bakjwi)
+<pstyle:TECHNIQUE>de Park Chan-wook
+<pstyle:TECHNIQUE>2008/134'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Song Kang-ho, Kim Ok-vin, Kim Hae-sook.
+<pstyle:SYNOPSIS>En Afrique, suite à une expérience médicale ratée, un prêtre se transforme en vampire. De retour chez lui en Corée, il croise la femme d'un ami d'enfance et succombe à son charme.
+<pstyle:><cstyle:INFOSBLEUES>me 23 octXXX19h15XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Vampyr
-<pstyle:TITRE_ANG>(Vampyr: Der Traum des Allan Gray)
-<pstyle:TECHNIQUE>de Carl Theodor Dreyer
-<pstyle:TECHNIQUE>1930/72'/VOSTF/DCP
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Carmilla<cSkew:> de Sheridan Le Fanu.
-<pstyle:TECHNIQUE>Avec Julian West, Maurice Schutz, Sybille Schmitz.
-<pstyle:SYNOPSIS>Un vampire terrorise un châtelain et ses deux filles.
-<pstyle:><cstyle:INFOSBLEUES>me 23 octXXX22h00XXX
-<cstyle:SALLESBLEUES>B
+<pstyle:TITRE>Le Vampire
+<pstyle:TECHNIQUE>de Jean Painlevé
+<pstyle:TECHNIQUE>1939/10'/DCP
+<pstyle:SYNOPSIS>Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Amérique du sud, possiblement à l'origine du <ct:Italic>Nosferatu<ct:> de F. W. Murnau.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Vampires
+<pstyle:TECHNIQUE>de John Carpenter
+<pstyle:TECHNIQUE>1997/108'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec James Woods, Daniel Baldwin, Sheryl Lee, Maximilian Schell.
+<pstyle:SYNOPSIS>À la tête d'une troupe de mercenaires, Jack Crow est chargé par le Vatican d'exterminer des nids de vampires. Parmi eux se trouve le puissant Valek, rescapé d'une des traques, qui cherche à se venger de Jack et de ses hommes.
+<pstyle:><cstyle:INFOSBLEUES>je 07 novXXX22h00XXX
+<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Les Vampires<0x00A0>: L'Évasion du mort
 <pstyle:TECHNIQUE>de Louis Feuillade
@@ -179,19 +309,6 @@
 <pstyle:><cstyle:INFOSBLEUES>di 27 octXXX16h15XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Le Vampire
-<pstyle:TECHNIQUE>de Jean Painlevé
-<pstyle:TECHNIQUE>1939/10'/DCP
-<pstyle:SYNOPSIS>Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Amérique du sud, possiblement à l'origine du <ct:Italic>Nosferatu<ct:> de F. W. Murnau.
-<pstyle:SUIVI_DE>Suivi de
-<pstyle:TITRE>Vampires
-<pstyle:TECHNIQUE>de John Carpenter
-<pstyle:TECHNIQUE>1997/108'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec James Woods, Daniel Baldwin, Sheryl Lee, Maximilian Schell.
-<pstyle:SYNOPSIS>À la tête d'une troupe de mercenaires, Jack Crow est chargé par le Vatican d'exterminer des nids de vampires. Parmi eux se trouve le puissant Valek, rescapé d'une des traques, qui cherche à se venger de Jack et de ses hommes.
-<pstyle:><cstyle:INFOSBLEUES>je 07 novXXX22h00XXX
-<cstyle:SALLESBLEUES>A
-
 <pstyle:TITRE>Les Vampires<0x00A0>: L'Homme des poisons
 <pstyle:TECHNIQUE>de Louis Feuillade
 <pstyle:TECHNIQUE>1916/60'/INT. FR./35mm
@@ -208,144 +325,28 @@
 <pstyle:><cstyle:INFOSBLEUES>di 27 octXXX21h45XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Les Prédateurs
-<pstyle:TITRE_ANG>(The Hunger)
-<pstyle:TECHNIQUE>de Tony Scott
-<pstyle:TECHNIQUE>1982/97'/VOSTF/DCP
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Les Prédateurs<cSkew:> de Whitley Strieber.
-<pstyle:TECHNIQUE>Avec Catherine Deneuve, David Bowie, Susan Sarandon.
-<pstyle:SYNOPSIS>Miriam, une vampire âgée de trois mille ans, a offert l'immortalité à son compagnon. Mais il est frappé de vieillissement accéléré, et contacte la spécialiste Sarah Roberts pour enrayer le processus. Miriam tombe sous le charme de la jeune doctoresse.
-<pstyle:><cstyle:INFOSBLEUES>sa 19 octXXX22h00XXX
+<pstyle:TITRE>Les Vampires<0x00A0>: Le Cryptogramme rouge
+<pstyle:TECHNIQUE>de Louis Feuillade
+<pstyle:TECHNIQUE>1915/48'/INT. FR./DCP
+<pstyle:TECHNIQUE>Avec Édouard Mathé, Marcel Lévesque, Musidora, Jean Ayme.
+<pstyle:SYNOPSIS>Guérande tente de déchiffrer un cryptogramme inscrit dans un petit carnet trouvé sur le cadavre d'un membre des Vampires. Pendant ce temps, dans un cabaret où s'abrite la bande, se produit la chanteuse Irma Vep.
+<pstyle:INFOS_UTILES>Troisième épisode de la série.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Les Vampires<0x00A0>: La Tête coupée
+<pstyle:TECHNIQUE>de Louis Feuillade
+<pstyle:TECHNIQUE>1915/40'/INT. FR./35mm
+<pstyle:TECHNIQUE>Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.
+<pstyle:SYNOPSIS>Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être.
+<pstyle:INFOS_UTILES>Premier épisode de la série.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Les Vampires<0x00A0>: La Bague qui tue
+<pstyle:TECHNIQUE>de Louis Feuillade
+<pstyle:TECHNIQUE>1915/17'/INT. FR./DCP
+<pstyle:TECHNIQUE>Avec Édouard Mathé, Marcel Lévesque, Jean Ayme.
+<pstyle:SYNOPSIS>Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague.
+<pstyle:INFOS_UTILES>Deuxième épisode de la série.
+<pstyle:><cstyle:INFOSBLEUES>di 27 octXXX14h00XXX
 <cstyle:SALLESBLEUES>A
-
-<pstyle:TITRE>Nadja
-<pstyle:TECHNIQUE>de Michael Almereyda
-<pstyle:TECHNIQUE>1994/93'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Peter Fonda, Elina Löwensohn, Martin Donovan, David Lynch.
-<pstyle:SYNOPSIS>Lorsque Nadja, la fille du comte Dracula, apprend la mort de son père, elle décide de se réconcilier avec son frère. Van Helsing, aidé de son neveu, cherche à les empêcher de sévir.
-<pstyle:><cstyle:INFOSBLEUES>je 10 octXXX21h30XXX
-<cstyle:SALLESBLEUES>B
-<pstyle:EVENEMENT>Séance présentée par Elina Löwensohn
-<pstyle:TITRE>Entretien avec un vampire
-<pstyle:TITRE_ANG>(Interview With the Vampire)
-<pstyle:TECHNIQUE>de Neil Jordan
-<pstyle:TECHNIQUE>1993/120'/VOSTF/35mm
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Entretien avec un vampire<cSkew:> d'Anne Rice.
-<pstyle:TECHNIQUE>Avec Brad Pitt, Tom Cruise, Kirsten Dunst, Christian Slater.
-<pstyle:SYNOPSIS>Au XX<cPosition:Superscript>e<cPosition:> siècle, un journaliste enregistre le témoignage de Louis de Pointe du Lac, un vampire âgé de deux cents ans, qui lui raconte sa rencontre avec Lestat de Lioncourt et leurs vies d'immortels.
-<pstyle:><cstyle:INFOSBLEUES>je 17 octXXX19h30XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>Thirst, ceci est mon sang
-<pstyle:TITRE_ANG>(Bakjwi)
-<pstyle:TECHNIQUE>de Park Chan-wook
-<pstyle:TECHNIQUE>2008/134'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Song Kang-ho, Kim Ok-vin, Kim Hae-sook.
-<pstyle:SYNOPSIS>En Afrique, suite à une expérience médicale ratée, un prêtre se transforme en vampire. De retour chez lui en Corée, il croise la femme d'un ami d'enfance et succombe à son charme.
-<pstyle:><cstyle:INFOSBLEUES>me 23 octXXX19h15XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>Irma Vep
-<pstyle:TECHNIQUE>d'Olivier Assayas
-<pstyle:TECHNIQUE>1996/99'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Maggie Cheung, Jean-Pierre Léaud, Nathalie Richard, Bulle Ogier.
-<pstyle:SYNOPSIS>Le réalisateur René Vidal entreprend de tourner une nouvelle version du film <ct:Italic>Les Vampires<ct:>, réalisé par Louis Feuillade en 1915, et donne le rôle d'Irma Vep à Maggie Cheung, une actrice hongkongaise. Le tournage vire rapidement à la catastrophe.
-<pstyle:><cstyle:INFOSBLEUES>di 20 octXXX19h00XXX
-<cstyle:SALLESBLEUES>A
-
-<pstyle:TITRE>Les Lèvres rouges
-<pstyle:TECHNIQUE>de Harry Kümel
-<pstyle:TECHNIQUE>1971/87'/VF/35mm
-<pstyle:TECHNIQUE>Avec Delphine Seyrig, Danielle Ouimet, John Karlen.
-<pstyle:SYNOPSIS>Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
-<pstyle:><cstyle:INFOSBLEUES>me 16 octXXX21h30XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>Morse
-<pstyle:TITRE_ANG>(Låt den rätte komma in)
-<pstyle:TECHNIQUE>de Tomas Alfredson
-<pstyle:TECHNIQUE>2008/114'/VOSTF/35mm
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Let the Right One In<cSkew:> de John Ajvide Lindqvist.
-<pstyle:TECHNIQUE>Avec Kåre Hedebrant, Lina Leandersson, Per Ragnar.
-<pstyle:SYNOPSIS>Délaissé et harcelé, le jeune Oskar trouve du réconfort auprès de sa nouvelle et très étrange amie Eli, qui lui donne la force de se venger.
-<pstyle:><cstyle:INFOSBLEUES>me 16 octXXX19h00XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>A Girl Walks Home Alone at Night
-<pstyle:TECHNIQUE>d'Ana Lily Amirpour
-<pstyle:TECHNIQUE>2014/99'/VOSTF/DCP
-<pstyle:TECHNIQUE>Avec Sheila Vand, Arash Marandi, Marshall Manesh.
-<pstyle:SYNOPSIS>En Iran, dans l'étrange ville de Bad City, lieu de tous les vices où suintent la mort et la solitude, les habitants n'imaginent pas qu'ils sont surveillés par un vampire.
-<pstyle:><cstyle:INFOSBLEUES>lu 21 octXXX21h15XXX
-<cstyle:SALLESBLEUES>C
-
-<pstyle:TITRE>Le Bal des vampires
-<pstyle:TITRE_ANG>(The The Fearless Vampire Killers or Pardon Me, But Your Teeth Are in My Neck)
-<pstyle:TECHNIQUE>de Roman Polanski
-<pstyle:TECHNIQUE>1966/110'/VOSTF/DCP
-<pstyle:TECHNIQUE>Avec Roman Polanski, Sharon Tate, Jack MacGowran.
-<pstyle:SYNOPSIS>Le professeur Abronsius et son assistant Alfred, chasseurs de vampires, se retrouvent dans un château où se prépare le bal annuel de ces créatures de la nuit.
-<pstyle:><cstyle:INFOSBLEUES>je 24 octXXX19h00XXX
-<cstyle:SALLESBLEUES>A
-
-<pstyle:TITRE>Aux frontières de l'aube
-<pstyle:TITRE_ANG>(Near Dark)
-<pstyle:TECHNIQUE>de Kathryn Bigelow
-<pstyle:TECHNIQUE>1987/94'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Adrian Pasdar, Jenny Wright, Lance Henriksen.
-<pstyle:SYNOPSIS>Caleb, jeune fermier du Middle West, rencontre dans un bar une jolie étrangère, qui le mord juste avant le lever du jour. Il va se joindre au groupe de vampires de la jeune fille.
-<pstyle:><cstyle:INFOSBLEUES>ve 18 octXXX22h00XXX
-<cstyle:SALLESBLEUES>A
-
-<pstyle:TITRE>Only Lovers Left Alive
-<pstyle:TECHNIQUE>de Jim Jarmusch
-<pstyle:TECHNIQUE>2012/122'/VOSTF/DCP
-<pstyle:TECHNIQUE>Avec Tom Hiddleston, Tilda Swinton, Mia Wasikowska.
-<pstyle:SYNOPSIS>Adam, musicien underground, et Eve, son amante, sont des vampires qui vivent en solitaires entre Detroit et Tanger. L'arrivée de la petite s<0x0153>ur d'Eve va perturber leur existence.
-<pstyle:><cstyle:INFOSBLEUES>je 17 octXXX16h30XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>Histoire de ma mort
-<pstyle:TITRE_ANG>(Història de la meva mort)
-<pstyle:TECHNIQUE>d'Albert Serra
-<pstyle:TECHNIQUE>2011/148'/VOSTF/DCP
-<pstyle:TECHNIQUE>Avec Vicenç Altaió, Clara Visa, Noelia Rodenas.
-<pstyle:SYNOPSIS>Casanova, arrivé à la fin de sa vie, quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire et à son pouvoir éternel.
-<pstyle:><cstyle:INFOSBLEUES>sa 26 octXXX21h00XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>Martin
-<pstyle:TECHNIQUE>de George A. Romero
-<pstyle:TECHNIQUE>1977/95'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec John Amplas, Lincoln Maazel, Christine Forrest, Elyane Nadeau.
-<pstyle:SYNOPSIS>Obsédé par le sang, le jeune Martin est persuadé d'être un vampire, descendant de Nosferatu.
-<pstyle:><cstyle:INFOSBLEUES>je 24 octXXX21h15XXX
-<cstyle:SALLESBLEUES>A
-
-<pstyle:TITRE>Le Dernier homme
-<pstyle:TECHNIQUE>de Ghassan Salhab
-<pstyle:TECHNIQUE>2006/102'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Carlos Chahine.
-<pstyle:SYNOPSIS>À Beyrouth, alors qu'on découvre chaque jour les nouvelles victimes, exsangues, d'un probable tueur en série, un jeune médecin présente de troublants symptômes.
-<pstyle:><cstyle:INFOSBLEUES>me 23 octXXX17h00XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>The Addiction
-<pstyle:TECHNIQUE>d'Abel Ferrara
-<pstyle:TECHNIQUE>1995/81'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Christopher Walken, Lili Taylor, Annabella Sciorra, Paul Calderon.
-<pstyle:SYNOPSIS>À New York, une étudiante en philosophie est mordue par une femme vampire.
-<pstyle:><cstyle:INFOSBLEUES>di 20 octXXX21h15XXX
-<cstyle:SALLESBLEUES>A
-
-<pstyle:TITRE>Spermula
-<pstyle:TECHNIQUE>de Charles Matton
-<pstyle:TECHNIQUE>1975/103'/VF/Numérique
-<pstyle:TECHNIQUE>Avec Dayle Haddon, Udo Kier, Ginette Leclerc.
-<pstyle:SYNOPSIS>Prônant une morale et une liberté nouvelles, une société secrète envoie sur Terre un commando de femmes d'une grande beauté, afin de conquérir le monde en libérant les hommes de la virilité, principale source d'orgueil.
-<pstyle:INFOS_UTILES>Conte à la fois onirique et réaliste, ovni cinématographique profondément féministe, <ct:Italic>Spermula<ct:> est un hymne fastueux à la création, à la femme et à l'amour. Restauré en HD par Hiventy, pour Sylvie Matton, avec le soutien du CNC. Film interdit au moins de 16 ans.
-<pstyle:><cstyle:INFOSBLEUES>lu 21 octXXX19h00XXX
-<cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>Les Vampires<0x00A0>: Le Maître de la foudre
 <pstyle:TECHNIQUE>de Louis Feuillade
@@ -363,15 +364,14 @@
 <pstyle:><cstyle:INFOSBLEUES>di 27 octXXX20h00XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Dracula, pages tirées du journal d'une vierge
-<pstyle:TITRE_ANG>(Dracula, Pages from a Virgin's Diary)
-<pstyle:TECHNIQUE>de Guy Maddin
-<pstyle:TECHNIQUE>2002/74'/VOSTF/35mm
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Dracula<cSkew:> de Bram Stoker.
-<pstyle:TECHNIQUE>Avec Wei-Qiang Zhang, Tara Birtwhistle, David Moroni.
-<pstyle:SYNOPSIS>Dracula, qui a perdu son épouse il y a de cela plusieurs siècles, s'entiche d'une jeune femme qui lui ressemble étrangement.
-<pstyle:INFOS_UTILES>Adaptation pour le cinéma d'un ballet de Gustav Malher, ce film combine à la fois danse sensuelle, scènes mimées et des intertitres qui rappellent le cinéma muet. Il est interprété par les danseurs du Royal Winnipeg Ballet.
-<pstyle:><cstyle:INFOSBLEUES>ve 25 octXXX17h00XXX
+<pstyle:TITRE>Vampyr
+<pstyle:TITRE_ANG>(Vampyr: Der Traum des Allan Gray)
+<pstyle:TECHNIQUE>de Carl Theodor Dreyer
+<pstyle:TECHNIQUE>1930/72'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Carmilla<cSkew:> de Sheridan Le Fanu.
+<pstyle:TECHNIQUE>Avec Julian West, Maurice Schutz, Sybille Schmitz.
+<pstyle:SYNOPSIS>Un vampire terrorise un châtelain et ses deux filles.
+<pstyle:><cstyle:INFOSBLEUES>me 23 octXXX22h00XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:CATEGORIE>Cinéma bis
