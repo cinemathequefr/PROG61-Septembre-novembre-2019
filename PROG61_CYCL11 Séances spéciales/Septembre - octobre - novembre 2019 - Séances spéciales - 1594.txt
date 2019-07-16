@@ -1,0 +1,36 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>AP Mendonça Filho
+
+<pstyle:TITRE>Bacurau
+<pstyle:TECHNIQUE>de Kleber Mendonça Filho et Juliano Dornelles
+<pstyle:TECHNIQUE>Brésil-France/2018/132'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Udo Kier, Barbara Colen, Sonia Braga.
+<pstyle:SYNOPSIS>Le village de Bacurau dans le sertão brésilien fait le deuil de sa matriarche Carmelita qui s’est éteinte à 94 ans.
+<pstyle:><cstyle:INFOSROUGES>lu 23 sepXXX20h00XXX
+<cstyle:SALLESROUGES>A
+
+<pstyle:CATEGORIE>AP Nicolas Pariser
+
+<pstyle:TITRE>Alice et le maire
+<pstyle:TECHNIQUE>de Nicolas Pariser
+<pstyle:TECHNIQUE>France/2018/103'/DCP
+<pstyle:TECHNIQUE>Avec Anaïs Demoustier, Nora Hamzawi.
+<pstyle:SYNOPSIS>Apre?s trente ans de vie politique,le maire de Lyon se sent complètement vide. Pour remédier a? ce problème, on lui adjoint une jeune et brillante philosophe.  Un dialogue se noue, qui rapproche Alice et le maire et ébranle leurs certitudes.
+<pstyle:><cstyle:INFOSROUGES>lu 02 sepXXX20h00XXX
+<cstyle:SALLESROUGES>A
+
+<pstyle:CATEGORIE>Journée du matrimoine
+<pstyle:CATEGORIE TXT>Les Journées du Matrimoine à La Cinémathèque française
+L’association HF Île-de-France, qui agit en faveur de l’égalité entre les Femmes et les Hommes dans les Arts et la Culture depuis 10 ans, a lancé en 2015 la 1ère édition des « Journées du Matrimoine », en écho aux « Journées du Patrimoine ». Quatre années plus tard, on peut parler d’effet Matrimoine au regard des nombreuses initiatives prises en Île-de-France sur le sujet. 
+À l’occasion de cette 5ème édition, les 21 et 22 septembre 2019, La Cinémathèque française et HF Ile-de-France proposent en ouverture une projection gratuite d’Olivia de la réalisatrice Jacqueline Aubry, l’une des rares femmes cinéastes des années 1950 en France.
+
+<pstyle:TITRE>Olivia
+<pstyle:TECHNIQUE>de Jacqueline Audry
+<pstyle:TECHNIQUE>France/1950/95'/DCP
+<pstyle:TECHNIQUE>d'après Olivia
+<pstyle:TECHNIQUE>Avec Edwige Feuillère, Simone Simon, Marie-Claire Olivia.
+<pstyle:SYNOPSIS>Œuvre majeure du cinéma lesbien, <cSkew:9>Mädchen in Uniform<cSkew:> est un des premiers films à aborder de front l’homosexualité féminine. Réalisé en 1931, il connait un énorme succès public et critique en Allemagne. Emblème du cinéma de la République de la Weimar, il est ensuite censuré par le Parti nazi à son arrivée au pouvoir et reste rarement visible depuis lors. Avec son casting exclusivement composé de femmes, <cSkew:9>Mädchen in Uniform<cSkew:> allie une critique féministe de la société patriarcale et des régimes totalitaires à une représentation subtile du saphisme.
+<pstyle:><cstyle:INFOSROUGES>ve 20 sepXXX20h00XXX
+<cstyle:SALLESROUGES>B

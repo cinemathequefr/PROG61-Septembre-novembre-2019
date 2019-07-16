@@ -1,0 +1,279 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>Catégorie principale
+
+<pstyle:TITRE>Au pays des têtes
+<pstyle:TITRE_ANG>(Land of the Head)
+<pstyle:TECHNIQUE>de Claude Barras et Cédric Louis
+<pstyle:TECHNIQUE>Canada-Suisse/2009
+<pstyle:><cstyle:INFOSBLEUES>me 13 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film précédé de Kali, le petit vampire  de Regina Pessoa
+<pstyle:EVENEMENT>Film suivi de Cul de bouteille de Jean-Claude Rozec
+<pstyle:EVENEMENT>Film suivi de La Saint-Festin de Anne-Laure Daffis et Léo Marchand
+<pstyle:EVENEMENT>Film suivi de Bisclavret de Emilie Mercier
+<pstyle:EVENEMENT>Film suivi de Spook Sport de Norman McLaren
+
+<pstyle:TITRE>La Belle et la bête
+<pstyle:TECHNIQUE>de Jean Cocteau
+<pstyle:TECHNIQUE>France/1945/100'/35mm
+<pstyle:TECHNIQUE>D'après Jeanne-Marie Leprince de Beaumont.
+<pstyle:TECHNIQUE>Avec Josette Day, Jean Marais, Marcel André.
+<pstyle:SYNOPSIS>Belle se retrouve prisonnière d’un château oUUU règne une horrible Bête. Effrayée dans un premier temps, Belle découvre que la bête possède un cœur en or et un autre visage…
+<pstyle:><cstyle:INFOSBLEUES>6 di 20 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance suivie d'une discussion avec José-Louis Bocquet, Philippe Pierre-Adolphe
+
+<pstyle:TITRE>Bisclavret
+<pstyle:TECHNIQUE>de Emilie Mercier
+<pstyle:TECHNIQUE>France/2012/14'/35mm
+<pstyle:><cstyle:INFOSBLEUES>8 me 13 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film précédé de Kali, le petit vampire  de Regina Pessoa
+<pstyle:EVENEMENT>Film précédé de Au pays des têtes de Claude Barras et Cédric Louis
+<pstyle:EVENEMENT>Film précédé de Cul de bouteille de Jean-Claude Rozec
+<pstyle:EVENEMENT>Film précédé de La Saint-Festin de Anne-Laure Daffis et Léo Marchand
+<pstyle:EVENEMENT>Film suivi de Spook Sport de Norman McLaren
+
+<pstyle:TITRE>Cul de bouteille
+<pstyle:TECHNIQUE>de Jean-Claude Rozec
+<pstyle:TECHNIQUE>France/2012/9'/35mm
+<pstyle:><cstyle:INFOSBLEUES>8 me 13 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film précédé de Kali, le petit vampire  de Regina Pessoa
+<pstyle:EVENEMENT>Film précédé de Au pays des têtes de Claude Barras et Cédric Louis
+<pstyle:EVENEMENT>Film suivi de La Saint-Festin de Anne-Laure Daffis et Léo Marchand
+<pstyle:EVENEMENT>Film suivi de Bisclavret de Emilie Mercier
+<pstyle:EVENEMENT>Film suivi de Spook Sport de Norman McLaren
+
+<pstyle:TITRE>L'Etrange Noël de Mr Jack
+<pstyle:TITRE_ANG>(The Nightmare before Christmas)
+<pstyle:TECHNIQUE>de Henry Selick
+<pstyle:TECHNIQUE>Etats-Unis/1991/75'/VF/DCP
+<pstyle:TECHNIQUE>d'après des personnages et une histoire originale de Tim Burton
+<pstyle:TECHNIQUE>Avec les voix de Danny Elfman, Chris Sarandon, Catherine O'Hara.
+<pstyle:SYNOPSIS>Halloween-ville est peuplée des plus horribles créatures qui soient, qui ont, cette année, décidé de fêter Noël à leur façon… Tandis que les jouets se transforment en horribles grigris, Jack Skelington retrouve le sourire sur son traineau tiré par des squelettes de rennes.
+
+Venez déguisés en monstres pour fêter Halloween !
+<pstyle:><cstyle:INFOSBLEUES>7 je 31 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Projection spéciale
+
+<pstyle:TITRE>La Famille Addams
+<pstyle:TITRE_ANG>(The Addams Family)
+<pstyle:TECHNIQUE>de Barry Sonnenfeld
+<pstyle:TECHNIQUE>Etats-Unis/1991/99'
+<pstyle:TECHNIQUE>d'après des personnages de Charles Addams
+<pstyle:SYNOPSIS>Quelle étrange famille, ces Addams ! On les croirait tout droit sortis d'un film d'horreur, mais quand on apprend à les connaître, ils ont tous un très grand cœur. Il ne faut pas se fier aux apparences !
+<pstyle:><cstyle:INFOSBLEUES>di 27 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Hôtel Transylvanie
+<pstyle:TITRE_ANG>(Hotel Transylvania)
+<pstyle:TECHNIQUE>de Genndy Tartakovsky
+<pstyle:TECHNIQUE>Etats-Unis/2012/91'
+<pstyle:TECHNIQUE>d'après une histoire de Todd Durham, Dan Hageman, Kevin Hageman
+<pstyle:SYNOPSIS>Tous les monstres sont invités à célébrer les 118 ans de la fille du comte Dracula dans son célèbre hôtel Transylvanie, garanti sans humain… En est-on si sûrs ?
+<pstyle:><cstyle:INFOSBLEUES>me 09 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Kali, le petit vampire 
+<pstyle:TECHNIQUE>de Regina Pessoa
+<pstyle:TECHNIQUE>France/2012/9'/DCP
+<pstyle:SYNOPSIS>Et si ce qui nous faisait peur était juste une question de point de vue ? Changer de lunettes, garder les enfants de sa voisine, se sentir différents des autres sans oser leur parler…
+Un programme de films courts pour s’approcher tout près de ses peurs et en rire !
+<pstyle:><cstyle:INFOSBLEUES>10 me 13 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film suivi de Au pays des têtes de Claude Barras et Cédric Louis
+<pstyle:EVENEMENT>Film suivi de Cul de bouteille de Jean-Claude Rozec
+<pstyle:EVENEMENT>Film suivi de La Saint-Festin de Anne-Laure Daffis et Léo Marchand
+<pstyle:EVENEMENT>Film suivi de Bisclavret de Emilie Mercier
+<pstyle:EVENEMENT>Film suivi de Spook Sport de Norman McLaren
+
+<pstyle:TITRE>Max et les maximonstres
+<pstyle:TITRE_ANG>(Where the Wild Things Are)
+<pstyle:TECHNIQUE>de Spike Jonze
+<pstyle:TECHNIQUE>Etats-Unis/2006/100'
+<pstyle:TECHNIQUE>d'après le livre "Max et les Maximonstres" de Maurice Sendak
+<pstyle:SYNOPSIS>Max renferme au fond de lui toute une panoplie de (maxi)monstres. Il s'échappera sur une île secrète peuplée de monstres velus et griffus qui ont chacun une personnalité très prononcée. Avec eux, Max va apprendre à mieux connaître ses sentiments et ses émotions.
+<pstyle:><cstyle:INFOSBLEUES>di 10 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Monstres et Cie
+<pstyle:TITRE_ANG>(Monsters, Inc.)
+<pstyle:TECHNIQUE>de Pete Docter, David Silverman et Lee Unkrich
+<pstyle:TECHNIQUE>Etats-Unis/2001/92'/VF/35mm
+<pstyle:TECHNIQUE>d'après une histoire originale de Pete Docter, Jill Culton, Jeff Pidgeon, Ralph Eggleston
+<pstyle:TECHNIQUE>Avec les voix de Jacques Frantz, Eric Métayer, Lola Krellenstein.
+<pstyle:SYNOPSIS>Ils font tous plus peur les uns que les autres. Leur métier consiste d'ailleurs à terrifier les enfants pour les faire crier. Mais eux de quoi ont-ils peur?
+<pstyle:><cstyle:INFOSBLEUES>4 me 20 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Les Noces funèbres
+<pstyle:TITRE_ANG>(Corpse Bride)
+<pstyle:TECHNIQUE>de Tim Burton et Mike Johnson
+<pstyle:TECHNIQUE>Etats-Unis/2004/75'/VOSTF/35mm
+<pstyle:TECHNIQUE>d'après les personnages de Tim Burton
+<pstyle:SYNOPSIS>C'est par erreur que Victor épouse une mariée déjà morte, qui l'entraîne dans l'au-delà. Surprise, ce nouveau monde est bien vivant, plein de couleurs et de joie… Pendant ce temps, sa véritable fiancée l'attend toujours dans le monde des vivants.
+<pstyle:><cstyle:INFOSBLEUES>di 03 novXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Le Petit vampire
+<pstyle:TITRE_ANG>(Der Kleine Vampir)
+<pstyle:TECHNIQUE>de Uli Edel
+<pstyle:TECHNIQUE>Allemagne-Pays-Bas-Etats-Unis/1999/91'/35mm
+<pstyle:TECHNIQUE>d'après les personnages de Angela Sommer-Bodenburg
+<pstyle:SYNOPSIS>Vous croyez aux vampires, vous ? Tony n’y croyait pas non plus. Mais c’était avant de quitter les Etats-Unis pour s’installer en Ecosse et faire la connaissance de Rodolph qui devient pourtant son meilleur ami.
+<pstyle:><cstyle:INFOSBLEUES>me 16 octXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Le Renne blanc
+<pstyle:TITRE_ANG>(Valkoinen peura)
+<pstyle:TECHNIQUE>de Erik Blomberg
+<pstyle:TECHNIQUE>Finlande/1952/75'/DCP
+<pstyle:TECHNIQUE>Avec Mirjami Kuosmanen, Kalervo Nissilä, Arvo Lehesmaa.
+<pstyle:SYNOPSIS>Il se passe des choses étranges dans les steppes enneigées de Laponie : les chasseurs de  évoquent un renne blanc, un peu magique, qu’ils tentent d’attraper, en vain. Il faut dire que ce renne n’est pas un animal comme les autres…
+<pstyle:><cstyle:INFOSBLEUES>10 di 24 novXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Saint-Festin
+<pstyle:TECHNIQUE>de Anne-Laure Daffis et Léo Marchand
+<pstyle:TECHNIQUE>France/2008/15'/35mm
+<pstyle:><cstyle:INFOSBLEUES>me 13 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film précédé de Kali, le petit vampire  de Regina Pessoa
+<pstyle:EVENEMENT>Film précédé de Au pays des têtes de Claude Barras et Cédric Louis
+<pstyle:EVENEMENT>Film précédé de Cul de bouteille de Jean-Claude Rozec
+<pstyle:EVENEMENT>Film suivi de Bisclavret de Emilie Mercier
+<pstyle:EVENEMENT>Film suivi de Spook Sport de Norman McLaren
+
+<pstyle:TITRE>Spook Sport
+<pstyle:TECHNIQUE>de Norman McLaren
+<pstyle:TECHNIQUE>Etats-Unis/1940/8'/Numérique
+<pstyle:><cstyle:INFOSBLEUES>me 13 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film précédé de Kali, le petit vampire  de Regina Pessoa
+<pstyle:EVENEMENT>Film précédé de Au pays des têtes de Claude Barras et Cédric Louis
+<pstyle:EVENEMENT>Film précédé de Cul de bouteille de Jean-Claude Rozec
+<pstyle:EVENEMENT>Film précédé de La Saint-Festin de Anne-Laure Daffis et Léo Marchand
+<pstyle:EVENEMENT>Film précédé de Bisclavret de Emilie Mercier
+
+<pstyle:TITRE>Voyage au centre de la terre
+<pstyle:TITRE_ANG>(Journey to the Center of the Earth)
+<pstyle:TECHNIQUE>de Henry Levin
+<pstyle:TECHNIQUE>Etats-Unis/1959/132'/35mm
+<pstyle:SYNOPSIS>Plus on s’enfonce dans le ventre de la terre et plus on fait d’étranges rencontres, des monstres préhistoriques, une île engloutie… Mais comment revenir à la surface ?
+<pstyle:><cstyle:INFOSBLEUES>me 23 octXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Zombillenium
+<pstyle:TECHNIQUE>de Arthur de Pins et Alexis Ducord
+<pstyle:TECHNIQUE>France-Belgique/2016/78'/DCP
+<pstyle:TECHNIQUE>d'après la série de bandes dessinées de Arthur de Pins
+<pstyle:SYNOPSIS>Zombies et Vampires rivalisent pour devenir les stars d'un parc d'attraction à sensations fortes.
+Mais le parc renferme un secret qu'Hector, contrôleur des normes de sécurité, est bien décidé à percer. Mais oUUU a-t-il mis les pieds?
+
+Séance présentée par les auteurs : Arthur de Pins et Alexis Ducord
+<pstyle:><cstyle:INFOSBLEUES>di 17 novXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Arthur de Pins, Alexis Ducord
+
+<pstyle:CATEGORIE>Marie Bobine
+
+<pstyle:TITRE>Les quatre saisons de Marie Bobine : L'automne
+<pstyle:SYNOPSIS>Des spectacles pour les plus jeunes spectateurs conçus comme une première séance de cinéma et animés par la comédienne Hélène Plantecoste qui les accompagne tout en douceur.
+Marie Bobine reviendra à quatre reprises, tout au long de l’année pour partager avec les enfants sa récolte de films. 
+L’automne.
+Les arbres rougissent et les jours raccourcissent, tant mieux, on a plus de temps pour voir les films sur l’automne que Marie Bobine a sortis de ses réserves !
+<pstyle:><cstyle:INFOSBLEUES>di 13 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>me 30 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>me 06 novXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les quatre saisons de Marie Bobine : L'automne
+<pstyle:SYNOPSIS>Des spectacles pour les plus jeunes spectateurs conçus comme une première séance de cinéma et animés par la comédienne Hélène Plantecoste qui les accompagne tout en douceur.
+Marie Bobine reviendra à quatre reprises, tout au long de l’année pour partager avec les enfants sa récolte de films. 
+L’automne.
+Les arbres rougissent et les jours raccourcissent, tant mieux, on a plus de temps pour voir les films sur l’automne que Marie Bobine a sortis de ses réserves !
+<pstyle:><cstyle:INFOSBLEUES>di 13 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>me 30 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>me 06 novXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les quatre saisons de Marie Bobine : L'automne
+<pstyle:SYNOPSIS>Des spectacles pour les plus jeunes spectateurs conçus comme une première séance de cinéma et animés par la comédienne Hélène Plantecoste qui les accompagne tout en douceur.
+Marie Bobine reviendra à quatre reprises, tout au long de l’année pour partager avec les enfants sa récolte de films. 
+L’automne.
+Les arbres rougissent et les jours raccourcissent, tant mieux, on a plus de temps pour voir les films sur l’automne que Marie Bobine a sortis de ses réserves !
+<pstyle:><cstyle:INFOSBLEUES>di 13 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>me 30 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>me 06 novXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Une vie de chien
+
+<pstyle:TITRE>L'Extraordinaire voyage de Marona
+<pstyle:TECHNIQUE>de Anca Damian
+<pstyle:TECHNIQUE>France-Roumanie-Belgique/2018/62'/DCP
+<pstyle:SYNOPSIS>La vie trépidante d’une petite chienne, racontée par elle-même. Chaque rencontre de Marona est empreinte d’un univers visuel très fort. Pour ce film tendre et plein d’aventures, la réalisatrice a su s’entourer de dessinateurs-illustrateurs aux styles étincelants : Gina Thorstensen, Sarah Mazzetti et Brecht Evens.
+<pstyle:><cstyle:INFOSBLEUES>di 22 sepXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Avant-première
+<pstyle:EVENEMENT>Séance présentée par Anca Damian
+
+<pstyle:LIBELLE_EVENEMENT>Une vie de chien et autres courts métrages
+
+<pstyle:TITRE>Une vie de chien
+<pstyle:TITRE_ANG>(A Dog's Life)
+<pstyle:TECHNIQUE>de Charles Chaplin
+<pstyle:TECHNIQUE>Etats-Unis/1918/40'/INT. FR./DCP
+<pstyle:TECHNIQUE>Avec Charles Chaplin, Edna Purviance.
+<pstyle:SYNOPSIS>Deux films oUUU charlot partage la vedette avec un chien! 
+Dans l'adversité, avoir un bon copain, c'est toujours utile!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>La Course à la saucisse
+<pstyle:TECHNIQUE>de Alice Guy
+<pstyle:TECHNIQUE>France/1907/5'/35mm
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Charlot boxeur
+<pstyle:TITRE_ANG>(The Champion)
+<pstyle:TECHNIQUE>de Charles Chaplin
+<pstyle:TECHNIQUE>Etats-Unis/1915/31'/DCP
+<pstyle:TECHNIQUE>Avec Charles Chaplin, Edna Purviance.
+<pstyle:><cstyle:INFOSBLEUES>6 me 25 sepXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>La Belle et le clochard
+<pstyle:TITRE_ANG>(The Lady and the Tramp)
+<pstyle:TECHNIQUE>de Clyde Geronimi, Wilfred Jackson et Hamilton Luske
+<pstyle:TECHNIQUE>Etats-Unis/1955/75'
+<pstyle:SYNOPSIS>Belle est une petite chienne domestique, choyée dans la maison de ses maîtres. Sa rencontre avec celui qu’on appelle le Clochard va lui révéler un aspect inattendu de la vie des chiens.
+<pstyle:><cstyle:INFOSBLEUES>di 29 sepXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Comme chiens et chats (programme de courts métrages)
+<pstyle:SYNOPSIS>Le chien, le meilleur ami de l’homme cohabite plus ou moins bien avec le chat qui préfère s’en allait tout seul. Un programme de films qui met en scène chiens et chats, jouant, gesticulants pour le meilleur et pour le pire !
+<pstyle:><cstyle:INFOSBLEUES>me 02 octXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>séance spéciale 
+
+<pstyle:TITRE>L'Homme qui rétrécit
+<pstyle:TITRE_ANG>(The Incredible Shrinking Man)
+<pstyle:TECHNIQUE>de Jack Arnold
+<pstyle:TECHNIQUE>Etats-Unis/1956/81'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après Richard Matheson
+<pstyle:TECHNIQUE>Avec Randy Stuart, Grant Williams, April Kent.
+<pstyle:SYNOPSIS>En vacances sur un bateau de plaisance, Scott Carey traverse un mystérieux brouillard. Quelques mois plus tard, il s’aperçoit qu’il a rapetissé de quelques centimètres…
+
+A l’occasion de la parution du livre 100 Grands films pour les Petits, rencontre avec les auteurs Lydia et Nicolas Boukhrief qui ont choisi ce grand film aux effets spéciaux saisissants pour faire découvrir le cinéma aux jeunes spectateurs.
+<pstyle:><cstyle:INFOSBLEUES>8 di 06 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Nicolas Boukhrief, Lydia Boukhrief

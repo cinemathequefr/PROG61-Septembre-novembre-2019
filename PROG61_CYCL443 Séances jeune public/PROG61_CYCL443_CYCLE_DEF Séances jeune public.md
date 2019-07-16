@@ -30,7 +30,7 @@ D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.
 Avec Josette Day, Jean Marais, Marcel André.  
 [JP] Belle se retrouve prisonnière d'un château où règne une horrible Bête. Effrayée dans un premier temps, elle découvre que la créature possède un cœur en or et un autre visage...
 
-- di 20 oct 15h00 GF  
+- [6 ans] di 20 oct 15h00 GF  
 Séance suivie d'une discussion avec José-Louis Bocquet et Philippe Pierre-Adolphe
 
 [33293]  
@@ -61,7 +61,7 @@ de Henry Selick, Tim Burton
 [JP] Halloween-ville est peuplée des plus horribles créatures qui soient, qui ont, cette année, décidé de fêter Noël à leur façon... Tandis que les jouets se transforment en horribles grigris, Jack Skelington retrouve le sourire sur son traineau tiré par des squelettes de rennes.  
 Venez déguisés en monstres pour fêter Halloween !
 
-- je 31 oct 15h00 GF  
+- [7 ans] je 31 oct 15h00 GF  
 Projection spéciale
 
 [97638]  
@@ -122,7 +122,7 @@ de Norman McLaren
 1940 / 8 min / Numérique  
 [JP] Alors que minuit sonne dans un cimetière, fantômes et chauves-souris se mettent à danser au son d'une musique entraînante.
 
-- me 13 nov 15h00 HL
+- [10 ans] me 13 nov 15h00 HL
 
 [137256]  
 **Zombillenium**  
@@ -142,7 +142,7 @@ de Pete Docter, David Silverman, Lee Unkrich
 2001 / 92 min / VF / 35 mm  
 [JP] Ils font tous plus peur les uns que les autres. Leur métier consiste d'ailleurs à terrifier les enfants pour les faire crier. Mais eux, de quoi ont-ils peur ?
 
-- me 20 nov 15h00 HL
+- [4 ans] me 20 nov 15h00 HL
 
 [38491]  
 **Le Renne blanc**  
@@ -152,7 +152,7 @@ d'Erik Blomberg
 Avec Mirjami Kuosmanen, Kalervo Nissilä, Arvo Lehesmaa.  
 [JP] Il se passe des choses étranges dans les steppes enneigées de Laponie : les chasseurs évoquent un renne blanc, un peu magique, qu'ils tentent d'attraper, en vain. Il faut dire que ce renne n'est pas un animal comme les autres...
 
-- di 24 nov 15h00 GF
+- [10 ans] di 24 nov 15h00 GF
 
 ## Une vie de chien
 
@@ -188,7 +188,7 @@ de Charles Chaplin
 Avec Charles Chaplin, Edna Purviance.  
 [JP] Pour se faire un peu d'argent, Charlot se propose comme sparring-partner d'un champion de boxe.
 
-- me 25 sep 15h00 HL
+- [6 ans] me 25 sep 15h00 HL
 
 [45201]  
 **La Belle et le Clochard**  
@@ -211,7 +211,7 @@ Avec Randy Stuart, Grant Williams, April Kent.
 [JP] En vacances sur un bateau de plaisance, Scott Carey traverse un mystérieux brouillard. Quelques mois plus tard, il s'aperçoit qu'il a rapetissé de quelques centimètres...  
 À l'occasion de la parution du livre _100 Grands films pour les petits_, rencontre avec les auteurs Lydia et Nicolas Boukhrief, qui ont choisi ce grand film aux effets spéciaux saisissants pour faire découvrir le cinéma aux jeunes spectateurs.
 
-- di 6 oct 15h00 GF  
+- [8 ans] di 6 oct 15h00 GF  
 Séance présentée par Nicolas Boukhrief et Lydia Boukhrief
 
 ## Marie Bobine
