@@ -53,9 +53,8 @@
 
 <pstyle:CATEGORIE>Rencontres et conférences
 
-<pstyle:CONFERENCE TITRE>Table ronde
-Guy Debord, cinéaste
-Avec Olivier Assayas et Vincent Kaufmann
+<pstyle:CONFERENCE TITRE>Guy Debord, cinéaste
+Table ronde avec Olivier Assayas et Vincent Kaufmann
 Animée par Jean-François Rauger
 <pstyle:CONFERENCE TXT>«<0x00A0>Je ne ferai dans ce film aucune concession au public. Plusieurs excellentes raisons justifient, à mes yeux, une telle conduite<0x00A0>; et je vais les dire. Tout d<0x2019>abord, il est assez notoire que je n<0x2019>ai nulle part fait de concessions aux idées dominantes de mon époque, ni à aucun des pouvoirs existants. Par ailleurs, quelle que soit l<0x2019>époque, rien d<0x2019>important ne s<0x2019>est communiqué en ménageant un public, fût-il composé des contemporains de Périclès<0x00A0>; et, dans le miroir glacé de l<0x2019>écran, les spectateurs ne voient présentement rien qui évoque les citoyens respectables d<0x2019>une démocratie.<0x00A0>» (Guy Debord, texte lu en voix off au début du film)
 <pstyle:CONFERENCE NOTE>Jean-François Rauger est directeur de la programmation de la Cinémathèque française.

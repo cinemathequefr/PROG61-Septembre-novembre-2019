@@ -1350,7 +1350,7 @@
     ]
   },
   {
-    "titre": "Vampires : L'Évasion du mort",
+    "titre": "Vampires (épisode 05) : L'Évasion du mort",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99082,
@@ -1359,14 +1359,9 @@
     "annee": 1915,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Moreno fait croire à son suicide dans le bureau du juge, mais il se relève et parvient à s'enfuir. Pendant ce temps, Les Vampires tentent d'enlever une nouvelle fois le journaliste Philippe Guérande."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Cinquième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Moreno fait croire à son suicide dans le bureau du juge, mais il se relève et parvient à s'enfuir. Pendant ce temps, Les Vampires tentent d'enlever une nouvelle fois le journaliste Philippe Guérande."
+    }],
     "generique": [
       "Musidora",
       "Édouard Mathé",
@@ -1375,7 +1370,7 @@
     ]
   },
   {
-    "titre": "Vampires : L'Homme des poisons",
+    "titre": "Vampires (épisode 09) : L'Homme des poisons",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99086,
@@ -1384,14 +1379,9 @@
     "annee": 1916,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Vénénos, le nouveau chef des Vampires, parvient à faire empoisonner le repas de fiançailles du journaliste Philippe Guérande. Tous les convives en réchappent de justesse, sauf le concierge."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Neuvième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Vénénos, le nouveau chef des Vampires, parvient à faire empoisonner le repas de fiançailles du journaliste Philippe Guérande. Tous les convives en réchappent de justesse, sauf le concierge."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",
@@ -1400,7 +1390,7 @@
     ]
   },
   {
-    "titre": "Vampires : La Bague qui tue",
+    "titre": "Vampires (épisode 02) : La Bague qui tue",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99079,
@@ -1409,14 +1399,9 @@
     "annee": 1915,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Deuxième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",
@@ -1424,7 +1409,7 @@
     ]
   },
   {
-    "titre": "Vampires : La Tête coupée",
+    "titre": "Vampires (épisode 01) : La Tête coupée",
     "art": "Les",
     "titreVo": "",
     "idFilm": 48546,
@@ -1433,15 +1418,9 @@
     "annee": 1915,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Premier épisode de la série."
-      }
-
-    ],
+      "typeTexte": 9,
+      "texte": "Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",
@@ -1449,7 +1428,7 @@
     ]
   },
   {
-    "titre": "Vampires : Le Cryptogramme rouge",
+    "titre": "Vampires (épisode 03) : Le Cryptogramme rouge",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99080,
@@ -1458,14 +1437,9 @@
     "annee": 1915,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Guérande tente de déchiffrer un cryptogramme inscrit dans un petit carnet trouvé sur le cadavre d'un membre des Vampires. Pendant ce temps, dans un cabaret où s'abrite la bande, se produit la chanteuse Irma Vep."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Troisième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Guérande tente de déchiffrer un cryptogramme inscrit dans un petit carnet trouvé sur le cadavre d'un membre des Vampires. Pendant ce temps, dans un cabaret où s'abrite la bande, se produit la chanteuse Irma Vep."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",
@@ -1474,7 +1448,7 @@
     ]
   },
   {
-    "titre": "Vampires : Le Maître de la foudre",
+    "titre": "Vampires (épisode 08) : Le Maître de la foudre",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99085,
@@ -1483,14 +1457,9 @@
     "annee": 1916,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Enfermée à la prison de Saint-Lazare, Irma Vep réussit à s'en évader. Mazamette découvre alors le repaire des Vampires dans le XVIII<sup>e</sup> arrondissement de Paris."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Huitième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Enfermée à la prison de Saint-Lazare, Irma Vep réussit à s'en évader. Mazamette découvre alors le repaire des Vampires dans le XVIII<sup>e</sup> arrondissement de Paris."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",
@@ -1499,7 +1468,7 @@
     ]
   },
   {
-    "titre": "Vampires : Le Spectre",
+    "titre": "Vampires (épisode 04) : Le Spectre",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99081,
@@ -1508,14 +1477,9 @@
     "annee": 1915,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Les Vampires se découvrent un adversaire redoutable en la personne de Moreno, habile cambrioleur."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Quatrième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Les Vampires se découvrent un adversaire redoutable en la personne de Moreno, habile cambrioleur."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",
@@ -1524,7 +1488,7 @@
     ]
   },
   {
-    "titre": "Vampires : Les Noces sanglantes",
+    "titre": "Vampires (épisode 10) : Les Noces sanglantes",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99087,
@@ -1533,14 +1497,9 @@
     "annee": 1916,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Philippe Guérande s'est marié. Le couple a pris à son service Augustine, la veuve du concierge tué à leurs fiançailles, dont s'éprend Mazamette. Pendant ce temps, les Vampires s'apprêtent à célébrer les noces d'Irma Vep avec Vénénos."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Dixième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Philippe Guérande s'est marié. Le couple a pris à son service Augustine, la veuve du concierge tué à leurs fiançailles, dont s'éprend Mazamette. Pendant ce temps, les Vampires s'apprêtent à célébrer les noces d'Irma Vep avec Vénénos."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",
@@ -1549,7 +1508,7 @@
     ]
   },
   {
-    "titre": "Vampires : Les Yeux qui fascinent",
+    "titre": "Vampires (épisode 06) : Les Yeux qui fascinent",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99083,
@@ -1558,14 +1517,9 @@
     "annee": 1916,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Moreno enlève Irma Vep, dont il tombe amoureux, avant de l'hypnotiser pour qu'elle assassine le Grand Vampire."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Sixième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Moreno enlève Irma Vep, dont il tombe amoureux, avant de l'hypnotiser pour qu'elle assassine le Grand Vampire."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",
@@ -1574,7 +1528,7 @@
     ]
   },
   {
-    "titre": "Vampires : Satanas",
+    "titre": "Vampires (épisode 07) : Satanas",
     "art": "Les",
     "titreVo": "",
     "idFilm": 99084,
@@ -1583,14 +1537,9 @@
     "annee": 1916,
     "pays": "France",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "Irma a tué le Grand Vampire, mais un individu nommé Satanas débarque chez Moreno, et prétend être le Grand Maître des Vampires. Pour démontrer sa puissance, il cherche à détruire le cabaret qui sert de repère à la bande."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Septième épisode de la série."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "Irma a tué le Grand Vampire, mais un individu nommé Satanas débarque chez Moreno, et prétend être le Grand Maître des Vampires. Pour démontrer sa puissance, il cherche à détruire le cabaret qui sert de repère à la bande."
+    }],
     "generique": [
       "Édouard Mathé",
       "Marcel Lévesque",

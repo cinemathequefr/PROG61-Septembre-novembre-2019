@@ -210,7 +210,7 @@
 <pstyle:TITRE>Troublemakers
 <pstyle:TECHNIQUE>de Robert Machover, Norman Fruchter
 <pstyle:TECHNIQUE>1966/54<0x2019>/VOSTF/Numérique
-
+<pstyle:SYNOPSIS>Documentaire sur un groupe d<0x2019>étudiants en cinéma qui tente d'aider des citoyens défavorisés de Newark, New Jersey.
 <pstyle:><cstyle:INFOSBLEUES>sa 23 novXXX19h30XXX
 <cstyle:SALLESBLEUES>C
 

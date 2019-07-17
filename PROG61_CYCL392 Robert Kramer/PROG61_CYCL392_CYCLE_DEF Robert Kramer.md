@@ -5,7 +5,7 @@
 [77276]  
 **À toute allure**  
 de Robert Kramer  
-1981 / 62 min / Vidéo  
+France / 1981 / 62 min / Vidéo  
 Avec Laure Duthilleul, William Cherino, Bernard Ballet.  
 Nelly et Serge, passionnés de patin à roulettes, s'entraînent sans répit pour aller en Amérique et y devenir champions de roller derby. Mais sans argent, leur projet est irréalisable.
 
@@ -15,7 +15,7 @@ Séance présentée par Frédéric Bonnaud
 [74588]  
 **Berlin 10/90**  
 de Robert Kramer  
-1990 / 64 min / VOSTF / DCP  
+France / 1990 / 64 min / VOSTF / DCP  
 Avec Robert Kramer.  
 Plan-séquence d'une heure en vidéo où, enfermé dans une salle de bains, face à un téléviseur qui projette des extraits d'actualités et des séquences tournées par lui-même, le cinéaste se livre au difficile exercice d'autofilmage, et improvise sur le sens de sa présence dans la ville de ses origines.  
 Film de commande de la Sept.
@@ -26,7 +26,7 @@ Séance présentée par Davide Barbarino
 [72267]  
 **Cités de la plaine**  
 de Robert Kramer  
-2001 / 110 min / Vidéo  
+France / 2001 / 110 min / Vidéo  
 Avec Ben, Amélie Desrumeaux, Bernard Trolet, Erika Kramer.  
 Ben, un immigré maghrébin en train de perdre la vue, remonte le fil de sa vie et évoque son commerce, son épouse, son enfant, sa mère.
 
@@ -35,19 +35,19 @@ Ben, un immigré maghrébin en train de perdre la vue, remonte le fil de sa vie 
 [93002]  
 **Dear Doc**  
 de Robert Kramer  
-1991 / 35 min / VOSTF / Numérique  
+France / 1991 / 35 min / VOSTF / Numérique  
 Avec Paul McIsaac.  
 Robert Kramer s'adresse à son complice Paul McIsaac, alias Doc, le personnage principal de _Doc's Kingdom_ et de _Route One / USA_. Cette lettre vidéo, tournée à la fin du montage de _Route One / USA_, exprime la force d'une amitié de longue date.  
-Film précédé de _Doc's Kingdom_ de Robert Kramer.
+Film précédé de _Doc's Kingdom_ de Robert Kramer
 
 - ve 8 nov 19h15 GF  
 Séance présentée par Richard Copans  
-Film précédé de _Doc's Kingdom_ de Robert Kramer.
+Film précédé de _Doc's Kingdom_ de Robert Kramer
 
 [49501]  
 **Diesel**  
 de Robert Kramer  
-1985 / 82 min / 35 mm  
+France / 1985 / 82 min / 35 mm  
 Avec Gérard Klein, Agnès Soral, Richard Bohringer, Niels Arestrup.  
 Dans une ville du futur, une jeune prostituée est témoin d'un meurtre. Poursuivie par les tueurs, elle trouve refuge auprès d'un marginal qui se terre dans les galeries souterraines de la ville.
 
@@ -56,20 +56,20 @@ Dans une ville du futur, une jeune prostituée est témoin d'un meurtre. Poursui
 [56078]  
 **Doc's Kingdom**  
 de Robert Kramer  
-1991 / 92 min / VOSTF / 35 mm  
+Portugal-France / 1991 / 92 min / VOSTF / 35 mm  
 Avec Paul McIsaac, Vincent Gallo, Ruy Furtado, Roslyn Payn.  
 Après le décès de sa mère dans un hôpital new-yorkais, Jimmy découvre que son père, qu'il croyait mort, vit au Portugal. Il part à sa rencontre à Lisbonne.  
-Film suivi de _Dear Doc_ de Robert Kramer.
+Film suivi de _Dear Doc_ de Robert Kramer
 
 - ve 8 nov 19h15 GF  
 Séance présentée par Richard Copans  
-Film suivi de _Dear Doc_ de Robert Kramer.
+Film suivi de _Dear Doc_ de Robert Kramer
 
 [58827]  
 **En marge**  
 **(The Edge)**  
 de Robert Kramer  
-1968 / 105 min / VOSTF / 35 mm  
+États-Unis / 1968 / 105 min / VOSTF / 35 mm  
 Avec Jack Rader, Tom Griffin, Howard Loeb Babeuf.  
 Un militant contre la guerre au Vietnam envisage d'assassiner le président des États-Unis. Dans son groupuscule, l'intérêt politique d'un meurtre, sa portée révolutionnaire ou sa résonance morale sont discutés. Se pose la question des rapports entre la théorie et la pratique, la pensée et l'acte.
 
@@ -78,17 +78,17 @@ Un militant contre la guerre au Vietnam envisage d'assassiner le président des 
 [92756]  
 **FALN**  
 de Robert Kramer, Peter Gessner  
-1965 / 30 min / VOSTF / DCP  
+États-Unis / 1965 / 30 min / VOSTF / DCP  
 Documentaire social et politique sur la situation au Venezuela au début des années 1960, avec l'apparition de la lutte armée, en particulier les guérilleros des Forces Armées de Libération Nationale (FALN).  
-Film suivi de _People's War_ de Newsreel.
+Film suivi de _People's War_ de Newsreel
 
 - di 17 nov 16h30 GF  
-Film suivi de _People's War_ de Newsreel.
+Film suivi de _People's War_ de Newsreel
 
 [33982]  
 **Guns**  
 de Robert Kramer  
-1980 / 95 min / VO / DCP  
+France / 1980 / 95 min / VO / DCP  
 Avec Patrick Bauchau, Juliet Berto, Peggy Frankston.  
 Un journaliste enquête sur un mystérieux trafic d'armes entre Paris et Marseille et navigue entre deux femmes : Margot, son ancienne maîtresse venue à Marseille accompagner sa mère malade, et Lil, l'Américaine avec qui il vit à Paris.
 
@@ -98,7 +98,7 @@ Ouverture de la rétrospective. Séance présentée par Peggy Franckston, Erika 
 [142002]  
 **Hi, Steve! Vidéolettres de Robert Kramer et Stephen Dwoskin**  
 de Robert Kramer, Stephen Dwoskin  
-1991 / 123 min / VOSTF / Numérique  
+France-États-Unis / 1991 / 123 min / VOSTF / Numérique  
 Entre février et juin 1991, les cinéastes Robert Kramer et Steve Dwoskin échangent plusieurs vidéolettres (quatre de Kramer, trois de Dwoskin), réalisées en Hi-8.
 
 - me 20 nov 19h00 JE
@@ -106,7 +106,7 @@ Entre février et juin 1991, les cinéastes Robert Kramer et Steve Dwoskin écha
 [33992]  
 **Ice**  
 de Robert Kramer  
-1969 / 133 min / VOSTF / 16 mm  
+États-Unis / 1969 / 133 min / VOSTF / 16 mm  
 Avec Tom Griffin, Paul McIsaac, Robert Kramer.  
 Les États-Unis sont en guerre contre le Mexique. À New York, un groupe clandestin se mobilise contre le régime fasciste. Quand l'un des leurs est torturé par des agents du gouvernement, ils décident de passer à l'action.
 
@@ -115,7 +115,7 @@ Les États-Unis sont en guerre contre le Mexique. À New York, un groupe clandes
 [82026]  
 **In the Country**  
 de Robert Kramer  
-1967 / 63 min / VOSTF / 16 mm  
+États-Unis / 1967 / 63 min / VOSTF / 16 mm  
 Avec Catherine Merrill, William Devane.  
 Désenchantés de l'action politique contre la guerre du Vietnam, un homme et une femme se retirent à la campagne. Amer, il se replie sur lui-même, tandis qu'elle, idéaliste, veut toujours croire à l'amour et à l'amitié.
 
@@ -125,7 +125,7 @@ Désenchantés de l'action politique contre la guerre du Vietnam, un homme et un
 [92757]  
 **Le Manteau**  
 de Robert Kramer  
-1996 / 70 min / Vidéo  
+France / 1996 / 70 min / Vidéo  
 Avec Jean-Quentin Châtelain, Nina Alba, Juan Huerta.  
 Un cinéaste enquête sur un mystérieux manteau péruvien et tente, avec l'aide d'un archéologue, de retracer l'histoire du vêtement autrefois volé par un conquistador.
 
@@ -134,7 +134,7 @@ Un cinéaste enquête sur un mystérieux manteau péruvien et tente, avec l'aide
 [142085]  
 **Maquette**  
 de Robert Kramer  
-1990 / 60 min / Vidéo  
+France / 1990 / 60 min / Vidéo  
 Une troupe de danse travaille au centre culturel de Châteauvallon, au nord de Toulon. Le film aborde les rapports entre les différents acteurs de l'établissement et la ville de Toulon.
 
 - me 13 nov 20h45 JE  
@@ -143,7 +143,7 @@ Séance présentée par Jeannette Dumeix
 [62729]  
 **Milestones**  
 de Robert Kramer, John Douglas  
-1975 / 206 min / VOSTF / 16 mm  
+États-Unis / 1975 / 206 min / VOSTF / 16 mm  
 Avec Grace Paley, Mary Chapelle, Sharon Krebs, Jim Nolfi.  
 Portrait d'une Amérique qui change, à travers les témoignages de hippies et d'activistes politiques. Dans le contexte de la guerre du Vietnam et de la contre-culture, ils tâchent de réconcilier leurs idéaux avec le mode de vie américain.
 
@@ -154,19 +154,19 @@ Séance présentée par Erika Kramer
 [142083]  
 **Naissance**  
 de Robert Kramer  
-1981 / 42 min / Vidéo  
+France / 1981 / 42 min / Vidéo  
 Avec Chantal Birman, Valérie Coquerel-Jeanneau, Yves Jeanneau.  
 Documentaire sur la naissance de Noélie, le 10 mai 1981, de l'attente de l'enfant à son arrivée dans la famille.  
-Film précédé de _La Peur_ de Robert Kramer.
+Film précédé de _La Peur_ de Robert Kramer
 
 - lu 18 nov 16h30 GF  
-Film précédé de _La Peur_ de Robert Kramer.
+Film précédé de _La Peur_ de Robert Kramer
 
 [92754]  
 **Notre nazi**  
 **(Unser Nazi)**  
 de Robert Kramer  
-1984 / 114 min / Vidéo  
+France / 1984 / 114 min / Vidéo  
 Avec Alfred Filbert, Thomas Harlan.  
 Robert Kramer suit le tournage de _Wundkanal_, réalisé par le cinéaste allemand Thomas Harlan. Pour interpréter le rôle principal, Harlan a fait appel à un criminel de guerre, le docteur Alfred Filbert, ancien commandant de la Gestapo.
 
@@ -176,38 +176,38 @@ Séance présentée par Davide Barbarino
 [79508]  
 **People's War**  
 de Newsreel  
-1969 / 40 min / VOSTF / 16 mm  
+États-Unis / 1969 / 40 min / VOSTF / 16 mm  
 Au Nord-Vietnam, en 1969, la mobilisation du peuple contre la puissante armée américaine.  
-Film précédé de _FALN_ de Robert Kramer, Peter Gessner.
+Film précédé de _FALN_ de Robert Kramer, Peter Gessner
 
 - di 17 nov 16h30 GF  
-Film précédé de _FALN_ de Robert Kramer, Peter Gessner.
+Film précédé de _FALN_ de Robert Kramer, Peter Gessner
 
 [142091]  
 **La Peur**  
 de Robert Kramer  
-1983 / 6 min / Vidéo  
+France / 1983 / 6 min / Vidéo  
 Une femme est abordée par un homme : apeurée, elle s'enfuit. Film sur les mécanismes physiologiques de la peur.  
-Film suivi de _Naissance_ de Robert Kramer.
+Film suivi de _Naissance_ de Robert Kramer
 
 - lu 18 nov 16h30 GF  
-Film suivi de _Naissance_ de Robert Kramer.
+Film suivi de _Naissance_ de Robert Kramer
 
 [59674]  
 **Point de départ**  
 de Robert Kramer  
-1994 / 90 min / VOSTF / Vidéo  
+France-États-Unis / 1994 / 90 min / VOSTF / Vidéo  
 Vingt-trois ans après _People's War_, tourné au Nord-Vietnam pendant la guerre, Robert Kramer retourne à Hanoï, avide de voir et de comprendre le Vietnam des années 1990.  
-Film suivi de _Say Kom Sa_ de Robert Kramer.
+Film suivi de _Say Kom Sa_ de Robert Kramer
 
 - di 10 nov 14h30 GF  
 Séance présentée par Bernard Eisenschitz  
-Film suivi de _Say Kom Sa_ de Robert Kramer.
+Film suivi de _Say Kom Sa_ de Robert Kramer
 
 [56969]  
 **Route One / USA**  
 de Robert Kramer  
-1991 / 248 min / VOSTF / DCP  
+France-Grande-Bretagne / 1991 / 248 min / VOSTF / DCP  
 Avec Paul McIsaac.  
 Robert et Doc traversent les États-Unis du Canada jusqu'à la Floride, le long de la US Route 1. Au gré de leurs rencontres, il est question de la pauvreté, du racisme, de la déforestation, de la condition des immigrés, de la violence...
 
@@ -218,18 +218,18 @@ Séance présentée par Richard Copans, Cyril Beghin et Sébastien Raimondi
 [123088]  
 **Say Kom Sa**  
 de Robert Kramer  
-1998 / 20 min / Vidéo  
+France / 1998 / 20 min / Vidéo  
 Erika et Robert Kramer reviennent sur leur vie commune depuis dix ans et l'interrogent.  
-Film précédé de _Point de départ_ de Robert Kramer.
+Film précédé de _Point de départ_ de Robert Kramer
 
 - di 10 nov 14h30 GF  
 Séance présentée par Bernard Eisenschitz  
-Film précédé de _Point de départ_ de Robert Kramer.
+Film précédé de _Point de départ_ de Robert Kramer
 
 [121940]  
 **Scenes from the Class Struggle in Portugal**  
 de Robert Kramer, Philip Spinelli  
-1975 / 96 min / VOSTF / 35 mm  
+États-Unis / 1975 / 96 min / VOSTF / 35 mm  
 Analyse des changements dans la société portugaise pendant la révolution des Œillets, entre 1974 et 1976, avec une interrogation particulière sur les potentialités politiques réelles du Mouvement pour le pouvoir populaire.
 
 - je 14 nov 21h00 JE
@@ -237,7 +237,7 @@ Analyse des changements dans la société portugaise pendant la révolution des 
 [142262]  
 **Troublemakers**  
 de Robert Machover, Norman Fruchter  
-1966 / 54 min / VOSTF / Numérique  
+États-Unis / 1966 / 54 min / VOSTF / Numérique  
 Documentaire sur un groupe d'étudiants en cinéma qui tente d'aider des citoyens défavorisés de Newark, dans le New Jersey.
 
 - sa 23 nov 19h30 JE
@@ -245,7 +245,7 @@ Documentaire sur un groupe d'étudiants en cinéma qui tente d'aider des citoyen
 [60497]  
 **Walk the Walk**  
 de Robert Kramer  
-1996 / 115 min / 35 mm  
+France-Suisse / 1996 / 115 min / 35 mm  
 Avec Jacques Martial, Laure Duthilleul, Betsabée Haas.  
 Abel est entraîneur sportif. Nellie est chercheuse en biologie. Leur fille Raye, vingt ans, chanteuse lyrique. Un hiver, le père et la fille parcourent l'Europe chacun de son côté tandis que Nellie poursuit un voyage immobile.
 
@@ -254,7 +254,7 @@ Abel est entraîneur sportif. Nellie est chercheuse en biologie. Leur fille Raye
 [142084]  
 **X-Country**  
 de Robert Kramer  
-1987 / 114 min / VOSTF / Vidéo  
+États-Unis / 1987 / 114 min / VOSTF / Vidéo  
 Dans l'ancienne résidence du président américain James Monroe, une amie de Robert Kramer, militante politique, célèbre son mariage avec un membre du Front Farabundo Martí, mouvement de guérilla du Salvador.
 
 - di 10 nov 20h30 GF  
@@ -265,19 +265,19 @@ Séance présentée par Keja Kramer
 [142087]  
 **City Empires**  
 de Robert Kramer  
-1998 / 24 min / Vidéo  
+France / 1998 / 24 min / Vidéo  
 Film inédit réalisé à l'occasion de la revue parlée « Architecte et cinéaste » organisée par le Centre Pompidou, présentée par Hubert Damisch, à laquelle participaient Rem Koolhaas et Robert Kramer. Les séquences de ce film sont extraites de _Route One / USA_, _Diesel_, _À toute allure_, _Berlin 10/90_, _Sous le vent_, _Ghosts of Electricity_.  
 suivi de  
 [141948]  
 **Sous le vent**  
 de Robert Kramer  
-1991 / 31 min / Vidéo  
+France / 1991 / 31 min / Vidéo  
 D'Omaha Beach à Paris, un voyage le long de la Seine où il est beaucoup question du cinéma et de son avenir.  
 suivi de  
 [142088]  
 **Un plan d'enfer**  
 de Robert Kramer  
-1986 / 17 min / Vidéo  
+France / 1986 / 17 min / Vidéo  
 Avec Christine Amat, Diane Bellego.  
 La Société lyonnaise de banque, première banque régionale française, présente son plan général à l'ensemble du personnel.
 
@@ -286,25 +286,25 @@ La Société lyonnaise de banque, première banque régionale française, prése
 [142089]  
 **Des graines dans le vent**  
 de Robert Kramer  
-1997 / 6 min / Vidéo  
+France / 1997 / 6 min / Vidéo  
 À Wakefield, dans le centre de l'Angleterre, une marche européenne contre la précarité.  
 suivi de  
 [142090]  
 **Plan-minutes (pour mémoire)**  
 de Dominique Dubosc, Robert Kramer, Guy Olivier  
-1995 / 18 min / Vidéo  
+France / 1995 / 18 min / Vidéo  
 « Succession de plans d'une minute saisissant des instants de vie, susceptibles d'intéresser un jour les spectateurs qui célébreront le deuxième centenaire du cinéma. »  
 suivi de  
 [142086]  
 **La Roue : Greg Lemond (USA), Andrew Hampsten (USA)**  
 de Robert Kramer  
-1993 / 14 min / VOSTF / Vidéo  
+France / 1993 / 14 min / VOSTF / Vidéo  
 Portrait des coureurs Greg Lemond et Andrew Hampsten à la veille de la saison cycliste de 1993.  
 suivi de  
 [92753]  
 **Ghosts of Electricity**  
 de Robert Kramer  
-1997 / 18 min / VOSTF / Vidéo  
+France-Suisse / 1997 / 18 min / VOSTF / Vidéo  
 Robert Kramer imagine un monde dans lequel le cinéma et les sciences entretiennent un dialogue humaniste et œuvrent à rendre la vie meilleure.  
 Commande du festival de Locarno pour son cinquantième anniversaire.
 
@@ -315,7 +315,7 @@ Commande du festival de Locarno pour son cinquantième anniversaire.
 [142300]  
 **Les Yeux l'un de l'autre**  
 de Keja Kramer, Stephen Dwoskin  
-2006 / 47 min / VOSTF / Vidéo  
+France / 2006 / 47 min / VOSTF / Vidéo  
 Différents points de vue, expériences et images, qui, ensemble, font découvrir de nouvelles facettes de Robert Kramer.
 
 - lu 11 nov 17h00 JE  

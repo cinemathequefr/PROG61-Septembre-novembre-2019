@@ -469,8 +469,8 @@
     "realisateurs": "Robert Machover, Norman Fruchter",
     "pays": "États-Unis",
     "textes": [{
-      "type": 9,
-      "texte": "Documentaire sur un groupe d'étudiants en cinéma qui tente d'aider des citoyens défavorisés de Newark, dans le New Jersey."
+      "typeTexte": 9,
+      "texte": "Documentaire sur un groupe d'étudiants en cinéma qui tente d'aider des citoyens défavorisés de Newark, New Jersey."
     }]
   },
   {

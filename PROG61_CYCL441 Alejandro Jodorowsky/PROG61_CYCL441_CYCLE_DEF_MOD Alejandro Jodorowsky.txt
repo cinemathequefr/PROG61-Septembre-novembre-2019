@@ -96,7 +96,7 @@
 
 <pstyle:CATEGORIE>Rencontres et conférences
 
-<pstyle:CONFERENCE TITRE>Jodorowsky par Jodorowsky
+<pstyle:TITRE>Jodorowsky par Jodorowsky
 Leçon de cinéma animée par Bernard Payen
 <pstyle:CONFERENCE TXT>«<0x00A0>J<0x2019>avais toujours pensé que <ct:Italic>La Montagne sacrée<ct:> allait être vu dans le futur, et j<0x2019>étais convaincu que personne ne pourrait le comprendre à l<0x2019>époque.<0x00A0>» (Alejandro Jodorowsky)
 <pstyle:CONFERENCE NOTE>Après avoir créé plusieurs revues (papier et en ligne), Bernard Payen rejoint la Cinémathèque française en 2001. Responsable de programmation depuis 2011, il organise notamment des rencontres régulières dédiées à la jeune création cinématographique contemporaine. Ancien responsable du court métrage à la Semaine de la critique, il a réalisé plusieurs films et poursuit une activité journalistique pour le magazine <cSkew:9>Court-circuit<cSkew:> (Arte), la revue <cSkew:9>Bref<cSkew:>, ou la radio Aligre FM.

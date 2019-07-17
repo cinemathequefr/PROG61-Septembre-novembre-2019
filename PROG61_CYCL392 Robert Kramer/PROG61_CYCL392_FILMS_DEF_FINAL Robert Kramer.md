@@ -199,7 +199,7 @@ D'Omaha Beach à Paris, un voyage le long de la Seine où il est beaucoup questi
 **Troublemakers**  
 de Robert Machover, Norman Fruchter  
 États-Unis / 1966  
-Documentaire sur un groupe d'étudiants en cinéma qui tente d'aider des citoyens défavorisés de Newark, dans le New Jersey.
+Documentaire sur un groupe d'étudiants en cinéma qui tente d'aider des citoyens défavorisés de Newark, New Jersey.
 
 [142088]  
 **Un plan d'enfer**  

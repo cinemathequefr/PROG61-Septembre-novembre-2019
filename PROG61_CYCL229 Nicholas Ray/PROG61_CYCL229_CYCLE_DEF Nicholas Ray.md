@@ -6,7 +6,7 @@
 **Les 55 jours de Pékin**  
 **(55 Days at Peking)**  
 de Nicholas Ray  
-1963 / 153 min / VOSTF / 35 mm  
+États-Unis / 1963 / 153 min / VOSTF / 35 mm  
 Avec Charlton Heston, Ava Gardner, David Niven.  
 Pékin, 1900 : pendant la Révolte des Boxers, le quartier des ambassades est assiégé durant cinquante-cinq jours.
 
@@ -17,7 +17,7 @@ Pékin, 1900 : pendant la Révolte des Boxers, le quartier des ambassades est as
 **À l'ombre des potences**  
 **(Run for Cover)**  
 de Nicholas Ray  
-1955 / 93 min / VOSTF / DCP  
+États-Unis / 1955 / 93 min / VOSTF / DCP  
 Avec James Cagney, John Derek, Ernest Borgnine, Viveca Lindfors.  
 Deux hommes, accusés à tort d'avoir pillé un train, parviennent à prouver leur innocence. L'un, blessé, tombe amoureux de la fille des fermiers chez qui ils s'étaient réfugiés, tandis que l'autre devient le nouveau shérif de la ville.
 
@@ -28,7 +28,7 @@ Deux hommes, accusés à tort d'avoir pillé un train, parviennent à prouver le
 **Les Amants de la nuit**  
 **(They Live by Night)**  
 de Nicholas Ray  
-1948 / 94 min / VOSTF / 35 mm  
+États-Unis / 1948 / 94 min / VOSTF / 35 mm  
 D'après le roman _Thieves Like Us_ d'Edward Anderson.  
 Avec Farley Granger, Cathy O'Donnell, Howard Da Silva.  
 Le jeune Bowie s'évade de prison avec deux autres détenus qui l'entraînent rapidement dans une attaque de banque. Il rencontre l'amour et croit pouvoir vivre en paix...
@@ -40,7 +40,7 @@ Le jeune Bowie s'évade de prison avec deux autres détenus qui l'entraînent ra
 **Amère victoire**  
 **(Bitter Victory)**  
 de Nicholas Ray  
-1957 / 102 min / VOSTF / DCP  
+France / 1957 / 102 min / VOSTF / DCP  
 D'après le roman _Amère victoire_ de René Hardy.  
 Avec Richard Burton, Curd Jürgens, Ruth Roman.  
 Pendant la Seconde Guerre mondiale, la mission de deux agents britanniques, envoyés en Libye pour s'emparer de documents allemands, est compromise par leur rivalité amoureuse.
@@ -53,7 +53,7 @@ Pendant la Seconde Guerre mondiale, la mission de deux agents britanniques, envo
 **L'Ami américain**  
 **(Der Amerikanische Freund)**  
 de Wim Wenders  
-1977 / 123 min / VOSTF / DCP  
+RFA-France / 1977 / 123 min / VOSTF / DCP  
 D'après le roman _Ripley s'amuse_ de Patricia Highsmith.  
 Avec Bruno Ganz, Dennis Hopper, Lisa Kreuzer.  
 Atteint de leucémie, Jonathan est mourant. Pour assurer un avenir à sa famille, il accepte la proposition d'un trafiquant de tableaux américain : tuer un inconnu contre une forte somme d'argent.
@@ -65,7 +65,7 @@ Atteint de leucémie, Jonathan est mourant. Pour assurer un avenir à sa famille
 **L'Ardente gitane**  
 **(Hot Blood)**  
 de Nicholas Ray  
-1955 / 83 min / VOSTF / 35 mm  
+États-Unis / 1955 / 83 min / VOSTF / 35 mm  
 Avec Jane Russell, Cornel Wilde, Luther Adler.  
 Mario, chef gitan, souhaite que son frère Stephano lui succède, et qu'il épouse Annie, une fille de la communauté. Mais le jeune homme préfère la vie de _gadjo_ aux traditions familiales.
 
@@ -75,7 +75,7 @@ Mario, chef gitan, souhaite que son frère Stephano lui succède, et qu'il épou
 [58680]  
 **Born to Be Bad**  
 de Nicholas Ray  
-1985 / 94 min / VOSTF / 35 mm  
+États-Unis / 1985 / 94 min / VOSTF / 35 mm  
 D'après le roman _All Kneeling_ d'Anne Parrish.  
 Avec Robert Ryan, Joan Fontaine, Zachary Scott, Mel Ferrer.  
 Une jeune femme vénale et sans scrupules manipule son entourage pour arriver à ses fins.
@@ -87,7 +87,7 @@ Une jeune femme vénale et sans scrupules manipule son entourage pour arriver à
 **Le Brigand bien aimé**  
 **(The True Story of Jesse James)**  
 de Nicholas Ray  
-1956 / 90 min / VOSTF / 35 mm  
+États-Unis / 1956 / 90 min / VOSTF / 35 mm  
 Avec John Carradine, Robert Wagner, Jeffrey Hunter, Hope Lange.  
 Après une tentative de hold-up qui a tourné court, le gang des frères James se remémore son passé.
 
@@ -98,7 +98,7 @@ Après une tentative de hold-up qui a tourné court, le gang des frères James s
 **Les Dents du diable**  
 **(The Savage Innocents)**  
 de Nicholas Ray  
-1960 / 110 min / VOSTF / 35 mm  
+Italie-France-Grande-Bretagne-États-Unis / 1960 / 110 min / VOSTF / 35 mm  
 D'après le roman _Top of the World_ de Hans Ruesch.  
 Avec Anthony Quinn, Yoko Tani, Carlo Giustini, Peter O'Toole.  
 Pour avoir refusé une femme offerte en cadeau, un missionnaire est tué par un Inuit. Celui-ci est rapidement pris en chasse par deux policiers canadiens.
@@ -110,7 +110,7 @@ Pour avoir refusé une femme offerte en cadeau, un missionnaire est tué par un 
 **Derrière le miroir**  
 **(Bigger Than Life)**  
 de Nicholas Ray  
-1957 / 95 min / VOSTF / 35 mm  
+États-Unis / 1957 / 95 min / VOSTF / 35 mm  
 Avec James Mason, Barbara Rush, Walter Matthau.  
 Devenu dépendant à la cortisone, le professeur Ed Avery se change en despote tyrannique et agressif.
 
@@ -122,7 +122,7 @@ Devenu dépendant à la cortisone, le professeur Ed Avery se change en despote t
 **Les Diables de Guadalcanal**  
 **(Flying Leathernecks)**  
 de Nicholas Ray  
-1950 / 102 min / VOSTF / 16 mm  
+États-Unis / 1950 / 102 min / VOSTF / 16 mm  
 Avec John Wayne, Robert Ryan, Don Taylor.  
 Guadalcanal, 1942 : une escadrille américaine indisciplinée est reprise en main par le sévère major Kirby, qui s'oppose au capitaine Griffin, plus laxiste et plus apprécié des soldats.
 
@@ -132,7 +132,7 @@ Guadalcanal, 1942 : une escadrille américaine indisciplinée est reprise en mai
 [125950]  
 **Don't Expect Too Much**  
 de Susan Ray  
-2011 / 70 min / VOSTF / DCP  
+États-Unis / 2011 / 70 min / VOSTF / DCP  
 Documentaire sur le tournage de _We Can't Go Home Again_, film expérimental politique et psychédélique réalisé par Nicholas Ray entre 1971 et 1973.
 
 - sa 28 sep 20h30 JE
@@ -141,7 +141,7 @@ Documentaire sur le tournage de _We Can't Go Home Again_, film expérimental pol
 **La Forêt interdite**  
 **(Wind Across the Everglades)**  
 de Nicholas Ray, Budd Schulberg  
-1959 / 92 min / VOSTF / 35 mm  
+États-Unis / 1959 / 92 min / VOSTF / 35 mm  
 Avec Christopher Plummer, Burl Ives, Gypsy Rose Lee.  
 En 1905, un professeur de sciences naturelles défend les marais de Floride contre des trafiquants de plumes d'oiseaux.
 
@@ -153,7 +153,7 @@ Ouverture de la rétrospective
 **La Fureur de vivre**  
 **(Rebel Without a Cause)**  
 de Nicholas Ray  
-1956 / 111 min / VOSTF / DCP  
+États-Unis / 1956 / 111 min / VOSTF / DCP  
 Avec James Dean, Natalie Wood, Sal Mineo, Dennis Hopper.  
 Nouvellement arrivé à Los Angeles, Jim, en conflit avec ses parents, essaie de s'intégrer au mieux. Il rencontre Judy, Plato, et toute une bande d'adolescents désaxés.
 
@@ -164,22 +164,22 @@ Nouvellement arrivé à Los Angeles, Jim, en conflit avec ses parents, essaie de
 [142228]  
 **High Green Wall**  
 de Nicholas Ray  
-1954 / 26 min / VOSTF / Numérique  
+États-Unis / 1954 / 26 min / VOSTF / Numérique  
 D'après la nouvelle _L'Homme qui aimait Dickens_ d'Evelyn Waugh.  
 Avec Joseph Cotten, Thomas Gomez, Maurice Marsac.  
 Henty, qui a survécu à un crash dans la jungle, est recueilli par l'affable et original McMaster. Pour remercier son hôte, il s'oblige à lui faire la lecture de son auteur préféré, Dickens.  
-Film suivi de _La Maison dans l'ombre_ de Nicholas Ray.
+Film suivi de _La Maison dans l'ombre_ de Nicholas Ray
 
 - di 1 sep 19h15 HL  
-Film suivi de _La Maison dans l'ombre_ de Nicholas Ray.  
+Film suivi de _La Maison dans l'ombre_ de Nicholas Ray  
 - sa 14 sep 21h15 HL  
-Film suivi de _La Maison dans l'ombre_ de Nicholas Ray.
+Film suivi de _La Maison dans l'ombre_ de Nicholas Ray
 
 [35369]  
 **Les Indomptables**  
 **(The Lusty Men)**  
 de Nicholas Ray, Robert Parrish  
-1953 / 113 min / VOSTF / 35 mm  
+États-Unis / 1953 / 113 min / VOSTF / 35 mm  
 Avec Susan Hayward, Robert Mitchum, Arthur Kennedy.  
 Ancien champion de rodéo, Jeff McCloud s'est retiré suite à un accident. De retour sur les lieux de son enfance, il rencontre Wes Merritt, qu'il initie à son sport, et sa femme Louise, dont il va tomber amoureux.
 
@@ -189,7 +189,7 @@ Ancien champion de rodéo, Jeff McCloud s'est retiré suite à un accident. De r
 [35504]  
 **Johnny Guitar**  
 de Nicholas Ray  
-1954 / 110 min / VOSTF / DCP  
+États-Unis / 1954 / 110 min / VOSTF / DCP  
 D'après le roman _Johnny Guitar_ de Roy Chanslor.  
 Avec Joan Crawford, Sterling Hayden, Mercedes McCambridge.  
 Vienna, qui tient un saloon fréquenté par des hors-la-loi, embauche un ancien amant, cowboy et musicien. Il va l'aider dans sa lutte, qui l'oppose à un groupe d'éleveurs.
@@ -201,22 +201,22 @@ Vienna, qui tient un saloon fréquenté par des hors-la-loi, embauche un ancien 
 **La Maison dans l'ombre**  
 **(On Dangerous Ground)**  
 de Nicholas Ray  
-1952 / 82 min / VOSTF / 35 mm  
+États-Unis / 1952 / 82 min / VOSTF / 35 mm  
 D'après le roman _Mad With Much Heart_ de Gerald Butler.  
 Avec Ida Lupino, Robert Ryan, Ward Bond.  
 Un policier aux méthodes violentes aide un shérif de campagne à retrouver Danny, un déséquilibré dont il vient de rencontrer la sœur.  
-Film précédé de _High Green Wall_ de Nicholas Ray.
+Film précédé de _High Green Wall_ de Nicholas Ray
 
 - di 1 sep 19h15 HL  
-Film précédé de _High Green Wall_ de Nicholas Ray.  
+Film précédé de _High Green Wall_ de Nicholas Ray  
 - sa 14 sep 21h15 HL  
-Film précédé de _High Green Wall_ de Nicholas Ray.
+Film précédé de _High Green Wall_ de Nicholas Ray
 
 [39308]  
 **Nick's Movie**  
 **(Lightning Over Water)**  
 de Wim Wenders, Nicholas Ray  
-1980 / 91 min / VOSTF / 35 mm  
+RFA / 1980 / 91 min / VOSTF / 35 mm  
 En 1979, Wim Wenders filme les derniers jours de Nicholas Ray, atteint d'un cancer.
 
 - sa 31 aoû 17h00 GF  
@@ -226,7 +226,7 @@ En 1979, Wim Wenders filme les derniers jours de Nicholas Ray, atteint d'un canc
 **Le Paradis des mauvais garçons**  
 **(Macao)**  
 de Josef von Sternberg  
-1952 / 81 min / VOSTF / 35 mm  
+États-Unis / 1952 / 81 min / VOSTF / 35 mm  
 Avec Robert Mitchum, Jane Russell, William Bendix, Gloria Grahame.  
 Nick Cochran, un Américain en exil à Macao, a l'opportunité de refaire sa réputation en capturant un parrain de la pègre, propriétaire de nombreux établissements de jeux.  
 Nicholas Ray, non crédité au générique, fut chargé de tourner des séquences supplémentaires après la fin du tournage.
@@ -238,7 +238,7 @@ Nicholas Ray, non crédité au générique, fut chargé de tourner des séquence
 **Rêves humides**  
 **(Wet Dreams)**  
 de Lasse Braun, Max Fischer, Oscar Gigard, Hans Kanters, Geert Koolman, Lee Kraft, Dusan Makavejev, Nicholas Ray, Jens Jørgen Thorsen, Heathcote Williams  
-1974 / 90 min / VOSTF / 35 mm  
+Pays-Bas / 1974 / 90 min / VOSTF / 35 mm  
 Avec Lasse Braun, Kees Koedood, Christine Fischer.  
 Une anthologie expérimentale du cinéma érotico-pornographique.  
 L'épisode _The Janitor_ a été réalisé par Nicholas Ray.
@@ -250,7 +250,7 @@ L'épisode _The Janitor_ a été réalisé par Nicholas Ray.
 **Le Roi des rois**  
 **(King of Kings)**  
 de Nicholas Ray  
-1960 / 160 min / VOSTF / 35 mm  
+États-Unis / 1960 / 160 min / VOSTF / 35 mm  
 Avec Jeffrey Hunter, Siobhan McKenna, Robert Ryan.  
 Libre adaptation de la vie de Jésus, de sa naissance à sa résurrection.
 
@@ -261,7 +261,7 @@ Libre adaptation de la vie de Jésus, de sa naissance à sa résurrection.
 **Les Ruelles du malheur**  
 **(Knock on Any Door)**  
 de Nicholas Ray  
-1949 / 100 min / VOSTF / 35 mm  
+États-Unis / 1949 / 100 min / VOSTF / 35 mm  
 D'après le roman _Knock on Any door_ de Willard Motley.  
 Avec Humphrey Bogart, George Macready, John Derek.  
 Persuadé de son innocence, un avocat accepte de défendre un jeune homme accusé du meurtre d'un policier.
@@ -274,7 +274,7 @@ Persuadé de son innocence, un avocat accepte de défendre un jeune homme accus�
 **Secret de femme**  
 **(A Woman's Secret)**  
 de Nicholas Ray  
-1948 / 84 min / VOSTF / 35 mm  
+États-Unis / 1948 / 84 min / VOSTF / 35 mm  
 D'après le roman _Mortgage on Life_ de Vicky Baum.  
 Avec Gloria Grahame, Melvyn Douglas, Maureen O'Hara.  
 Dans le milieu du music-hall, une ancienne chanteuse en vient à haïr la jeune prodige dont elle a orchestré le succès.
@@ -286,7 +286,7 @@ Dans le milieu du music-hall, une ancienne chanteuse en vient à haïr la jeune 
 **Traquenard**  
 **(Party Girl)**  
 de Nicholas Ray  
-1960 / 99 min / VOSTF / 35 mm  
+États-Unis / 1960 / 99 min / VOSTF / 35 mm  
 Avec Robert Taylor, Cyd Charisse, Lee J. Cobb.  
 Dans le Chicago des années 30, un avocat marron tombe follement amoureux d'une danseuse de night-club.
 
@@ -298,7 +298,7 @@ Dans le Chicago des années 30, un avocat marron tombe follement amoureux d'une 
 **Le Violent**  
 **(In a Lonely Place)**  
 de Nicholas Ray  
-1950 / 93 min / VOSTF / 35 mm  
+États-Unis / 1950 / 93 min / VOSTF / 35 mm  
 D'après le roman _In a Lonely Place_ de Dorothy B. Hughes.  
 Avec Humphrey Bogart, Gloria Grahame, Frank Lovejoy.  
 Un scénariste hollywoodien, en proie à des crises de violence, est accusé du meurtre d'une serveuse.
@@ -310,7 +310,7 @@ Un scénariste hollywoodien, en proie à des crises de violence, est accusé du 
 [35499]  
 **We Can't Go Home Again**  
 de Nicholas Ray  
-1980 / 93 min / VOSTF / DCP  
+États-Unis / 1980 / 93 min / VOSTF / DCP  
 Avec Richie Bock, Tom Farrell, Nicholas Ray.  
 En 1972, Nicholas Ray enseigne à l'université le cinéma à de jeunes étudiants en les incitant à faire un film sans scénario, mais inspiré de leurs histoires personnelles et recourant à diverses expérimentations.
 
