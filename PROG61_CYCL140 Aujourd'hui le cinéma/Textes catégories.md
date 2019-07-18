@@ -22,9 +22,11 @@ Une sélection de courts métrages brésiliens récents montrant la vitalité ci
 
 ## Olivier Zabat
 
-Olivier Zabat poursuit son travail de recherche artistique et novateur. Avec Arguments, il invite à une réflexion sur la complexité de l'expérience humaine hors norme dans notre société et sur sa représentation avec le langage cinématographique et les moyens audiovisuels d'aujourd'hui.
+Olivier Zabat poursuit son travail novateur de recherche artistique. Avec Arguments, il invite à une réflexion sur la complexité de l'expérience humaine hors norme dans notre société et sur sa représentation avec le langage cinématographique et les moyens audiovisuels d'aujourd'hui.
 
 ## Martin Tronquart
+
+Deux moyens métrages singuliers qui explorent la complexité des rapports humains, en captent l'âpreté et l'élan vital. Cinéaste prometteur, Martin Tronquart saisit dans sa mise en scène les liens intimes entre les personnages et leur environnement. La séance est suivie d'une rencontre avec les cinéastes et d'une carte blanche : _Looks and Smiles_ de Ken Loach.
 
 ## Festival Biarritz Amérique latine 2019
 

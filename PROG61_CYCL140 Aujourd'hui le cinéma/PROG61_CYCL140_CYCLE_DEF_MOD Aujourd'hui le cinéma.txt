@@ -160,7 +160,7 @@
 
 <pstyle:CATEGORIE>Olivier Zabat
 
-<pstyle:CATEGORIE TXT>Olivier Zabat poursuit son travail de recherche artistique et novateur. Avec Arguments, il invite à une réflexion sur la complexité de l<0x2019>expérience humaine hors norme dans notre société et sur sa représentation avec le langage cinématographique et les moyens audiovisuels d<0x2019>aujourd<0x2019>hui.
+<pstyle:CATEGORIE TXT>Olivier Zabat poursuit son travail novateur de recherche artistique. Avec <cSkew:9>Arguments<cSkew:>, il invite à une réflexion sur la complexité de l<0x2019>expérience humaine hors norme dans notre société et sur sa représentation avec le langage cinématographique et les moyens audiovisuels d<0x2019>aujourd<0x2019>hui.
 
 <pstyle:TITRE>Arguments
 <pstyle:TECHNIQUE>d<0x2019>Olivier Zabat
@@ -171,6 +171,8 @@
 <pstyle:EVENEMENT>Avant-première. Séance suivie d<0x2019>une discussion avec Olivier Zabat
 
 <pstyle:CATEGORIE>Martin Tronquart
+
+<pstyle:CATEGORIE TXT>Deux moyens métrages singuliers qui explorent la complexité des rapports humains, en captent l<0x2019>âpreté et l<0x2019>élan vital. Cinéaste prometteur, Martin Tronquart saisit dans sa mise en scène les liens intimes entre les personnages et leur environnement. La séance est suivie d<0x2019>une rencontre avec les cinéastes et d<0x2019>une carte blanche<0x00A0>: <cSkew:9>Looks and Smiles<cSkew:> de Ken Loach.
 
 <pstyle:TITRE>Braconnière
 <pstyle:TECHNIQUE>de Martin Tronquart
@@ -275,7 +277,7 @@
 <pstyle:TECHNIQUE>d<0x2019>Elena López Riera
 <pstyle:TECHNIQUE>Suisse-Espagne/2015/27<0x2019>/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec José Serrano, Lucas Vázquez, Rafa Alberola.
-<pstyle:SYNOPSIS>Après des années d<0x2019>exil, Rafa retourne dans son village, dans le sud de l<0x2019>Espagne, et se confronte à tous les fantômes laissés derrière lui.
+<pstyle:SYNOPSIS>Après des années d<0x2019>exil, Rafa retourne dans son village, dans le Sud de l<0x2019>Espagne, et se confronte à tous les fantômes laissés derrière lui.
 <pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Las Vísceras
 <pstyle:TECHNIQUE>d<0x2019>Elena López Riera
