@@ -1,0 +1,162 @@
+[{
+    "titre": "Au loin s'en vont les nuages",
+    "titreVo": "Kauas pilvet karkavat",
+    "idFilm": 60306,
+    "ageMinimal": null,
+    "realisateurs": "Aki Kaurismäki",
+    "annee": 1995,
+    "pays": "Finlande",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Ilona et son mari Lauri, qui jusqu'à présent menaient une vie paisible, perdent chacun  leur emploi. Dans leur nouvelle recherche, ils sont confrontés à la crise dans leurs branches respectives et à l'écueil de l'âge."
+    }],
+    "generique": [
+      "Kati Outinen",
+      "Kari Väänänen",
+      "Elina Salo"
+    ]
+  },
+  {
+    "titre": "D'une pierre deux coups",
+    "titreVo": "",
+    "idFilm": 131237,
+    "ageMinimal": null,
+    "realisateurs": "Fejria Deliba",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Zayane, 75 ans, n'est jamais sortie de sa cité. Un jour, elle reçoit une lettre lui annonçant le décès d'un homme qu'elle a connu, autrefois, en Algérie. Le temps d'une journée, elle part récupérer une boîte que le défunt lui a léguée."
+    }],
+    "generique": [
+      "Milouda Chaqiq",
+      "Brigitte Roüan",
+      "Claire Wauthion",
+      "Samir Guesmi"
+    ]
+  },
+  {
+    "titre": "Il se passe quelque chose",
+    "titreVo": "",
+    "idFilm": 139747,
+    "ageMinimal": null,
+    "realisateurs": "Anne Alix",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Irma, qui ne trouve plus sa place dans le monde, croise Dolorès, une femme libre et décomplexée chargée de rédiger un guide touristique *gay-friendly* sur un coin de Provence oublié. L'improbable duo se lance sur les routes."
+    }],
+    "generique": [
+      "Lola Dueñas",
+      "Bojena Horackova",
+      "Serge Geairain"
+    ]
+  },
+  {
+    "titre": "Los que desean",
+    "art": "",
+    "titreVo": "",
+    "idFilm": 142466,
+    "ageMinimal": null,
+    "realisateurs": "Elena López Riera",
+    "annee": 2018,
+    "pays": "Suisse-Espagne",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Dans le Sud de l'Espagne se déroule une une course de pigeons colorés un peu particulière, fondée sur le désir : sera désigné vainqueur celui qui aura le mieux su approcher la femelle."
+    }]
+  },
+  {
+    "titre": "Maison est noire",
+    "art": "La",
+    "titreVo": "Khaneh siah ast",
+    "idFilm": 99704,
+    "ageMinimal": null,
+    "realisateurs": "Forough Farrokhzad",
+    "annee": 1962,
+    "pays": "Iran",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Le quotidien des lépreux de Tabriz, en Azerbaïdjan."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "« Forough Farrokhzad était un des plus grands poètes persans contemporains, c'était aussi une cinéaste. Elle avait réalisé _La Maison est noire_, un court métrage sur les lépreux, Grand prix à Oberhausen, et à part cela pratiquement inconnu en Europe, et qui est un chef-d'œuvre. » (Chris Marker)"
+      }
+    ],
+    "generique": [
+      "Forough Farrokhzad",
+      "Ebrahim Golestan"
+    ]
+  },
+  {
+    "titre": "Petit chat est mort",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 88908,
+    "ageMinimal": null,
+    "realisateurs": "Fejria Deliba",
+    "annee": 1991,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Coincée dans son HLM, la jeune Mona doit apprendre une scène de théâtre, et recherche un partenaire pour lui donner la réplique."
+    }],
+    "generique": [
+      "Linda Prevot Chaïb",
+      "Fatima Chatter"
+    ]
+  },
+  {
+    "titre": "Pueblo",
+    "titreVo": "",
+    "idFilm": 142464,
+    "ageMinimal": null,
+    "realisateurs": "Elena López Riera",
+    "annee": 2015,
+    "pays": "Suisse-Espagne",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Après des années d'exil, Rafa retourne dans son village, dans le sud de l'Espagne, et se confronte à tous les fantômes laissés derrière lui."
+    }],
+    "generique": [
+      "José Serrano",
+      "Lucas Vázquez",
+      "Rafa Alberola"
+    ]
+  },
+  {
+    "titre": "Rosière de Pessac",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 61800,
+    "ageMinimal": null,
+    "realisateurs": "Jean Eustache",
+    "annee": 1968,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Reportage sur une tradition en voie d'extinction : l'élection d'une rosière dans un petit village de Gironde, au début du mois de juin 1968, qui distingue une jeune fille méritante et vertueuse."
+    }]
+  },
+  {
+    "titre": "Vísceras",
+    "art": "Las",
+    "titreVo": "",
+    "idFilm": 142467,
+    "ageMinimal": null,
+    "realisateurs": "Elena López Riera",
+    "annee": 2016,
+    "pays": "Espagne-France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Rites anciens dans une Espagne hors du temps. Le sang, les traditions, la cohabitation entre la vie et la mort."
+    }],
+    "generique": [
+      "Irene Navarro Andújar",
+      "Clara Navarro Andújar",
+      "Jonatan Fernández Reyes"
+    ]
+  }
+]

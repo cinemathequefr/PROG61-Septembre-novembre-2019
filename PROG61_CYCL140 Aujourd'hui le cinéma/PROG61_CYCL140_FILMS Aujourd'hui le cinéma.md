@@ -7,7 +7,7 @@ France-Portugal / 2016
 Avec Joana Barrios, Francisco Cipriano.  
 Retour sur l'histoire de Princesse X, phallus en bronze futuriste et doré sculpté par Brancusi, qui est en fait un buste de l'incroyable petite nièce de Napoléon, Marie Bonaparte.
 
-[119782]\*  
+[119782]*  
 **Agit Pop**  
 de Nicolas Pariser  
 France / 2012  
@@ -35,6 +35,16 @@ Paris, aujourd'hui. David, 24 ans, jongle entre différents petits boulots et re
 d'Olivier Zabat  
 France / 2019  
 Des personnes qui entendent des voix échangent sur leurs luttes intimes et sociales quotidiennes. La « folie » est ici abordée sous l'angle d'une conscience aiguë du réel et fait écho à toutes nos souffrances secrètes.
+
+[60306]*  
+**Au loin s'en vont les nuages**  
+**(Kauas pilvet karkavat)**  
+d'Aki Kaurismäki  
+Finlande / 1995  
+Avec Kati Outinen, Kari Väänänen, Elina Salo.  
+Ilona et son mari Lauri, respectivement maître d'hôtel et conducteur de tramway, perdent tous deux leur emploi.
+
+> (Site) Ilona et son mari Lauri, respectivement maître d'hôtel et conducteur de tramway, perdent tous deux leur emploi.
 
 [142426]  
 **Avant que je m'en aille**  
@@ -98,6 +108,13 @@ France-Australie / 2019
 Avec Nicholas Denton, John Brumpton.  
 Callan a vingt ans et sent monter en lui des pulsions qu'il a de plus en plus de mal à réfréner. Afin de protéger les autres de son comportement étrange, son père, Malcolm, tente par tous les moyens de canaliser son attention
 
+[131237]  
+**D'une pierre deux coups**  
+de Fejria Deliba  
+France / 2015  
+Avec Milouda Chaqiq, Brigitte Roüan, Claire Wauthion, Samir Guesmi.  
+Zayane a 75 ans. Depuis son arrivée en France, elle n'a jamais dépassé les frontières de sa cité. Un jour elle reçoit une lettre lui annonçant le décès d'un homme qu'elle a connu, autrefois, en Algérie. Le temps d'une journée, elle part récupérer une boite que le défunt lui a légué.
+
 [142453]  
 **Falaises**  
 de Martin Tronquart, Sébastien Téot  
@@ -143,6 +160,13 @@ de Philippe Ramos
 France / 1997  
 Un prêtre, entré en religion à la mort de sa mère, ne croit pas en Dieu. Officiant dans un petit village, il entame une liaison avec une jeune femme aux mœurs très libres.
 
+[139747]  
+**Il se passe quelque chose**  
+d'Anne Alix  
+France / 2017  
+Avec Lola Dueñas, Bojena Horackova, Serge Geairain.  
+Avignon. Irma, qui ne trouve plus sa place dans le monde, croise sur sa route Dolorès, une femme libre et décomplexée missionnée pour rédiger un guide touristique gay-friendly sur un coin de Provence oublié. L'improbable duo se lance sur les routes.
+
 [142508]  
 **Intentional Sweat**  
 de Chrystele Nicot  
@@ -156,6 +180,16 @@ de Martin Rit
 France / 2006  
 Avec Serge Riaboukine, Sébastien Morin.  
 Michel, la quarantaine, ne fait pas grand-chose de sa vie. Lorsqu'il tombe sur la petite annonce, Jeune homme donne cours de guitare pour débutants, il décide de se lancer.
+
+[99704]*  
+**La Maison est noire**  
+**(Khaneh siah ast)**  
+de Forough Farrokhzad  
+Iran / 1962  
+Avec Forough Farrokhzad, Ebrahim Golestan.  
+« Forough Farrokhzad était un des plus grands poètes persans contemporains, c'était aussi une cinéaste. Elle avait réalisé _La maison est noire_, un court métrage sur les lépreux, Grand Prix à Oberhausen, et à part cela pratiquement inconnu en Europe, et qui est un chef-d'œuvre. » (Chris Marker)
+
+> (Site) Regards sur une léproserie.
 
 [142460]  
 **Masmelos**  
@@ -188,16 +222,23 @@ de Regina Pessoa
 France-Canada-Portugal / 2019  
 _« À partir de mes souvenirs d'enfance, ce film rend hommage à mon oncle Thomas, un homme humble, mais un peu excentrique, qui a eu une vie simple et anonyme mais qui a beaucoup compté pour moi. Ceci est mon témoignage du fait qu'il n'est pas nécessaire que la vie de quelqu'un soit extraordinaire pour devenir quelqu'un d'exceptionnel dans notre vie »._ Régina
 
-[140228]\*  
+[140228]*  
 **O Orfão**  
 de Carolina Markowicz  
 Brésil / 2017  
 Avec Clarisse Abujamra, Georgina Castro.  
 Jonathas a été adopté, mais il ne faudra pas beaucoup de temps pour que son adoption soit révoquée, car il est « différent » des autres enfants. Cette histoire est inspirée de faits réels.
 
-> (Site) Jonathas a été adopté, mais il ne faudra pas beaucoup de temps pour que son adoption soit révoquée, car il est « différent » des autres enfants. Cette histoire est inspirée de faits réels.
+> (Site) Jonathas a été adopté, mais il ne faudra pas beaucoup de temps pour que son adoption soit révoquée, car il est «  différent  » des autres enfants. Cette histoire est inspirée de faits réels.
 
-[59024]\*  
+[88908]  
+**Le Petit chat est mort**  
+de Fejria Deliba  
+France / 1991  
+Avec Linda Prevot Chaïb, Fatima Chatter.  
+Dans une HLM, Mona doit apprendre une scène de théâtre. Elle cherche auprès d'elle celui qui pourrait lui donner la réplique.
+
+[59024]*  
 **Ponette**  
 de Jacques Doillon  
 France / 1995  
@@ -205,6 +246,19 @@ Avec Victoire Thivisol, Delphine Schiltz, Matiaz Bureau Caton, Marie Trintignant
 Ponette a 4 ans lorsque sa mère meurt accidentellement. Confiée à sa tante, la fillette ne supporte pas cette disparition. Elle continue obstinément de s'adresser à elle, convaincue qu'elle reviendra un jour.
 
 > (Site) Ponette a 4 ans lorsque sa mère meurt accidentellement. Confiée à sa tante, la fillette ne supporte pas cette disparition. Elle continue obstinément de s'adresser à elle, convaincue qu'elle reviendra un jour.
+
+[142464]  
+**Pueblo**  
+d'Elena López Riera  
+Suisse-Espagne / 2015  
+Avec José Serrano, Lucas Vázquez, Rafa Alberola.  
+Après des années d'exil, Rafa retourne dans son village, au sud de l'Espagne, et se confronte à tous les fantômes laissés derrière lui.
+
+[142466]  
+**Los Que desean**  
+d'Elena López Riera  
+Suisse-Espagne / 2018  
+Dans le sud de l'Espagne, une course de pigeons colorés fondée non sur la rapidité mais sur le désir ; désigné vainqueur celui qui aura le mieux su approcher la femelle partie avant eux.
 
 [54190]  
 **Regards et sourires**  
@@ -219,6 +273,14 @@ de Louis Garrel
 France / 2011  
 Avec Golshifteh Farahani, Vincent Macaigne.  
 Un mardi qui se lève. Paris. Des rues calmes. Un parc pour les enfants et les chiens. Un soleil de printemps. Louis est prêt à prendre soin de Vincent, mais exige que Marie prenne soin d'elle toute seule. Il oublie que, pour Marie, il s'agit d'autre chose. Notre besoin de consolation est impossible à rassasier, dit-on. Un après-midi à trois et, en fin de journée, une pensée commune : à quoi ça sert si je suis seul ?
+
+[61800]*  
+**La Rosière de Pessac**  
+de Jean Eustache  
+France / 1968  
+Reportage sur une tradition en voie d'extinction : l'élection d'une rosière dans un petit village de Gironde au début du mois de juin 1968, qui distingue une jeune fille méritante et vertueuse.
+
+> (Site) Reportage sur une tradition en voie d'extinction : l'élection d'une «  rosière  » dans une ville de Gironde au début du mois de juin 1968, qui distingue une jeune fille méritante et vertueuse.
 
 [142461]  
 **Roughhouse**  
@@ -266,6 +328,13 @@ Brésil / 2017
 Avec Maeve Jinkings, Roberta Gretchen Coppola.  
 Nadia est une travestie qui veut être mère. Elle sera une mère. C'est une mère.
 
+[142467]  
+**Las Visceras**  
+d'Elena López Riera  
+Espagne-France / 2016  
+Avec Irene Navarro Andujar, Clara Navarro Andujar, Jonatan Fernández Reyes.  
+Rites anciens dans une Espagne hors du temps. Le sang, les traditions, la cohabitation entre la vie et la mort.
+
 [141028]  
 **We are become death**  
 de Jean-Gabriel Périot  
@@ -278,3 +347,4 @@ de Lou Rambert Preiss
 France / 2017  
 Avec Ernest Gachet, Adèle Viéville.  
 Jonathan, adolescent solitaire, se costume secrètement en sa chanteuse virtuelle préférée. Lorsqu'il trouve un semblable sur Internet, il rêve d'une rencontre pour partager un peu d'humanité.
+

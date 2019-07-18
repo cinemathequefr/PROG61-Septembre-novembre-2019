@@ -11,6 +11,16 @@ Une jeune femme quitte sa famille bourgeoise pour rejoindre le couvent des domin
 
 - me 28 aoû 17h00 GF
 
+[47166]  
+**Bagarres**  
+de Henri Calef  
+France / 1948 / 92 min / VO / 35 mm  
+D'après le roman _Bagarres_ de Jean Proal.  
+Avec Maria Casarès, Roger Pigaut, Orane Demazis.  
+Une servante de ferme se donne par calcul au riche fermier Rabasse. Trahie par Jacques, celui qu'elle aime, elle offrira son amour au bel Antoine.
+
+- me 23 oct 20h30 JE
+
 [47595]  
 **Boule de Suif**  
 de Christian-Jaque  
@@ -244,15 +254,6 @@ Avec Mila Parély, Pierre Renoir, Jean Chevrier.
 Dans un village perdu de Laponie, Gérard vient à l'aide de son ami Anders, en conflit avec son père, un riche propriétaire de mines d'or.
 
 - je 31 oct 20h30 JE
-
-[52214]  
-**Les Trafiquants de la mer**  
-de Willy Rozier  
-France / 1947 / 95 min / 16 mm  
-Avec Pierre Renoir, Élina Labourdette, Jacques Dumesnil.  
-Sur la Côte d'Azur, un notable et quelques complices se livrent à un trafic d'opium.
-
-- me 23 oct 20h30 JE
 
 [46915]  
 **Vautrin**  
