@@ -319,7 +319,7 @@ Détail de la programmation à partir du 6 octobre 2019 sur cinematheque.fr.
 <cstyle:SALLESBLEUES>C
 <pstyle:EVENEMENT>Séance présentée par Elena López Riera
 
-<pstyle:CATEGORIE>Chrystele Nicot<0x00A0>/<0x00A0>Lou Rambert Preiss
+<pstyle:CATEGORIE>Chrystèle Nicot<0x00A0>/<0x00A0>Lou Rambert Preiss
 
 <pstyle:CATEGORIE TXT>Deux films inclassables, profondément singuliers, qui réinventent l<0x2019>avenir tout en orchestrant la recherche d<0x2019>humanité et d<0x2019>amour.
 

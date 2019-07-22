@@ -1,10 +1,14 @@
-# Sterling Hayden
+# Sterling Hayden, le héros torturé
+
+Une belle gueule, une présence, une silhouette taillée dans le roc : Sterling Hayden porte aussi bien le Stetson que l'imper de flic dans la cinquantaine de rôles qu'il endosse entre 1940 et 1980. _Johnny Guitar_, _Dr. Folamour_ ou _Le Parrain_ sont les somptueux jalons d'une carrière morcelée, qui dessine une histoire du cinéma entre John Huston, Kubrick, Robert Altman, ou Coppola. Marin chevronné qui sillonne le monde et ses océans, héros de guerre, écrivain et aventurier à tendance anarchiste, il reste à bonne distance d'Hollywood qu'il déteste, pratique le métier d'acteur en dilettante désabusé. Dans la vie et sur l'écran, un homme à part, un héros torturé.
 
 _« I'm a professional irregular. »_ (Sterling Hayden)
 
 _The Asphalt Jungle_ (_Quand la ville dort_, 1950) est le septième film de Sterling Hayden, mais c'est le premier qui compte pour nous : la découverte, sinon d'une star, au moins d'une silhouette, puis d'un faciès. Il est la première figure que l'on voit marcher à grands pas la nuit dans une rue, il est dans la première scène dialoguée ; il est dans le _line-up_ de police, intimidant du regard le témoin qui pourrait le reconnaître. Les yeux durs, le pli amer au coin des lèvres. Durant tout ce temps il n'a pas dit un mot. Ce sera souvent son mode opérationnel à l'écran. Parfois, comme dans _The Killing_ (Stanley Kubrick, 1956), la gestuelle seule suffit à le rendre inoubliable.
 
 John Huston avait eu du mal à imposer l'acteur pour le rôle de Dix Hanley, le dur de _Quand la ville dort_. MGM avait exigé un essai filmé – la scène dans laquelle ce personnage solitaire s'ouvre sur son passé, grâce à la gentillesse éperdue de Jean Hagen. Huston avait perçu en lui ce conflit entre virilité et fragilité, assurance et doutes permanents, qui caractériseront sa vie personnelle. Les deux hommes resteront amis, échangeant une correspondance sporadique. Huston sera l'un des derniers à rendre visite à l'acteur sur son lit de mort en 1986, avant de s'éteindre lui-même l'année suivante. Personnalités très différentes, ils étaient du même moule sur le travail : pour eux, la vie comptait plus que le cinéma.
+
+## Un dilettante à Hollywood
 
 On croit souvent que la cassure s'est faite pour Hayden lorsqu'il a eu la faiblesse de témoigner et donner des noms devant les chasseurs de sorcières à Washington en avril 1951. Mais elle a, en fait, toujours existé.
 
@@ -15,6 +19,8 @@ Catapulté _glamour boy_ en 1940 avec deux films Paramount, il fuira Hollywood p
 De cette période, on ne retient que _Crime Wave_, tourné _guerilla style_ en 13 jours par André De Toth, dans lequel Hayden joue un inspecteur de police qui mâchouille un cure-dent pour s'empêcher de fumer – accessoire qui fascinait Jean-Pierre Melville (voir Dessailly dans _Le Doulos_). _Johnny Guitar_ est bien sûr un film que l'on aime et qu'il détestait, jugement peut-être coloré par les journées déplaisantes passées en face de Joan Crawford, qui avait détourné l'histoire à son profit, portant la culotte à plus d'un titre.
 
 Parmi les films commis par Hayden à cette époque on dénombre beaucoup de westerns, et on s'aperçoit qu'à l'époque on allait voir un film de Hayden comme on allait voir ceux d'Audie Murphy : soit on les aimait tous, soit on n'en voyait aucun. _Shotgun_, du vétéran Lesley Selander, se distingue un peu du reste, à cause de son histoire farfelue et du duel final absurde. Hayden y est beau comme un dieu. Sortent également du lot des curiosités comme _Valerie_ (western « Rashomon » de Gerd Oswald en 1957), ou l'étrange _Terror in a Texas Town_, dernier film de Joseph H. Lewis.
+
+## Le « character actor »
 
 Seuls des gens comme Huston, Kubrick ou Altman ont su se servir de sa fébrilité devant la caméra. Son triomphe le plus durable est Jack D. Ripper, le général parano qu'il campe dans _Docteur Folamour_, même si la prestation fut obtenue au forceps (46 prises pour un des plans). En 1968, alors qu'il tournait en Espagne le curieux film d'espionnage _Hard Contract_, James Coburn lui fit connaître les effets bénéfiques des pétards, à la fois pour contrôler son alcoolisme et le libérer de sa peur devant la caméra. Il y a véritablement un avant et un après : Altman lui donne un rôle inoubliable dans _The Long Goodbye_, en écrivain alcoolique et bloqué, ce qu'il était dans la vie. Il devient alors un _character actor_, fétiche pour les nouveaux cinéastes, et sa filmographie prend un tour fantasque : dans des films comme _The Final Programme_, _Deadly Strangers_ ou _Winter Kills_, il est souvent un film dans le film. Mais on le retrouve toujours avec plaisir. Et entre ces travaux d'occasion (où il est plus larron qu'autre chose), il y a toujours des rôles marquants, comme celui du flic dans _Le Parrain_, ou celui du patriarche paysan dans _1900_.
 

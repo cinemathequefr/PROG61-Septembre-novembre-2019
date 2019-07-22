@@ -24,7 +24,7 @@ Au début du XX<sup>e</sup> siècle, à Paris, le gang de Jules Bonnot, constitu
 [47840]  
 **Les Gauloises bleues**  
 de Michel Cournot  
-France / 1967 / 93 min / DCP  
+France / 1967 / 93 min / Numérique  
 Avec Annie Girardot, Jean-Pierre Kalfon, Bruno Cremer.  
 Ivan, chômeur sans domicile, fait la connaissance de Jeanne, une jeune serveuse. Ils se marient et, bientôt, Jeanne est enceinte. En attendant la naissance de son fils, Ivan revoit son existence passée.
 
@@ -40,7 +40,7 @@ Trois vedettes yéyé donnent une conférence de presse devant leurs fans énamo
 « J'ai fait ce film parce qu'il y a beaucoup de choses à dire par l'entremise du cinéma que l'on ne pourrait exprimer par le théâtre. » (Marc'O)
 
 - me 11 sep 20h00 HL  
-Séance présentée par Jean-Pierre Kalfon et Marc'O
+Séance présentée par Jean-Pierre Kalfon
 
 [48702]  
 **Mamaia**  

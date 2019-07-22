@@ -1,4 +1,5 @@
-[{
+[
+  {
     "titre": "À l'ombre des potences",
     "titreVo": "Run for Cover",
     "annee": 1955,
@@ -6,10 +7,12 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Deux hommes, accusés à tort d'avoir pillé un train, parviennent à prouver leur innocence. L'un, blessé, tombe amoureux de la fille des fermiers chez qui ils s'étaient réfugiés, tandis que l'autre devient le nouveau shérif de la ville."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux hommes, accusés à tort d'avoir pillé un train, parviennent à prouver leur innocence. L'un, blessé, tombe amoureux de la fille des fermiers chez qui ils s'étaient réfugiés, tandis que l'autre devient le nouveau shérif de la ville."
+      }
+    ],
     "generique": [
       "James Cagney",
       "John Derek",
@@ -26,15 +29,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Le jeune Bowie s'évade de prison avec deux autres détenus qui l'entraînent rapidement dans une attaque de banque. Il rencontre l'amour et croit pouvoir vivre en paix..."
-    }],
-    "generique": [
-      "Farley Granger",
-      "Cathy O'Donnell",
-      "Howard Da Silva"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le jeune Bowie s'évade de prison avec deux autres détenus qui l'entraînent rapidement dans une attaque de banque. Il rencontre l'amour et croit pouvoir vivre en paix..."
+      }
     ],
+    "generique": ["Farley Granger", "Cathy O'Donnell", "Howard Da Silva"],
     "adaptation": "D'après le roman _Thieves Like Us_ d'Edward Anderson."
   },
   {
@@ -45,15 +46,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Pendant la Seconde Guerre mondiale, la mission de deux agents britanniques, envoyés en Libye pour s'emparer de documents allemands, est compromise par leur rivalité amoureuse."
-    }],
-    "generique": [
-      "Richard Burton",
-      "Curd Jürgens",
-      "Ruth Roman"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pendant la Seconde Guerre mondiale, la mission de deux agents britanniques, envoyés en Libye pour s'emparer de documents allemands, est compromise par leur rivalité amoureuse."
+      }
     ],
+    "generique": ["Richard Burton", "Curd Jürgens", "Ruth Roman"],
     "adaptation": "D'après le roman _Amère victoire_ de René Hardy."
   },
   {
@@ -66,15 +65,13 @@
     "ageMinimal": 0,
     "realisateurs": "Wim Wenders",
     "pays": "RFA-France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Atteint de leucémie, Jonathan est mourant. Pour assurer un avenir à sa famille, il accepte la proposition d'un trafiquant de tableaux américain : tuer un inconnu contre une forte somme d'argent."
-    }],
-    "generique": [
-      "Bruno Ganz",
-      "Dennis Hopper",
-      "Lisa Kreuzer"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Atteint de leucémie, Jonathan est mourant. Pour assurer un avenir à sa famille, il accepte la proposition d'un trafiquant de tableaux américain : tuer un inconnu contre une forte somme d'argent."
+      }
     ],
+    "generique": ["Bruno Ganz", "Dennis Hopper", "Lisa Kreuzer"],
     "adaptation": "D'après le roman _Ripley s'amuse_ de Patricia Highsmith."
   },
   {
@@ -86,28 +83,28 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Mario, chef gitan, souhaite que son frère Stephano lui succède, et qu'il épouse Annie, une fille de la communauté. Mais le jeune homme préfère la vie de _gadjo_ aux traditions familiales."
-    }],
-    "generique": [
-      "Jane Russell",
-      "Cornel Wilde",
-      "Luther Adler"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mario, chef gitan, souhaite que son frère Stephano lui succède, et qu'il épouse Annie, une fille de la communauté. Mais le jeune homme préfère la vie de _gadjo_ aux traditions familiales."
+      }
+    ],
+    "generique": ["Jane Russell", "Cornel Wilde", "Luther Adler"]
   },
   {
     "titre": "Born to Be Bad",
     "titreVo": "",
-    "annee": 1985,
+    "annee": 1950,
     "idFilm": 58680,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Une jeune femme vénale et sans scrupules manipule son entourage pour arriver à ses fins."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme vénale et sans scrupules manipule son entourage pour arriver à ses fins."
+      }
+    ],
     "generique": [
       "Robert Ryan",
       "Joan Fontaine",
@@ -126,10 +123,12 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Après une tentative de hold-up qui a tourné court, le gang des frères James se remémore son passé."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après une tentative de hold-up qui a tourné court, le gang des frères James se remémore son passé."
+      }
+    ],
     "generique": [
       "John Carradine",
       "Robert Wagner",
@@ -146,15 +145,13 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Pékin, 1900 : pendant la Révolte des Boxers, le quartier des ambassades est assiégé durant cinquante-cinq jours."
-    }],
-    "generique": [
-      "Charlton Heston",
-      "Ava Gardner",
-      "David Niven"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pékin, 1900 : pendant la Révolte des Boxers, le quartier des ambassades est assiégé durant cinquante-cinq jours."
+      }
+    ],
+    "generique": ["Charlton Heston", "Ava Gardner", "David Niven"]
   },
   {
     "titre": "Dents du diable",
@@ -166,10 +163,12 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "Italie-France-Grande-Bretagne-États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Pour avoir refusé une femme offerte en cadeau, un missionnaire est tué par un Inuit. Celui-ci est rapidement pris en chasse par deux policiers canadiens."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour avoir refusé une femme offerte en cadeau, un missionnaire est tué par un Inuit. Celui-ci est rapidement pris en chasse par deux policiers canadiens."
+      }
+    ],
     "generique": [
       "Anthony Quinn",
       "Yoko Tani",
@@ -186,15 +185,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Devenu dépendant à la cortisone, le professeur Ed Avery se change en despote tyrannique et agressif."
-    }],
-    "generique": [
-      "James Mason",
-      "Barbara Rush",
-      "Walter Matthau"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Devenu dépendant à la cortisone, le professeur Ed Avery se change en despote tyrannique et agressif."
+      }
+    ],
+    "generique": ["James Mason", "Barbara Rush", "Walter Matthau"]
   },
   {
     "titre": "Diables de Guadalcanal",
@@ -205,15 +202,13 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Guadalcanal, 1942 : une escadrille américaine indisciplinée est reprise en main par le sévère major Kirby, qui s'oppose au capitaine Griffin, plus laxiste et plus apprécié des soldats."
-    }],
-    "generique": [
-      "John Wayne",
-      "Robert Ryan",
-      "Don Taylor"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Guadalcanal, 1942 : une escadrille américaine indisciplinée est reprise en main par le sévère major Kirby, qui s'oppose au capitaine Griffin, plus laxiste et plus apprécié des soldats."
+      }
+    ],
+    "generique": ["John Wayne", "Robert Ryan", "Don Taylor"]
   },
   {
     "titre": "Don't Expect Too Much",
@@ -223,10 +218,12 @@
     "ageMinimal": null,
     "realisateurs": "Susan Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Documentaire sur le tournage de _We Can't Go Home Again_, film expérimental politique et psychédélique réalisé par Nicholas Ray entre 1971 et 1973."
-    }]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Documentaire sur le tournage de _We Can't Go Home Again_, film expérimental politique et psychédélique réalisé par Nicholas Ray entre 1971 et 1973."
+      }
+    ]
   },
   {
     "titre": "Forêt interdite",
@@ -237,15 +234,13 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray, Budd Schulberg",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "En 1905, un professeur de sciences naturelles défend les marais de Floride contre des trafiquants de plumes d'oiseaux."
-    }],
-    "generique": [
-      "Christopher Plummer",
-      "Burl Ives",
-      "Gypsy Rose Lee"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1905, un professeur de sciences naturelles défend les marais de Floride contre des trafiquants de plumes d'oiseaux."
+      }
+    ],
+    "generique": ["Christopher Plummer", "Burl Ives", "Gypsy Rose Lee"]
   },
   {
     "titre": "Fureur de vivre",
@@ -256,16 +251,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Nouvellement arrivé à Los Angeles, Jim, en conflit avec ses parents, essaie de s'intégrer au mieux. Il rencontre Judy, Plato, et toute une bande d'adolescents désaxés."
-    }],
-    "generique": [
-      "James Dean",
-      "Natalie Wood",
-      "Sal Mineo",
-      "Dennis Hopper"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Nouvellement arrivé à Los Angeles, Jim, en conflit avec ses parents, essaie de s'intégrer au mieux. Il rencontre Judy, Plato, et toute une bande d'adolescents désaxés."
+      }
+    ],
+    "generique": ["James Dean", "Natalie Wood", "Sal Mineo", "Dennis Hopper"]
   },
   {
     "titre": "High Green Wall",
@@ -275,15 +267,13 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Henty, qui a survécu à un crash dans la jungle, est recueilli par l'affable et original McMaster. Pour remercier son hôte, il s'oblige à lui faire la lecture de son auteur préféré, Dickens."
-    }],
-    "generique": [
-      "Joseph Cotten",
-      "Thomas Gomez",
-      "Maurice Marsac"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Henty, qui a survécu à un crash dans la jungle, est recueilli par l'affable et original McMaster. Pour remercier son hôte, il s'oblige à lui faire la lecture de son auteur préféré, Dickens."
+      }
     ],
+    "generique": ["Joseph Cotten", "Thomas Gomez", "Maurice Marsac"],
     "adaptation": "D'après la nouvelle _L'Homme qui aimait Dickens_ d'Evelyn Waugh."
   },
   {
@@ -296,15 +286,13 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray, Robert Parrish",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Ancien champion de rodéo, Jeff McCloud s'est retiré suite à un accident. De retour sur les lieux de son enfance, il rencontre Wes Merritt, qu'il initie à son sport, et sa femme Louise, dont il va tomber amoureux."
-    }],
-    "generique": [
-      "Susan Hayward",
-      "Robert Mitchum",
-      "Arthur Kennedy"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ancien champion de rodéo, Jeff McCloud s'est retiré suite à un accident. De retour sur les lieux de son enfance, il rencontre Wes Merritt, qu'il initie à son sport, et sa femme Louise, dont il va tomber amoureux."
+      }
+    ],
+    "generique": ["Susan Hayward", "Robert Mitchum", "Arthur Kennedy"]
   },
   {
     "titre": "Johnny Guitar",
@@ -313,15 +301,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Vienna, qui tient un saloon fréquenté par des hors-la-loi, embauche un ancien amant, cowboy et musicien. Il va l'aider dans sa lutte, qui l'oppose à un groupe d'éleveurs."
-    }],
-    "generique": [
-      "Joan Crawford",
-      "Sterling Hayden",
-      "Mercedes McCambridge"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vienna, qui tient un saloon fréquenté par des hors-la-loi, embauche un ancien amant, cowboy et musicien. Il va l'aider dans sa lutte, qui l'oppose à un groupe d'éleveurs."
+      }
     ],
+    "generique": ["Joan Crawford", "Sterling Hayden", "Mercedes McCambridge"],
     "adaptation": "D'après le roman _Johnny Guitar_ de Roy Chanslor."
   },
   {
@@ -333,15 +319,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Un policier aux méthodes violentes aide un shérif de campagne à retrouver Danny, un déséquilibré dont il vient de rencontrer la sœur."
-    }],
-    "generique": [
-      "Ida Lupino",
-      "Robert Ryan",
-      "Ward Bond"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un policier aux méthodes violentes aide un shérif de campagne à retrouver Danny, un déséquilibré dont il vient de rencontrer la sœur."
+      }
     ],
+    "generique": ["Ida Lupino", "Robert Ryan", "Ward Bond"],
     "adaptation": "D'après le roman _Mad With Much Heart_ de Gerald Butler."
   },
   {
@@ -352,10 +336,12 @@
     "ageMinimal": null,
     "realisateurs": "Wim Wenders, Nicholas Ray",
     "pays": "RFA",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "En 1979, Wim Wenders filme les derniers jours de Nicholas Ray, atteint d'un cancer."
-    }]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1979, Wim Wenders filme les derniers jours de Nicholas Ray, atteint d'un cancer."
+      }
+    ]
   },
   {
     "titre": "Paradis des mauvais garçons",
@@ -366,7 +352,8 @@
     "ageMinimal": 0,
     "realisateurs": "Josef von Sternberg",
     "pays": "États-Unis",
-    "textes": [{
+    "textes": [
+      {
         "typeTexte": 9,
         "texte": "Nick Cochran, un Américain en exil à Macao, a l'opportunité de refaire sa réputation en capturant un parrain de la pègre, propriétaire de nombreux établissements de jeux."
       },
@@ -390,7 +377,8 @@
     "ageMinimal": null,
     "realisateurs": "Lasse Braun, Max Fischer, Oscar Gigard, Hans Kanters, Geert Koolman, Lee Kraft, Dusan Makavejev, Nicholas Ray, Jens Jørgen Thorsen, Heathcote Williams",
     "pays": "Pays-Bas",
-    "textes": [{
+    "textes": [
+      {
         "typeTexte": 9,
         "texte": "Une anthologie expérimentale du cinéma érotico-pornographique."
       },
@@ -399,11 +387,7 @@
         "texte": "L'épisode _The Janitor_ a été réalisé par Nicholas Ray."
       }
     ],
-    "generique": [
-      "Lasse Braun",
-      "Kees Koedood",
-      "Christine Fischer"
-    ]
+    "generique": ["Lasse Braun", "Kees Koedood", "Christine Fischer"]
   },
   {
     "titre": "Roi des rois",
@@ -414,15 +398,13 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Libre adaptation de la vie de Jésus, de sa naissance à sa résurrection."
-    }],
-    "generique": [
-      "Jeffrey Hunter",
-      "Siobhan McKenna",
-      "Robert Ryan"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Libre adaptation de la vie de Jésus, de sa naissance à sa résurrection."
+      }
+    ],
+    "generique": ["Jeffrey Hunter", "Siobhan McKenna", "Robert Ryan"]
   },
   {
     "titre": "Ruelles du malheur",
@@ -433,15 +415,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Persuadé de son innocence, un avocat accepte de défendre un jeune homme accusé du meurtre d'un policier."
-    }],
-    "generique": [
-      "Humphrey Bogart",
-      "George Macready",
-      "John Derek"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Persuadé de son innocence, un avocat accepte de défendre un jeune homme accusé du meurtre d'un policier."
+      }
     ],
+    "generique": ["Humphrey Bogart", "George Macready", "John Derek"],
     "adaptation": "D'après le roman _Knock on Any door_ de Willard Motley."
   },
   {
@@ -452,15 +432,13 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Dans le milieu du music-hall, une ancienne chanteuse en vient à haïr la jeune prodige dont elle a orchestré le succès."
-    }],
-    "generique": [
-      "Gloria Grahame",
-      "Melvyn Douglas",
-      "Maureen O'Hara"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans le milieu du music-hall, une ancienne chanteuse en vient à haïr la jeune prodige dont elle a orchestré le succès."
+      }
     ],
+    "generique": ["Gloria Grahame", "Melvyn Douglas", "Maureen O'Hara"],
     "adaptation": "D'après le roman _Mortgage on Life_ de Vicky Baum."
   },
   {
@@ -471,15 +449,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Dans le Chicago des années 30, un avocat marron tombe follement amoureux d'une danseuse de night-club."
-    }],
-    "generique": [
-      "Robert Taylor",
-      "Cyd Charisse",
-      "Lee J. Cobb"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans le Chicago des années 30, un avocat marron tombe follement amoureux d'une danseuse de night-club."
+      }
+    ],
+    "generique": ["Robert Taylor", "Cyd Charisse", "Lee J. Cobb"]
   },
   {
     "titre": "Violent",
@@ -490,15 +466,13 @@
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Un scénariste hollywoodien, en proie à des crises de violence, est accusé du meurtre d'une serveuse."
-    }],
-    "generique": [
-      "Humphrey Bogart",
-      "Gloria Grahame",
-      "Frank Lovejoy"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un scénariste hollywoodien, en proie à des crises de violence, est accusé du meurtre d'une serveuse."
+      }
     ],
+    "generique": ["Humphrey Bogart", "Gloria Grahame", "Frank Lovejoy"],
     "adaptation": "D'après le roman _In a Lonely Place_ de Dorothy B. Hughes."
   },
   {
@@ -509,14 +483,12 @@
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "En 1972, Nicholas Ray enseigne à l'université le cinéma à de jeunes étudiants en les incitant à faire un film sans scénario, mais inspiré de leurs histoires personnelles et recourant à diverses expérimentations."
-    }],
-    "generique": [
-      "Richie Bock",
-      "Tom Farrell",
-      "Nicholas Ray"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1972, Nicholas Ray enseigne à l'université le cinéma à de jeunes étudiants en les incitant à faire un film sans scénario, mais inspiré de leurs histoires personnelles et recourant à diverses expérimentations."
+      }
+    ],
+    "generique": ["Richie Bock", "Tom Farrell", "Nicholas Ray"]
   }
 ]

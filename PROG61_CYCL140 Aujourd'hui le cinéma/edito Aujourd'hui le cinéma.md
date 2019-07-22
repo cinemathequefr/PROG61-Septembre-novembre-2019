@@ -1,0 +1,9 @@
+C'est avec Mikhaël Hers et son bouleversant _Amanda_ que nous entamerons la cinquième saison de ce rendez-vous régulier et défricheur de la Cinémathèque. Pour lui, comme pour beaucoup d'autres cinéastes invités au cours de ce trimestre, des cartes blanches permettront ce dialogue unique entre le cinéma actuel et son histoire. C'est ainsi que nous vous donnerons aussi rendez-vous avec Ken Loach, Eric Khoo, Aki Kaurismäki, Jean Eustache, Forough Farrokhzad, ou encore Jacques Doillon pour une soirée exceptionnelle construite autour de _Demain il fera beau_, premier film de l'écrivain Jean-Baptiste Del Amo (_Le Sel_, _Règne animal_).
+
+Nous aurons le plaisir de montrer en avant-première dans le cadre de cette programmation les nouveaux films de Frank Beauvais, _Ne Croyez surtout pas que je hurle_ (sélectionné cette année à la Berlinale) et d'Olivier Zabat, _Arguments_ (sélectionné à Locarno).
+
+Nous retrouverons bien sûr aussi nos partenaires habituels, La Fondation Gan pour le cinéma, qui nous permettra de remontrer en salles les beaux films de Fejria Deliba (_Le Petit chat est mort_, _D'une pierre deux coups_), L'Agence du court métrage (pour une nouvelle salve de « Premiers pas » de cinéastes dont les nouveaux films sont dans les salles, et pour célébrer les 30 ans de la revue _Bref_), les festivals de Biarritz et de Brasília (pour le meilleur du cinéma latino contemporain), et bien sûr Arte pour notre rendez-vous annuel, projetant sur l'écran de la salle Franju, en présence de leurs auteurs, une sélection des courts métrages que la chaîne a coproduits cette année.
+
+Mais Aujourd'hui le cinéma, c'est avant tout l'excitation de partager nos enthousiasmes sur des œuvres naissantes et peu connues. Venez découvrir les premiers films de Martin Tronquart, Lou Rambert Preiss, Chrystele Nicot, Elena López Riera, Anne Alix, vous ne serez pas déçus !
+
+Caroline Maleville et Bernard Payen
